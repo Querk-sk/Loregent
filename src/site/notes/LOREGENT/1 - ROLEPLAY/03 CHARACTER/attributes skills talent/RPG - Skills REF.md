@@ -125,7 +125,7 @@ Accurate throwing with small and light objects (up to 30 cm in size and 0.5 kg i
 
 
 #### Navigation RPG
-
+[[MAIN - LoreGent\|HOME]]
 **Basic info about RPG**
 [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|What is RPG]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|Chronology of Game]] , [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|Travel]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What does the character know\|What does the character know?]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|Actions]] , [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Conflict\|Conflict]] ,
 **Dice**

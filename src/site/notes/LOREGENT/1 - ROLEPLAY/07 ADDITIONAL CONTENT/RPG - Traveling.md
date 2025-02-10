@@ -310,7 +310,7 @@ When a character needs to, they can speed up their action (e.g., disarming a bom
 
 
 #### Navigation RPG
-
+[[MAIN - LoreGent\|HOME]]
 **Basic info about RPG**
 [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|What is RPG]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|Chronology of Game]] , [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|Travel]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What does the character know\|What does the character know?]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|Actions]] , [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Conflict\|Conflict]] ,
 **Dice**
@@ -451,7 +451,7 @@ For longer journeys, it is recommended to give the characters at least one rest 
 
 
 #### Navigation RPG
-
+[[MAIN - LoreGent\|HOME]]
 **Basic info about RPG**
 [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|What is RPG]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|Chronology of Game]] , [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|Travel]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What does the character know\|What does the character know?]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|Actions]] , [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Conflict\|Conflict]] ,
 **Dice**

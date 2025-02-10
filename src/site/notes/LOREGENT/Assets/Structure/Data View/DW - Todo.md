@@ -7,8 +7,8 @@
 - Test it
 
 ### Tag : Do now !!
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/Rozmýšľanie nad kúzlami\|Rozmýšľanie nad kúzlami]]
+- [[MAIN - LoreGent\|MAIN - LoreGent]]
 
 { .block-language-dataview}
 
@@ -21,7 +21,6 @@
 
 Na nestabilných pravidlách sa stále pracuje a veľa vecí sa v nich bude meniť.
 
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|RPG - Traveling]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random World\|RPG - Random World]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random World Rules\|RPG - Random World Rules]]
@@ -48,6 +47,7 @@ Na nestabilných pravidlách sa stále pracuje a veľa vecí sa v nich bude meni
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|RPG - What is RPG]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What does the character know\|RPG - What does the character know]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|RPG - Game chronology]]
+- [[MAIN - LoreGent\|MAIN - LoreGent]]
 
 { .block-language-dataview}
 
@@ -55,7 +55,6 @@ Na nestabilných pravidlách sa stále pracuje a veľa vecí sa v nich bude meni
 
 Tieto pravidlá sa budú ešte meniť, ale zmeny nebudú veľké.
 
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Story cubes\|RPG - Story cubes]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
@@ -85,6 +84,7 @@ Tieto pravidlá sa budú ešte meniť, ale zmeny nebudú veľké.
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice of Chance\|RPG - Dice of Chance]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Assistance\|RPG - Assistance]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|RPG - Actions]]
+- [[MAIN - LoreGent\|MAIN - LoreGent]]
 
 { .block-language-dataview}
 ### Links

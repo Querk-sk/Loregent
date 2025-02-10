@@ -81,7 +81,7 @@ Learn more about this topic in the chapter on [[LOREGENT/1 - ROLEPLAY/03 CHARACT
 
 
 #### Navigation RPG
-
+[[MAIN - LoreGent\|HOME]]
 **Basic info about RPG**
 [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|What is RPG]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|Chronology of Game]] , [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|Travel]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What does the character know\|What does the character know?]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|Actions]] , [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Conflict\|Conflict]] ,
 **Dice**

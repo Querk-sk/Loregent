@@ -30,11 +30,9 @@ The player rolls the dice and depending on the outcome, it will be seen if they 
 > - (+) 3 base dice (which are always given) 
 > - = (8 dice)
 
-### Tagy Navigácia Linky : 
-- Stabilita : #stability/mild_stability 
-- Verzia : #version/2024/12 
-
-#### Spojiť s : 
+### TAG and LINK : 
+- Stability : #stability/mild_stability 
+- Version : #version/2024/12 
  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -43,7 +41,7 @@ The player rolls the dice and depending on the outcome, it will be seen if they 
 
 
 #### Navigation RPG
-
+[[MAIN - LoreGent\|HOME]]
 **Basic info about RPG**
 [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|What is RPG]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|Chronology of Game]] , [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|Travel]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What does the character know\|What does the character know?]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|Actions]] , [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Conflict\|Conflict]] ,
 **Dice**
@@ -68,9 +66,9 @@ The player rolls the dice and depending on the outcome, it will be seen if they 
 </div></div>
 
 
-**V kapitole** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 01 A - Actions a Conflict\|RPG - CH 01 A - Actions a Conflict]] 
+****In chapter**** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 01 A - Actions a Conflict\|RPG - CH 01 A - Actions a Conflict]] 
 
-#### Poznámky nalinkované sem
+#### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}

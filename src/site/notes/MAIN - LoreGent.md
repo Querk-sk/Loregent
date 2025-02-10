@@ -5,7 +5,7 @@
 
 ![YTB_LOREGENT_Logo_main.png|200](/img/user/LOREGENT/Assets/Files/IMG/YTB_LOREGENT_Logo_main.png)
 <!-- Kontrola prekladu ---- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]] -->
-# LoreGent Roleplay - 09.02.2025 - in DEV
+# LoreGent Roleplay - 10.02.2025 - in Development
 
 [[LOREGENT/1 - ROLEPLAY/z RPG variables/LoreGent\|LoreGent]] is a tabletop board game played by four players. One is the narrator, who tells the story, and the other three are players who react to the story as characters. Personally, I use [[LOREGENT/1 - ROLEPLAY/z RPG variables/LoreGent\|LoreGent]] as a system for writing stories. The name was created by combining the words "Lore" (as in story) and "Cogent" (as in [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Cogent Role-play Attribution\|Cogent roleplay]], on which this RPG system is based). Our system includes several documents :
 - **ROLEPLAY**: Rules for role-playing games.    
@@ -66,7 +66,7 @@ If you have any ideas, please email me at mail.SQ.society@gmail.com with the sub
 
 
 #### Navigation RPG
-
+[[MAIN - LoreGent\|HOME]]
 **Basic info about RPG**
 [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|What is RPG]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|Chronology of Game]] , [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|Travel]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What does the character know\|What does the character know?]] , [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|Actions]] , [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Conflict\|Conflict]] ,
 **Dice**
@@ -90,7 +90,7 @@ If you have any ideas, please email me at mail.SQ.society@gmail.com with the sub
 
 </div></div>
 
-
+<!--
 > [!tip]- UNIVERSE - placeholder
 >
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-uni/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -158,7 +158,7 @@ A ozaj - aj knižka -
 
 </div></div>
 
-
+-->
 ## The Labels for notes and documents
 
 <!-- These are literally the tags settings for this obsidian. Well, basically for the tag to exist, it must be written somewhere. And when you don't have any notes with the tag, it will disappear.  Like the --check-- tag  -->
@@ -187,8 +187,8 @@ A ozaj - aj knižka -
 - Test it
 
 ### Tag : Do now !!
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/Rozmýšľanie nad kúzlami\|Rozmýšľanie nad kúzlami]]
+- [[MAIN - LoreGent\|MAIN - LoreGent]]
 
 { .block-language-dataview}
 
@@ -201,7 +201,6 @@ A ozaj - aj knižka -
 
 Na nestabilných pravidlách sa stále pracuje a veľa vecí sa v nich bude meniť.
 
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|RPG - Traveling]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random World\|RPG - Random World]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random World Rules\|RPG - Random World Rules]]
@@ -228,6 +227,7 @@ Na nestabilných pravidlách sa stále pracuje a veľa vecí sa v nich bude meni
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|RPG - What is RPG]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What does the character know\|RPG - What does the character know]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|RPG - Game chronology]]
+- [[MAIN - LoreGent\|MAIN - LoreGent]]
 
 { .block-language-dataview}
 
@@ -235,7 +235,6 @@ Na nestabilných pravidlách sa stále pracuje a veľa vecí sa v nich bude meni
 
 Tieto pravidlá sa budú ešte meniť, ale zmeny nebudú veľké.
 
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Story cubes\|RPG - Story cubes]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
@@ -265,6 +264,7 @@ Tieto pravidlá sa budú ešte meniť, ale zmeny nebudú veľké.
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice of Chance\|RPG - Dice of Chance]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Assistance\|RPG - Assistance]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|RPG - Actions]]
+- [[MAIN - LoreGent\|MAIN - LoreGent]]
 
 { .block-language-dataview}
 ### Links
