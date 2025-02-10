@@ -21,7 +21,6 @@
 
 Na nestabilných pravidlách sa stále pracuje a veľa vecí sa v nich bude meniť.
 
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|RPG - Traveling]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random World\|RPG - Random World]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random World Rules\|RPG - Random World Rules]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Weather\|RPG - Random Weather]]
@@ -44,10 +43,11 @@ Na nestabilných pravidlách sa stále pracuje a veľa vecí sa v nich bude meni
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice in general\|RPG - Dice in general]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Advantage and Disadvantage\|RPG - Advantage and Disadvantage]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Other Challenge Levels\|RPG - Other Challenge Levels]]
-- [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|RPG - What is RPG]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What does the character know\|RPG - What does the character know]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|RPG - Game chronology]]
 - [[MAIN - LoreGent\|MAIN - LoreGent]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|RPG - Traveling]]
+- [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|RPG - What is RPG]]
 
 { .block-language-dataview}
 

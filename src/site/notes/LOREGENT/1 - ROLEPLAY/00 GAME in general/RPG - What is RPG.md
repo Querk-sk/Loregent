@@ -22,7 +22,7 @@ At the beginning of the game, the Narrator tells what will be played and in whic
 
 In the story, a situation may arise that the players need to respond to, or the players themselves may want to perform an action. In that case, they ask the narrator which skill they should use (or they choose one themselves and ask if they can). The narrator determines the difficulty level of the action. The player rolls dice, with the number of dice rolled being calculated based on the character's attributes and statistics. The number of successes rolled on the dice determines how the story will continue.
 
-> [!example] Príklad z hrania
+> [!example]
 > Narrator 
 >>You opened the dungeon door, and as you walked down the corridor, you suddenly saw the shadow of a person on the floor. 
 >
