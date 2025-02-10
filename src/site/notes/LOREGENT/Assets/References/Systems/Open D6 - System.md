@@ -10,8 +10,8 @@
 
 #### Poznámky nalinkované sem
 - [[LOREGENT/Assets/Structure/Map of content/MOC - References\|MOC - References]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 A - Foreword and Acknowledgements\|RPG - CH 00 A - Foreword and Acknowledgements]]
 
 { .block-language-dataview}

@@ -47,8 +47,8 @@ z [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skil
 
 #### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Quick check\|RPG - Quick check]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Chase\|RPG - Chase]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Quick check\|RPG - Quick check]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Other Challenge Levels\|RPG - Other Challenge Levels]]
 
 { .block-language-dataview}

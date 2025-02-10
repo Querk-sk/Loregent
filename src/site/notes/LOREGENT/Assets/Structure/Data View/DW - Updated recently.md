@@ -12,10 +12,10 @@
 | [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|RPG - Self-assistance]]                                                 | 10.02.2025 | 25.01.2024 |
 | [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Quick Reaction\|RPG - Quick Reaction]]                                                   | 10.02.2025 | 21.01.2024 |
 | [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Quick check\|RPG - Quick check]]                                                         | 10.02.2025 | 21.01.2024 |
-| [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 01 C - Dice roll\|RPG - CH 01 C - Dice roll]]                             | 10.02.2025 | 09.06.2024 |
-| [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]                                             | 10.02.2025 | 23.06.2024 |
-| [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG Idea - Creature Collection\|RPG Idea - Creature Collection]]                 | 09.02.2025 | 30.06.2024 |
-| [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|RPG - Traveling]]                                               | 09.02.2025 | 02.06.2024 |
+| [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 05 - Magic in general\|RPG - CH 05 - Magic in general]]                   | 10.02.2025 | 09.06.2024 |
+| [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 06 - Additional content\|RPG - CH 06 - Additional content]]               | 10.02.2025 | 09.06.2024 |
+| [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 03 - Points\|RPG - CH 03 - Points]]                                       | 10.02.2025 | 09.06.2024 |
+| [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 04 - Combat\|RPG - CH 04 - Combat]]                                       | 10.02.2025 | 09.06.2024 |
 
 { .block-language-dataview}
 
