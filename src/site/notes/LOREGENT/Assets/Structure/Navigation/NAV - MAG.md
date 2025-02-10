@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/structure/navigation/nav-mag/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/structure/navigation/nav-mag/"}
 ---
 
 #### Navigácia MAG

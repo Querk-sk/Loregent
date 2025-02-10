@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-weapons/piercing-weapons/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-weapons/piercing-weapons/"}
 ---
 
 #### Piercing Weapons

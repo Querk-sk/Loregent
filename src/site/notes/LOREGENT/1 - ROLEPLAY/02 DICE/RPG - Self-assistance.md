@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/02-dice/rpg-self-assistance/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/02-dice/rpg-self-assistance/"}
 ---
 
 ### Self-assistance

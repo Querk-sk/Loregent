@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/references/words/pemza/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/references/words/pemza/"}
 ---
 
 ### Pemza

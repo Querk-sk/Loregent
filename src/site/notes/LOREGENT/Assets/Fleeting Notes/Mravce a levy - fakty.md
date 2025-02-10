@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/mravce-a-levy-fakty/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/mravce-a-levy-fakty/"}
 ---
 
 #### Mravce a levy : 

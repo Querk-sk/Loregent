@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-skills-talent-etc/soc/deception/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-skills-talent-etc/soc/deception/"}
 ---
 
 
@@ -32,12 +32,12 @@ Performing in theater, Putting on a show, Playing pantomime, Disguising
 </div></div>
 
 #### Poznámky nalinkované sem
+- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice in general\|RPG - Dice in general]]
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Conflict\|RPG - Conflict]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills\|RPG - Other skills]]
-- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice in general\|RPG - Dice in general]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Conflict\|RPG - Conflict]]
 
 { .block-language-dataview}
 

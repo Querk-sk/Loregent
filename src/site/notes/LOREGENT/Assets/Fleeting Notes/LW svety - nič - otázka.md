@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/lw-svety-nic-otazka/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/lw-svety-nic-otazka/"}
 ---
 
 

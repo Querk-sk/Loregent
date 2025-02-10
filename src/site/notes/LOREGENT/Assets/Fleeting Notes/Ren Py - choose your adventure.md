@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/ren-py-choose-your-adventure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/ren-py-choose-your-adventure/"}
 ---
 
 

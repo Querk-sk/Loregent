@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/04-points/rpg-idea-items-in-inventory/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/04-points/rpg-idea-items-in-inventory/"}
 ---
 
 ### Items in Inventory

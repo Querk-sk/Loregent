@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/02-dice/rpg-advantage-and-disadvantage/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/02-dice/rpg-advantage-and-disadvantage/"}
 ---
 
 

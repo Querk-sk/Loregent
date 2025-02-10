@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/references/systems/open-d6-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/references/systems/open-d6-system/"}
 ---
 
 #### Open D6

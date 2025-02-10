@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-character/variables-character-size/smaller-character/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-character/variables-character-size/smaller-character/"}
 ---
 
 

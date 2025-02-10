@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/04-points/rpg-points-of-sacrifice/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/04-points/rpg-points-of-sacrifice/"}
 ---
 
 ### [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|Points of Sacrifice]]

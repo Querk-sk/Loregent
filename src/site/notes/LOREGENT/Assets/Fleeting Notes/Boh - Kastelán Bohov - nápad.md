@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/boh-kastelan-bohov-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/boh-kastelan-bohov-napad/"}
 ---
 
 #### Kastelán Bohov:

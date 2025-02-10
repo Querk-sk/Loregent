@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-mechanics/quick-solution-to-the-situation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-mechanics/quick-solution-to-the-situation/"}
 ---
 
 #### INFO about Quick solution to the situation

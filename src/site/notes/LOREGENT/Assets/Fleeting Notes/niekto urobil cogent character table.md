@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/niekto-urobil-cogent-character-table/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/niekto-urobil-cogent-character-table/"}
 ---
 
 

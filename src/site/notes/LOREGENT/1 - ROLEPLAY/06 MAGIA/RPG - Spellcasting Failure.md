@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/06-magia/rpg-spellcasting-failure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/06-magia/rpg-spellcasting-failure/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/07-additional-content/rpg-civilizations/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/07-additional-content/rpg-civilizations/"}
 ---
 
 
@@ -246,8 +246,8 @@ The terrain is the most important part of the map. Some squares may add dice to 
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 06 - Additional content\|RPG - CH 06 - Additional content]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/Assets/Templates/UNI - Worlds - template\|UNI - Worlds - template]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/lso-ako-overwatch/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/lso-ako-overwatch/"}
 ---
 
 

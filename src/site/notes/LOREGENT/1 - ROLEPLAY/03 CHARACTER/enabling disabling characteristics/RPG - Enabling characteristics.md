@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/03-character/enabling-disabling-characteristics/rpg-enabling-characteristics/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/03-character/enabling-disabling-characteristics/rpg-enabling-characteristics/"}
 ---
 
 ### Enabling characteristics
@@ -298,7 +298,7 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 02 D - Enabling and disabling characteristics, perks\|RPG - CH 02 D - Enabling and disabling characteristics, perks]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}

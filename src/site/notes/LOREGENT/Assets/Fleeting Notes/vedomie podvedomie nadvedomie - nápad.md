@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/vedomie-podvedomie-nadvedomie-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/vedomie-podvedomie-nadvedomie-napad/"}
 ---
 
 #### Vedomie podvedomie nadvedomie : 

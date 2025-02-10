@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/references/authors/game-maker-s-toolkit/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/references/authors/game-maker-s-toolkit/"}
 ---
 
 #### Game Maker's Toolkit

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/boh-diabol-spravodlivosti-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/boh-diabol-spravodlivosti-napad/"}
 ---
 
 #### Diabol spravodlivosti - nápad : 

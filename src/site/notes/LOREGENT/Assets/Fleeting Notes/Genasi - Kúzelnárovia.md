@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/genasi-kuzelnarovia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/genasi-kuzelnarovia/"}
 ---
 
 

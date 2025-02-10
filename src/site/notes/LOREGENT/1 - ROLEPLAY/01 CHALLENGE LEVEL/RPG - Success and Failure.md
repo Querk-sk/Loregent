@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/01-challenge-level/rpg-success-and-failure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/01-challenge-level/rpg-success-and-failure/"}
 ---
 
 ### Success and Failure

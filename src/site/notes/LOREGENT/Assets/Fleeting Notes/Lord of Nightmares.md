@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/lord-of-nightmares/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/lord-of-nightmares/"}
 ---
 
 #### V [[LOREGENT/Assets/Fleeting Notes/Slayers\|Slayers]]

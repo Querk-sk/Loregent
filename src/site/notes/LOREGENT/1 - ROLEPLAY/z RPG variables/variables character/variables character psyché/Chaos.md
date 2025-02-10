@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-character/variables-character-psyche/chaos/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-character/variables-character-psyche/chaos/"}
 ---
 
 #### Chaos (character psyché)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-character/variables-character-psyche/optimism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-character/variables-character-psyche/optimism/"}
 ---
 
 #### Optimism (character psyché)

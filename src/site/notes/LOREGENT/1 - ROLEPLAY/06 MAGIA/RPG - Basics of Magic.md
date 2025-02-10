@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/06-magia/rpg-basics-of-magic/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/06-magia/rpg-basics-of-magic/"}
 ---
 
 
@@ -107,11 +107,11 @@ Unless otherwise specified, magic is neutral. Offensive spells can harm allies, 
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 05 - Magic in general\|RPG - CH 05 - Magic in general]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG Idea - Opportunity Dice\|RPG Idea - Opportunity Dice]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG Idea - Opportunity Dice\|RPG Idea - Opportunity Dice]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
 

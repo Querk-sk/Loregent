@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/pani-zo-zlata/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/pani-zo-zlata/"}
 ---
 
 

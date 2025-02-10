@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/references/systems/gateway-rp/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/references/systems/gateway-rp/"}
 ---
 
 #### Gateway RP

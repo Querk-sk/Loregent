@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-skills-talent-etc/z-ostatne/pilot-and-ride/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-skills-talent-etc/z-ostatne/pilot-and-ride/"}
 ---
 
 #### Pilot and Ride

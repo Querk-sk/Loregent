@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/01-challenge-level/rpg-idea-saving-dice/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/01-challenge-level/rpg-idea-saving-dice/"}
 ---
 
 #### Saving dice : 

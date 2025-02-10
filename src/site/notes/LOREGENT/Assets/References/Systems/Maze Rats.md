@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/references/systems/maze-rats/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/references/systems/maze-rats/"}
 ---
 
 #### Maze Rats

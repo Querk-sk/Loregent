@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/nazvy-pre-knihy-a-kapitoly-a-youtube-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/nazvy-pre-knihy-a-kapitoly-a-youtube-napad/"}
 ---
 
 

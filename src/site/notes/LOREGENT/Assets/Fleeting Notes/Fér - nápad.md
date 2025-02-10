@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/fer-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/fer-napad/"}
 ---
 
 #### Fér : 

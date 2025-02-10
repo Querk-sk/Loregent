@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/kral-nocnych-mor/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/kral-nocnych-mor/"}
 ---
 
 [[LOREGENT/Assets/Structure/Map of content/MOC - Fleeting Notes\|MOC - Fleeting Notes]]

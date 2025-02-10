@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/magia-pocitacova-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/magia-pocitacova-napad/"}
 ---
 
 #### Počítačová mágia v počítačovom svete : 

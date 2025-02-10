@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/03-character/attributes-skills-talent/rpg-talent/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/03-character/attributes-skills-talent/rpg-talent/"}
 ---
 
 ### Talent

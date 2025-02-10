@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/03-character/character-in-general/rpg-character-psyche/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/03-character/character-in-general/rpg-character-psyche/"}
 ---
 
 ### Nature of the Character
@@ -217,7 +217,7 @@ A mechanic could have learned their craft at school or from their father. They m
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 02 A - Character in general\|RPG - CH 02 A - Character in general]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}

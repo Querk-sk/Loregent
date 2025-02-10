@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/07-additional-content/rpg-random-world-rules/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/07-additional-content/rpg-random-world-rules/"}
 ---
 
 

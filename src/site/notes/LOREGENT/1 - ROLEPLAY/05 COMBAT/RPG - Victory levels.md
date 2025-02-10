@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/05-combat/rpg-victory-levels/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/05-combat/rpg-victory-levels/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/obsidian-help/dataview-syntax-navod/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/obsidian-help/dataview-syntax-navod/"}
 ---
 
 ## Table

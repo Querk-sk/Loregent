@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/strategia-na-ovladnutie-systemu-svetov-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/strategia-na-ovladnutie-systemu-svetov-napad/"}
 ---
 
 

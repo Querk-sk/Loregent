@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/structure/map-of-content/story/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/structure/map-of-content/story/"}
 ---
 
 #### Poznámky nalinkované sem

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/00-game-in-general/rpg-game-chronology/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/00-game-in-general/rpg-game-chronology/"}
 ---
 
 ### Game chronology
@@ -87,9 +87,9 @@ At the end of each game, there should be a brief summary of everything that happ
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 B - About a game and a story\|RPG - CH 00 B - About a game and a story]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/Assets/Structure/Navigation/NAV - MOD\|NAV - MOD]]
 - [[LOREGENT/Assets/Structure/Navigation/NAV - MAG\|NAV - MAG]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
 

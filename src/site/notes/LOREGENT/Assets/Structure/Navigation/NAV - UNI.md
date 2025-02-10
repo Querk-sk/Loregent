@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/structure/navigation/nav-uni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/structure/navigation/nav-uni/"}
 ---
 
 #### Navigácia UNI

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/01-challenge-level/rpg-idea-scale-of-failure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/01-challenge-level/rpg-idea-scale-of-failure/"}
 ---
 
 

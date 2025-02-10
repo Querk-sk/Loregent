@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-mechanics/enabling-characteristics/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-mechanics/enabling-characteristics/"}
 ---
 
 #### INFO Enabling characteristics

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/pribeh-plocha-zem-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/pribeh-plocha-zem-napad/"}
 ---
 
 #### Svet z LW universe - plochá zem : 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/03-character/character-in-general/rpg-groups-of-characters/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/03-character/character-in-general/rpg-groups-of-characters/"}
 ---
 
 ### Groups of characters

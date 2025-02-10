@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/pomsta-citat/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/pomsta-citat/"}
 ---
 
 #### Pomsta citát : 

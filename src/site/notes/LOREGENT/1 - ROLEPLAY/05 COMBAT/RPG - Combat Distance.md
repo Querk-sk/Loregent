@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/05-combat/rpg-combat-distance/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/05-combat/rpg-combat-distance/"}
 ---
 
 ### Distance

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/navody-pre-pribehy/preco-su-isekai-zle/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/navody-pre-pribehy/preco-su-isekai-zle/"}
 ---
 
 #### Prečo sú isekai zlé

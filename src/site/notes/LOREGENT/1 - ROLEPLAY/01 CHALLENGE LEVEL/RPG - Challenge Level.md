@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/01-challenge-level/rpg-challenge-level/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/01-challenge-level/rpg-challenge-level/"}
 ---
 
 ### Challenge Level

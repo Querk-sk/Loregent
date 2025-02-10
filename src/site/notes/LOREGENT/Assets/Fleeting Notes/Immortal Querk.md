@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/immortal-querk/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/immortal-querk/"}
 ---
 
 [[LOREGENT/Assets/Structure/Map of content/MOC - Fleeting Notes\|MOC - Fleeting Notes]]

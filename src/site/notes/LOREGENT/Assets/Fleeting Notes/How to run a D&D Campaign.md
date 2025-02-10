@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/how-to-run-a-d-and-d-campaign/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/how-to-run-a-d-and-d-campaign/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/00-game-in-general/rpg-what-is-rpg/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/00-game-in-general/rpg-what-is-rpg/"}
 ---
 
 ### What is an RPG? 
@@ -96,9 +96,9 @@ But everything must ultimately be approved by the Narrator. Therefore, it is nec
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 B - About a game and a story\|RPG - CH 00 B - About a game and a story]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/Assets/Structure/Navigation/NAV - MOD\|NAV - MOD]]
 - [[LOREGENT/Assets/Structure/Navigation/NAV - MAG\|NAV - MAG]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
 

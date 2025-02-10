@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/structure/navigation/nav-rpg/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/structure/navigation/nav-rpg/"}
 ---
 
 #### Navigation RPG

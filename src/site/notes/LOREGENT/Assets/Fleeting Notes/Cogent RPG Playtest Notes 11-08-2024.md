@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/cogent-rpg-playtest-notes-11-08-2024/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/cogent-rpg-playtest-notes-11-08-2024/"}
 ---
 
 ## Cogent RPG Playtest Notes

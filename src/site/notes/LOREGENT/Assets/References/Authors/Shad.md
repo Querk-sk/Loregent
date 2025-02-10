@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/references/authors/shad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/references/authors/shad/"}
 ---
 
 #### Shad

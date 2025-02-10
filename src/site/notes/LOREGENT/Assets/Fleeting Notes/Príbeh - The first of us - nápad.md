@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/pribeh-the-first-of-us-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/pribeh-the-first-of-us-napad/"}
 ---
 
 #### The First of Us :

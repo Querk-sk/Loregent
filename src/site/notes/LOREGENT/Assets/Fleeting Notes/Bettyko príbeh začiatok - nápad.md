@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/bettyko-pribeh-zaciatok-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/bettyko-pribeh-zaciatok-napad/"}
 ---
 
 

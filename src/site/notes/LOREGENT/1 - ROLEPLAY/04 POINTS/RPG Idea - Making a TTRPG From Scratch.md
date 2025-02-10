@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/04-points/rpg-idea-making-a-ttrpg-from-scratch/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/04-points/rpg-idea-making-a-ttrpg-from-scratch/"}
 ---
 
 

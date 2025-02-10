@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/02-dice/rpg-skill-check/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/02-dice/rpg-skill-check/"}
 ---
 
 

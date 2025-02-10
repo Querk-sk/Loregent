@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/chram-deti/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/chram-deti/"}
 ---
 
 [[LOREGENT/Assets/Structure/Map of content/MOC - Fleeting Notes\|MOC - Fleeting Notes]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/structure/map-of-content/moc-obsidian-help/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/structure/map-of-content/moc-obsidian-help/"}
 ---
 
 

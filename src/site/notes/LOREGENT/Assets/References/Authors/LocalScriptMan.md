@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/references/authors/local-script-man/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/references/authors/local-script-man/"}
 ---
 
 

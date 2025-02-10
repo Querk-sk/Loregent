@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/03-character/enabling-disabling-characteristics/rpg-perk/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/03-character/enabling-disabling-characteristics/rpg-perk/"}
 ---
 
 
@@ -227,10 +227,10 @@ Each character can receive only one blessing. However, they may receive multiple
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 02 D - Enabling and disabling characteristics, perks\|RPG - CH 02 D - Enabling and disabling characteristics, perks]] 
 
 #### Notes linked here
+- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/perk\|perk]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/blessing\|blessing]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
-- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 
 { .block-language-dataview}

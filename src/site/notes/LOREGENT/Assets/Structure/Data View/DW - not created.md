@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/structure/data-view/dw-not-created/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/structure/data-view/dw-not-created/"}
 ---
 
 [[LOREGENT/Assets/Structure/Map of content/MOC - Dataviews\|MOC - Dataviews]]

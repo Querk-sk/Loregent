@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/02-dice/rpg-chase/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/02-dice/rpg-chase/"}
 ---
 
 

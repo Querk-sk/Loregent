@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/00-game-in-general/rpg-idea-narrative-structure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/00-game-in-general/rpg-idea-narrative-structure/"}
 ---
 
 #### Narrative Structure: 

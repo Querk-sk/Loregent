@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/peniazky-na-robenie-magie-z-magicians/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/peniazky-na-robenie-magie-z-magicians/"}
 ---
 
 

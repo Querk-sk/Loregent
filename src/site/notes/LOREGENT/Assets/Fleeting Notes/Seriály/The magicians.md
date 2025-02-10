@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/serialy/the-magicians/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/serialy/the-magicians/"}
 ---
 
 #### Poznámky nalinkované sem

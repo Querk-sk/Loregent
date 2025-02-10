@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/07-additional-content/rpg-idea-dungeon-creation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/07-additional-content/rpg-idea-dungeon-creation/"}
 ---
 
 #### The Pointy Hat Method of Dungeon Creation

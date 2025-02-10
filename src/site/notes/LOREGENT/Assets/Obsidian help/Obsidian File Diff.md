@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/obsidian-help/obsidian-file-diff/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/obsidian-help/obsidian-file-diff/"}
 ---
 
 # Obsidian File Diff

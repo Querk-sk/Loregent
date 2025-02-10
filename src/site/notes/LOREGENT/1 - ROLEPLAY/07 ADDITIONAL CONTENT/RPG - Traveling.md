@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/07-additional-content/rpg-traveling/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/07-additional-content/rpg-traveling/"}
 ---
 
 
@@ -338,10 +338,10 @@ When a character needs to, they can speed up their action (e.g., disarming a bom
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 01 B - Challenge level\|RPG - CH 01 B - Challenge level]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/Assets/Structure/Navigation/NAV - MOD\|NAV - MOD]]
 - [[LOREGENT/Assets/Structure/Navigation/NAV - MAG\|NAV - MAG]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
 
@@ -480,10 +480,10 @@ For longer journeys, it is recommended to give the characters at least one rest 
 From : [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG Idea - Traveling Event System\|RPG Idea - Traveling Event System]]
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/Assets/Structure/Navigation/NAV - MOD\|NAV - MOD]]
 - [[LOREGENT/Assets/Structure/Navigation/NAV - MAG\|NAV - MAG]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
 

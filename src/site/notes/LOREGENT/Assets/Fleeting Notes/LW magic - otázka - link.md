@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/lw-magic-otazka-link/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/lw-magic-otazka-link/"}
 ---
 
 #### Čo vie všetko mágia ??

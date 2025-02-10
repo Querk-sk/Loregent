@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/hack-your-brain-with-elaborate-coping-mechanisms-navod/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/hack-your-brain-with-elaborate-coping-mechanisms-navod/"}
 ---
 
 #### Hack Your Brain With Elaborate Coping Mechanisms

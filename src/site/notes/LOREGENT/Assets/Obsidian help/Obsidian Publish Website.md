@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/obsidian-help/obsidian-publish-website/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/obsidian-help/obsidian-publish-website/"}
 ---
 
 

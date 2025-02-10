@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/structure/map-of-content/moc-fleeting-notes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/structure/map-of-content/moc-fleeting-notes/"}
 ---
 
 ### Map of content for - Fleeting Notes

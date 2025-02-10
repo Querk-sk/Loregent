@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/references/authors/javk/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/references/authors/javk/"}
 ---
 
 #### Javk

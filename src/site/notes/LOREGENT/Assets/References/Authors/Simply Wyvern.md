@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/references/authors/simply-wyvern/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/references/authors/simply-wyvern/"}
 ---
 
 #### Simply Wyvern

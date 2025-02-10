@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/00-game-in-general/rpg-actions/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/00-game-in-general/rpg-actions/"}
 ---
 
 

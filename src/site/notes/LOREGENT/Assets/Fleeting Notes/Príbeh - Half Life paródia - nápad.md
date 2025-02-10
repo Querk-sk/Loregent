@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/pribeh-half-life-parodia-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/pribeh-half-life-parodia-napad/"}
 ---
 
 #### Half Life : 

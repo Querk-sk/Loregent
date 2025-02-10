@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/structure/map-of-content/moc-board-games/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/structure/map-of-content/moc-board-games/"}
 ---
 
 ### Map of content for - Board Games

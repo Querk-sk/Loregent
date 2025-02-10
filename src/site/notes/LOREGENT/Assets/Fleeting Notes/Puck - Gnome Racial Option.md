@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/puck-gnome-racial-option/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/puck-gnome-racial-option/"}
 ---
 
 

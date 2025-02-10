@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/structure/navigation/nav-mod/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/structure/navigation/nav-mod/"}
 ---
 
 #### Navigácia MODULES

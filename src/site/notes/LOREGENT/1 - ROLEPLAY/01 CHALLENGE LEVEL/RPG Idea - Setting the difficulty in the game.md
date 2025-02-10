@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/01-challenge-level/rpg-idea-setting-the-difficulty-in-the-game/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/01-challenge-level/rpg-idea-setting-the-difficulty-in-the-game/"}
 ---
 
 #### Setting the difficulty in the game : 

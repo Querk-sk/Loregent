@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/navody-pre-pribehy/pixar-design-process/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/navody-pre-pribehy/pixar-design-process/"}
 ---
 
 #### Pixar design process : 

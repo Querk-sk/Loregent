@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/structure/data-view/dw-rmk/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/structure/data-view/dw-rmk/"}
 ---
 
 ### RMK

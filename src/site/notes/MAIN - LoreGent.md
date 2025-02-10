@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/main-lore-gent/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/main-lore-gent/","tags":["gardenEntry"]}
 ---
 
 
 ![YTB_LOREGENT_Logo_main.png|200](/img/user/LOREGENT/Assets/Files/IMG/YTB_LOREGENT_Logo_main.png)
-Kontrola prekladu ---- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]]
-
+<!-- Kontrola prekladu ---- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]] -->
 # LoreGent Roleplay - 09.02.2025 - in DEV
 
 [[LOREGENT/1 - ROLEPLAY/z RPG variables/LoreGent\|LoreGent]] is a tabletop board game played by four players. One is the narrator, who tells the story, and the other three are players who react to the story as characters. Personally, I use [[LOREGENT/1 - ROLEPLAY/z RPG variables/LoreGent\|LoreGent]] as a system for writing stories. The name was created by combining the words "Lore" (as in story) and "Cogent" (as in [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Cogent Role-play Attribution\|Cogent roleplay]], on which this RPG system is based). Our system includes several documents :
@@ -188,8 +187,8 @@ A ozaj - aj knižka -
 - Test it
 
 ### Tag : Do now !!
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/Rozmýšľanie nad kúzlami\|Rozmýšľanie nad kúzlami]]
 - [[MAIN - LoreGent\|MAIN - LoreGent]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/Rozmýšľanie nad kúzlami\|Rozmýšľanie nad kúzlami]]
 
 { .block-language-dataview}
 
@@ -202,33 +201,33 @@ A ozaj - aj knižka -
 
 Na nestabilných pravidlách sa stále pracuje a veľa vecí sa v nich bude meniť.
 
+- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|RPG - Traveling]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random World Rules\|RPG - Random World Rules]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random World\|RPG - Random World]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random World Rules\|RPG - Random World Rules]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Weather\|RPG - Random Weather]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Encounter\|RPG - Random Encounter]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random conflict\|RPG - Random conflict]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Animal Companions\|RPG - Animal Companions]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|RPG - Victory levels]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance\|RPG - Combat Distance]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice in general\|RPG - Dice in general]]
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Advantage and Disadvantage\|RPG - Advantage and Disadvantage]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk\|RPG - Perk]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills INT\|RPG - Skills INT]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice in general\|RPG - Dice in general]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Advantage and Disadvantage\|RPG - Advantage and Disadvantage]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Other Challenge Levels\|RPG - Other Challenge Levels]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|RPG - What is RPG]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What does the character know\|RPG - What does the character know]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|RPG - Game chronology]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]]
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 
 { .block-language-dataview}
 
@@ -236,6 +235,7 @@ Na nestabilných pravidlách sa stále pracuje a veľa vecí sa v nich bude meni
 
 Tieto pravidlá sa budú ešte meniť, ale zmeny nebudú veľké.
 
+- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Story cubes\|RPG - Story cubes]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
@@ -246,26 +246,25 @@ Tieto pravidlá sa budú ešte meniť, ale zmeny nebudú veľké.
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Items\|RPG - Points of Items]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Change in Attributes and Skills\|RPG - Change in Attributes and Skills]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Energy\|RPG - Points of Energy]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Other points\|RPG - Other points]]
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice of Chance\|RPG - Dice of Chance]]
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Assistance\|RPG - Assistance]]
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Change in Attributes and Skills\|RPG - Change in Attributes and Skills]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Size of the character\|RPG - Size of the character]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters\|RPG - Groups of characters]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character Psyche\|RPG - Character Psyche]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills STR\|RPG - Skills STR]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills SOC\|RPG - Skills SOC]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills REF\|RPG - Skills REF]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|RPG - Skills in general]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Size of the character\|RPG - Size of the character]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters\|RPG - Groups of characters]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character Psyche\|RPG - Character Psyche]]
-- [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|RPG - Actions]]
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Luck\|RPG - Luck]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills\|RPG - Other skills]]
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Luck\|RPG - Luck]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice of Chance\|RPG - Dice of Chance]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Assistance\|RPG - Assistance]]
+- [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|RPG - Actions]]
 
 { .block-language-dataview}
 ### Links
@@ -280,8 +279,8 @@ Tieto pravidlá sa budú ešte meniť, ale zmeny nebudú veľké.
 
 These notes are not in the main navigation, because I forgot to add them, or they are in the ideas folder.
 
-- [[LOREGENT/Assets/Structure/Map of content/MOC - Obsidian Help\|MOC - Obsidian Help]]
 - [[LOREGENT/Assets/Structure/Map of content/MOC - References\|MOC - References]]
+- [[LOREGENT/Assets/Structure/Map of content/MOC - Obsidian Help\|MOC - Obsidian Help]]
 - [[LOREGENT/Assets/Structure/Map of content/MOC - MAGIA\|MOC - MAGIA]]
 - [[LOREGENT/Assets/Structure/Map of content/MOC - Ideas\|MOC - Ideas]]
 - [[LOREGENT/Assets/Structure/Map of content/MOC - Fleeting Notes\|MOC - Fleeting Notes]]

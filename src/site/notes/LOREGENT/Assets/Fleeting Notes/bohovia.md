@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/bohovia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/bohovia/"}
 ---
 
 

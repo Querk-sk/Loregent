@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/plane-chart/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/plane-chart/"}
 ---
 
 

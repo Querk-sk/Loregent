@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/structure/map-of-content/moc-ideas/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/structure/map-of-content/moc-ideas/"}
 ---
 
 ### Map of content for - Ideas

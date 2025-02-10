@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-mechanics/disabling-characteristic/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/1-roleplay/z-rpg-variables/variables-mechanics/disabling-characteristic/"}
 ---
 
 #### INFO Disabling Characteristic
@@ -10,8 +10,8 @@ Every character has some sort of disadvantage. Each character has their difficul
 
 (read : [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]])
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice of Chance\|RPG - Dice of Chance]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice of Chance\|RPG - Dice of Chance]]
 
 { .block-language-dataview}

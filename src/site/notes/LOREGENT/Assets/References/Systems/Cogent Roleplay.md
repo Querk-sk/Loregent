@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/references/systems/cogent-roleplay/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/references/systems/cogent-roleplay/"}
 ---
 
 #### Cogent Roleplay

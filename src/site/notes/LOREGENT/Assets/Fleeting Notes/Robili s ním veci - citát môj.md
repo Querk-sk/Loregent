@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/robili-s-nim-veci-citat-moj/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/robili-s-nim-veci-citat-moj/"}
 ---
 
 #### Môj citát - Robili s ním veci : 

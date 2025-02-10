@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/navody-pre-pribehy/ako-pisat-scenar-navod/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/navody-pre-pribehy/ako-pisat-scenar-navod/"}
 ---
 
 #### Ako písať scenár - návod : 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/navody-pre-pribehy/kniha-predslov-napad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/loregent/assets/fleeting-notes/navody-pre-pribehy/kniha-predslov-napad/"}
 ---
 
 #### Predslov knihy : 
