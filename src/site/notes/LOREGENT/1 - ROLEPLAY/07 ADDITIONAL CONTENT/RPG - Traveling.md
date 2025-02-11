@@ -174,10 +174,10 @@ For longer journeys, it is recommended to give the characters at least one rest 
 From : [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG Idea - Traveling Event System\|RPG Idea - Traveling Event System]]
 
 #### Notes linked here
-- [[LOREGENT/Assets/Structure/Navigation/NAV - MOD\|NAV - MOD]]
-- [[LOREGENT/Assets/Structure/Navigation/NAV - MAG\|NAV - MAG]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
+- [[LOREGENT/Assets/Structure/Navigation/NAV - MOD\|NAV - MOD]]
+- [[LOREGENT/Assets/Structure/Navigation/NAV - MAG\|NAV - MAG]]
 
 { .block-language-dataview}
 

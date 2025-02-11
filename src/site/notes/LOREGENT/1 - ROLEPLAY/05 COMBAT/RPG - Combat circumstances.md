@@ -81,8 +81,8 @@ When there are more enemies, if the character [[LOREGENT/1 - ROLEPLAY/05 COMBAT/
 #### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Chase\|RPG - Chase]]
-- [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Success and Failure\|RPG - Success and Failure]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
+- [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Success and Failure\|RPG - Success and Failure]]
 
 { .block-language-dataview}
 

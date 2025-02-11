@@ -37,9 +37,9 @@
 | [[LOREGENT/Assets/Fleeting Notes/Oživenie človeka ktorý zomrel - príbeh\|Oživenie človeka ktorý zomrel - príbeh]]                                     | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Návody pre príbehy/Pixar design process\|Pixar design process]]                                                      | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Návody pre príbehy/Ako písať scenár - návod\|Ako písať scenár - návod]]                                              | 05.07.2024    |
-| [[LOREGENT/Assets/Fleeting Notes/Múdrosť - citát\|Múdrosť - citát]]                                                                                   | 05.07.2024    |
-| [[LOREGENT/Assets/Fleeting Notes/Mágia Počítačová - nápad\|Mágia Počítačová - nápad]]                                                                 | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Mravce a levy - fakty\|Mravce a levy - fakty]]                                                                       | 05.07.2024    |
+| [[LOREGENT/Assets/Fleeting Notes/Mágia Počítačová - nápad\|Mágia Počítačová - nápad]]                                                                 | 05.07.2024    |
+| [[LOREGENT/Assets/Fleeting Notes/Múdrosť - citát\|Múdrosť - citát]]                                                                                   | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/LW magic - otázka - link\|LW magic - otázka - link]]                                                                 | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Kráľ Nočných môr\|Kráľ Nočných môr]]                                                                                 | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Immortal Querk\|Immortal Querk]]                                                                                     | 05.07.2024    |
@@ -47,8 +47,8 @@
 | [[LOREGENT/Assets/Fleeting Notes/Fér - nápad\|Fér - nápad]]                                                                                           | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Design Requirements - návod\|Design Requirements - návod]]                                                           | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/chrám detí\|chrám detí]]                                                                                             | 05.07.2024    |
-| [[LOREGENT/Assets/Fleeting Notes/Boh - Krvavý - nápad\|Boh - Krvavý - nápad]]                                                                         | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Boh - Kastelán Bohov - nápad\|Boh - Kastelán Bohov - nápad]]                                                         | 05.07.2024    |
+| [[LOREGENT/Assets/Fleeting Notes/Boh - Krvavý - nápad\|Boh - Krvavý - nápad]]                                                                         | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Boh - Diabol spravodlivosti - nápad\|Boh - Diabol spravodlivosti - nápad]]                                           | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Puck - Gnome Racial Option\|Puck - Gnome Racial Option]]                                                             | 14.07.2024    |
 | [[LOREGENT/Assets/Structure/Navigation/NAV - MOD\|NAV - MOD]]                                                                                         | 19.07.2024    |

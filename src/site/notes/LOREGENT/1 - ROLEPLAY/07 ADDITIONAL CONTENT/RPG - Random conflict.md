@@ -158,8 +158,8 @@ The narrator can choose using the [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice of 
 
 #### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Traveling\|RPG - Traveling]]
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|RPG - Game chronology]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
 

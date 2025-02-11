@@ -594,8 +594,8 @@ The world is falling into ruin (or has a big problem), and the only thing that c
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 06 - Additional content\|RPG - CH 06 - Additional content]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|RPG - Game chronology]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
 

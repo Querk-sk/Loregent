@@ -52,8 +52,8 @@ The character does not receive any success or dice for the next roll in a quick 
 **In chapter**: [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 01 C - Dice roll\|RPG - CH 01 C - Dice roll]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|Armor]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|Armor]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|RPG - Self-assistance]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 

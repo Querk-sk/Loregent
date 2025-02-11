@@ -10,10 +10,10 @@ Passive attributes are characteristics that indicate what a character is strong,
 (read : [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]] )
 
 #### Poznámky nalinkované sem
-- [[LOREGENT/Assets/Fleeting Notes/bohovia\|bohovia]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters\|RPG - Groups of characters]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character in general\|RPG - Character in general]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice in general\|RPG - Dice in general]]
+- [[LOREGENT/Assets/Fleeting Notes/bohovia\|bohovia]]
 
 { .block-language-dataview}
 
