@@ -15,7 +15,6 @@ During battle, a character can perform only one "slow action" or two "fast actio
 
 A character can (but does not have to) perform one additional "very fast action" during battle (this does not affect the total number of actions a character can perform during battle, as its execution is decided solely by the narrator).
 
-
 ##### More Actions
 
 When a character runs out of actions and needs to do something else, they can sacrifice some of their points to take an additional action.

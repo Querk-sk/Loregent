@@ -15,9 +15,9 @@
 | [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|RPG - Self-assistance]]                                                 | 10.02.2025    |
 | [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Quick Reaction\|RPG - Quick Reaction]]                                                   | 10.02.2025    |
 | [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Quick check\|RPG - Quick check]]                                                         | 10.02.2025    |
+| [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - Kap. 99 - End of book\|RPG - Kap. 99 - End of book]]                         | 10.02.2025    |
 | [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 06 - Additional content\|RPG - CH 06 - Additional content]]               | 10.02.2025    |
 | [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 05 - Magic in general\|RPG - CH 05 - Magic in general]]                   | 10.02.2025    |
 | [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 04 - Combat\|RPG - CH 04 - Combat]]                                       | 10.02.2025    |
-| [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 03 - Points\|RPG - CH 03 - Points]]                                       | 10.02.2025    |
 
 { .block-language-dataview}

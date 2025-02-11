@@ -105,7 +105,7 @@ In our universe, the rule is that every armor is weak against all elements unles
 
 Regarding elements in general, our story universe follows the rule that all elements are equal. This means that no element is inherently weak against another element.
 
-However, if the narrator wants certain elements to be stronger or weaker against each other (similar to the game Pokémon), they can follow the chapter on "[[RPG - Pocket Monsters#Elements\|Pocket Monsters]]."
+However, if the narrator wants certain elements to be stronger or weaker against each other (similar to the game Pokémon), they can follow the chapter on "[[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket#Elements\|Pocket Monsters]]."
 
 #### Energy Armor
 
@@ -180,7 +180,6 @@ In terms of weight, magical properties do not count towards the weight. However,
 #### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|Armor]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 
