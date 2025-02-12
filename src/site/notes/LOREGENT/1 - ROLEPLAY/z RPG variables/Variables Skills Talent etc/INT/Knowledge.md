@@ -11,14 +11,12 @@
 
 #### [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Knowledge\|Knowledge]]
 
-Knowledge is rolled when the character needs to recall a fact or remember where that restaurant they visited yesterday is located. Overall, this skill is about memory, knowledge, and things the character has already learned. Knowledge can be rolled as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]] for the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Thinking\|Thinking]] skill.
-
-The “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Knowledge\|Knowledge]]” skill is also used for spatial orientation, map reading, and navigation in general. Knowledge helps identify unknown objects.
+Knowledge is rolled when the character needs to recall a fact or remember where that restaurant they visited yesterday is located. Overall, this skill is about memory, knowledge, and things the character has already learned. Knowledge can be rolled as an [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Assistance\|assistance]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]] for the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Thinking\|Thinking]] skill. The “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Knowledge\|Knowledge]]” skill is also used for spatial orientation, map reading, and navigation in general. Knowledge helps identify unknown objects.
 
 ##### All Verbs
 
 Knowledge: 
-Use knowledge, Use skills, Use experience, Learn, Remember, Recognize, Testify, Clarify, Not forgetting, Study, Find out, Inform, Ask questions, Teach, Understanding history, Identifying enemy weaknesses based on knowledge
+Use knowledge, Use skills, Use experience, Learn, Remember, Recognize, Testify, Clarify, Not forgetting, Study, Find out, Inform, Ask questions about facts, Teach, Understanding history, Identifying enemy weaknesses based on knowledge
 
 Orientation: 
 Know where I am, Know where I am going, Know how to get there quickest
@@ -29,9 +27,9 @@ The character recalls a conversation, The character remembers where a shop is lo
 ##### Combinations with Talents
 
 > [!example]
-> * Bylinkár - Herbalist - Thinking about which herbs to use for what potion. Trying to identify the herb (type, name, suitable use). Or thinking about how to use a potion (e.g., as an acid to open doors).
+> * Herbalist - Thinking about which herbs to use for what potion. Trying to identify the herb (type, name, suitable use). Or thinking about how to use a potion (e.g., acid to open doors).
 > * Jeweler - Evaluates a ring based on their knowledge.
-> * Doctor - Examines a patient and draws on their experience.
+> * Doctor - Examines a patient based on their experience.
 
 
 </div></div>

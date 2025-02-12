@@ -11,7 +11,7 @@
 
 ##### Strength ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]])
 
-Represents overall muscle strength. Strong characters can lift heavy objects or are excellent carriers (like those in the high mountains). Additionally, they have great endurance in terms of stamina (for example, they can run a marathon) and in terms of injury (they can endure many hits).
+Represents overall muscle strength. Strong characters can lift heavy objects or are excellent carriers (like those in the high mountains). Additionally, they have great endurance in terms of stamina (for example, they can run a marathon) and in terms of injury (they can endure more hits).
 
 
 </div></div>
@@ -19,11 +19,16 @@ Represents overall muscle strength. Strong characters can lift heavy objects or 
 
 ( read : [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]] )
 #### Notes linked here
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Encounter\|RPG - Random Encounter]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Animal Companions\|RPG - Animal Companions]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Sacrifice\|RPG - Points of Sacrifice]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/attribute\|attribute]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Very small character\|Very small character]]
@@ -33,18 +38,13 @@ Represents overall muscle strength. Strong characters can lift heavy objects or 
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Huge character\|Huge character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Bigger character\|Bigger character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Big character\|Big character]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/attribute\|attribute]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Encounter\|RPG - Random Encounter]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Animal Companions\|RPG - Animal Companions]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|RPG - Actions]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk\|RPG - Perk]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Size of the character\|RPG - Size of the character]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters\|RPG - Groups of characters]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character in general\|RPG - Character in general]]

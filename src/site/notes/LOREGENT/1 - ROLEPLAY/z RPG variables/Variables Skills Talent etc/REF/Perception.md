@@ -26,7 +26,7 @@ Hear:
 Perceive surrounding sounds, Notice where the sound is coming from, Track
 
 Feel: 
-Feel, Recognize, Smell (or feel heat, gravity, or their changes), Taste, Perceive tastes with the tongue, Recognize tastes, Perceive surroundings through touch, Touch - Search by touch, Perceive
+Feel, Recognize, Smell (or feel heat, gravity, or their changes), Taste, Perceive tastes with the tongue, Recognize tastes, Perceive surroundings through touch, Search by touch, Perceive with other or all senses
 
 Reaction: 
 Quickly notice something,
@@ -48,8 +48,8 @@ Searching for keys, Someone is talking and the character wants to hear it, Somet
 </div></div>
 
 #### Poznámky nalinkované sem
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|RPG - Victory levels]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What does the character know\|RPG - What does the character know]]

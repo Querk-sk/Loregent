@@ -12,7 +12,7 @@
 
 [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Working with hands\|Working with hands]] focuses on everyday life skills and overall survival. This includes preparing food (e.g., if a character wants to bake a cake), repairing clothes (e.g., if a character wants to sew a shirt), and treating injuries or providing overall medical care.
 
-For more complex tasks or those requiring formal education, this skill must be combined with a talent. Otherwise, the character rolls with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+For more complex tasks or those requiring formal education, this skill must be combined with a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. Otherwise, the character rolls with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ##### All Verbs
 
@@ -41,7 +41,7 @@ What if a blacksmith wants to forge a sword? If it's a regular blacksmith making
 > * Cook - Prepares a complex dish.
 > * Painter - Paints a complex picture.
 > * Herbalist - for brewing potions, grinding herbs, drying, or other preparations (these preparations are similar to those in a regular kitchen).
-> * Doctor - Cleans and stitches deep wounds. They know how to do it because they learned it.
+> * Doctor - Cleans and stitches deep wounds.
 
 
 </div></div>
@@ -52,8 +52,9 @@ What if a blacksmith wants to forge a sword? If it's a regular blacksmith making
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|RPG - Skills in general]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills\|RPG - Other skills]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 

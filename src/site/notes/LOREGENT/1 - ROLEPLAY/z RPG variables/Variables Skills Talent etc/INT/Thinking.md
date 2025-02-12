@@ -13,7 +13,7 @@
 
 The character thinks deeply. They might ponder the enemy's plan or predict the next step the enemy will take. They might figure out what's actually happening (if something mysterious is going on), what the character should do to make things work, or what to do to survive. The character might devise a plan or even come up with an entirely new machine or weapon.
 
-The “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Knowledge\|Knowledge]]” skill can be used to assist the “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Thinking\|Thinking]]” skill when the character wants to apply their learned knowledge during research.
+The “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Knowledge\|Knowledge]]” skill can be used to [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Assistance\|assist]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|self assist]] the “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Thinking\|Thinking]]” skill, when the character wants to apply their learned knowledge during research (etc.).
 
 ##### All Verbs
 
@@ -21,15 +21,15 @@ Thinking:
 Investigate (like a detective), Ponder, Understand, Comprehend, Piece things together, Anticipate, Grasp, Think, Imagine, Analyze, Research
 
 Solving: 
-Solve a puzzle, Create a puzzle, Guess, Reflect, Decide, Resolve, Uncover (a plan), Apply logic
+Puzzle, Solve a puzzle, Create a puzzle, Guess, Reflect, Decide, Resolve, Uncover (a plan), Apply logic
 
 Other: 
-How do I use this new information?, Investigate a crime
+How do I use this new information?, Investigate a crime, Seek answer with thinking
 
 ##### Combinations with Talents
 
 > [!example]
-> * Archaeologist - Thinking about a puzzle to get into a temple. Because they studied ancient civilizations, they are more likely to understand the puzzle.
+> * Archaeologist - Thinking about a puzzle which opens a temple. Because they studied ancient civilizations, they are more likely to understand the puzzle.
 > * Herbalist - Pondering how to use the new herbs they just found.
 > * Auto Mechanic - Considering whether the problem is in the engine or the transmission.
 
@@ -37,9 +37,9 @@ How do I use this new information?, Investigate a crime
 </div></div>
 
 #### Poznámky nalinkované sem
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 

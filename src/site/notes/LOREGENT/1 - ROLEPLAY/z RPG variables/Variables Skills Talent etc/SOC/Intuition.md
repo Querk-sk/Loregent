@@ -12,7 +12,7 @@
 
 It is a social skill used to understand another person, comprehend a social situation, and analyze communication. It could be said to be very similar to the skill “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Knowledge\|Knowledge]]”, but is mainly used for social situations and communication. It can also be used as a defense against deception (or defense against other skills from the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] attribute).
 
-Intuition can be used as an assistance roll for other skills from the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] attribute.
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Intuition\|Intuition]] can be used as an [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Assistance\|assist]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|self assist]] roll for other skills from the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] attribute.
 
 ##### All Verbs
 

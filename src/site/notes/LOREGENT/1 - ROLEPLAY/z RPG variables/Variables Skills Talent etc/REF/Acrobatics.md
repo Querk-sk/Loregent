@@ -35,18 +35,18 @@ Parkour (somersaults, flips, or other gymnastic maneuvers)
 
 > [!example]
 > * Astronaut - A dangerous situation arises on the station, and the astronaut needs to get into a spacesuit. In zero gravity, it’s challenging, but they've done it many times.
-> * Adventurer - They are in a mysterious tomb they were exploring, so they know where the traps might be. This is crucial to avoiding them.
+> * Adventurer - They are in a mysterious tomb they were exploring, so they know where the traps might be. This is crucial to know, for avoiding them.
 > * Gymnast - When the character wants to do a flip to pick up a weapon from the ground.
 
 
 </div></div>
 
 #### Poznámky nalinkované sem
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|RPG - Victory levels]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]

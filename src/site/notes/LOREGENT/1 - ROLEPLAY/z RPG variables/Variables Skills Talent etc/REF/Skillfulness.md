@@ -14,7 +14,7 @@
 
 [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Skillfulness\|Skillfulness]] indicates how well a character can work with their hands. This skill is used to control complex maneuvers done with hands – such as juggling, knife throwing, pickpocketing, threading a needle, or performing simple hand maneuvers (e.g., throwing a ball into a basket). This skill focuses on stealth, dexterity, and speed.
 
-This skill is also used to control vehicles or aircraft. However, for these cases, the character needs a talent. Otherwise, they roll at [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+This skill is also used to control vehicles or aircrafts. However, for these cases, the character needs a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. Otherwise, they roll at [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ##### All Verbs
 

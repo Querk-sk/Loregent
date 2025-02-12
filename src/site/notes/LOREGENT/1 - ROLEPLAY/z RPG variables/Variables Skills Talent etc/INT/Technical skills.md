@@ -13,7 +13,7 @@
 
 "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Technical skills\|Technical skills]]" focus on working with mechanical machines, computers, or complex mechanisms (like watches or locks). With this skill, a character can operate, repair, or build a machine (or create something using the machine).
 
-Of course, this applies if the task is simple, common, or something that a regular "technically skilled" person in that world could do. For more complex tasks (like hacking a PC, replacing car electronics, building a washing machine), this skill must be combined with a talent. Otherwise, the character rolls with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+Of course, this applies if the task is simple, common, or something that a regular "technically skilled" person in that world could do. For more complex tasks (like hacking a PC, replacing car electronics, building a washing machine), this skill must be combined with a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. Otherwise, the character rolls with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ##### All Verbs
 
