@@ -14,6 +14,7 @@
 | [[LOREGENT/Assets/Fleeting Notes/Postava - Hikari - nápad\|Postava - Hikari - nápad]]                                                                 | 27.01.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Príbeh - Plochá zem - nápad\|Príbeh - Plochá zem - nápad]]                                                           | 22.02.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Paródia na parlament - nápad\|Paródia na parlament - nápad]]                                                         | 11.04.2024    |
+| [[LOREGENT/Assets/Obsidian help/Obsidian Callouts\|Obsidian Callouts]]                                                                                | 25.05.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Obsidian Callouts\|Obsidian Callouts]]                                                                               | 25.05.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Virus Mon\|Virus Mon]]                                                                                               | 27.05.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Pokémon Slovensky\|Pokémon Slovensky]]                                                                               | 06.06.2024    |
@@ -26,8 +27,9 @@
 | [[LOREGENT/Assets/Fleeting Notes/Lord of Nightmares\|Lord of Nightmares]]                                                                             | 01.07.2024    |
 | [[LOREGENT/Assets/Structure/Map of content/MODULES\|MODULES]]                                                                                         | 05.07.2024    |
 | [[LOREGENT/Assets/Structure/Data View/DW - not created\|DW - not created]]                                                                            | 05.07.2024    |
-| [[LOREGENT/Assets/Fleeting Notes/stratégia na ovládnutie systému svetov - nápad\|stratégia na ovládnutie systému svetov - nápad]]                     | 05.07.2024    |
+| [[LOREGENT/Assets/References/Systems/Gateway RP\|Gateway RP]]                                                                                         | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/vedomie podvedomie nadvedomie - nápad\|vedomie podvedomie nadvedomie - nápad]]                                       | 05.07.2024    |
+| [[LOREGENT/Assets/Fleeting Notes/stratégia na ovládnutie systému svetov - nápad\|stratégia na ovládnutie systému svetov - nápad]]                     | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Seriály/The magicians\|The magicians]]                                                                               | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Robili s ním veci - citát môj\|Robili s ním veci - citát môj]]                                                       | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Príbeh - The first of us - nápad\|Príbeh - The first of us - nápad]]                                                 | 05.07.2024    |
@@ -49,13 +51,11 @@
 | [[LOREGENT/Assets/Fleeting Notes/Boh - Krvavý - nápad\|Boh - Krvavý - nápad]]                                                                         | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Boh - Kastelán Bohov - nápad\|Boh - Kastelán Bohov - nápad]]                                                         | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Boh - Diabol spravodlivosti - nápad\|Boh - Diabol spravodlivosti - nápad]]                                           | 05.07.2024    |
-| [[LOREGENT/Assets/References/Systems/Gateway RP\|Gateway RP]]                                                                                         | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Puck - Gnome Racial Option\|Puck - Gnome Racial Option]]                                                             | 14.07.2024    |
 | [[LOREGENT/Assets/Structure/Navigation/NAV - MOD\|NAV - MOD]]                                                                                         | 19.07.2024    |
 | [[LOREGENT/Assets/Structure/Navigation/NAV - MAG\|NAV - MAG]]                                                                                         | 19.07.2024    |
 | [[LOREGENT/Assets/Structure/Map of content/STORY\|STORY]]                                                                                             | 19.07.2024    |
 | [[LOREGENT/Assets/Obsidian help/Mapa/mapa-test-marker-02\|mapa-test-marker-02]]                                                                       | 31.07.2024    |
-| [[LOREGENT/Assets/Fleeting Notes/Cogent RPG Playtest Notes 11-08-2024\|Cogent RPG Playtest Notes 11-08-2024]]                                         | 11.08.2024    |
 | [[LOREGENT/Assets/References/Systems/Open D6 - System\|Open D6 - System]]                                                                             | 11.08.2024    |
 | [[LOREGENT/Assets/References/Systems/Maze Rats\|Maze Rats]]                                                                                           | 11.08.2024    |
 | [[LOREGENT/Assets/References/Systems/Cogent Roleplay\|Cogent Roleplay]]                                                                               | 11.08.2024    |

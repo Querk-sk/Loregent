@@ -2,26 +2,27 @@
 {"dg-publish":true,"permalink":"/loregent/1-roleplay/05-combat/rpg-weapons/"}
 ---
 
+
 ### Weapons
 
 Weapons are tools used primarily for attacking or defending against enemies. They can also be used for performing some [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] activities, such as cutting salami, chopping down a tree, or carving a wooden statue. Every [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] use of a weapon must be approved by the narrator.
 
 #### Weapon Attributes
 
-The main attribute of every weapon is attack. Attack increases the limit of maximum damage that the character can inflict on their enemy during combat. Weapons can have an attack at least at level 1 (meaning every weapon, including bare hands, causes at least 1 injury). This level of damage that a weapon can inflict can also be increased with specialization for that weapon.
+The main attribute of every weapon is attack. Attack increases the limit of maximum damage that the character can inflict on their enemy during combat. Weapons can have an attack at least at level 1 (meaning every weapon, including bare hands, causes at least 1 injury). This level of damage that a weapon can inflict can also be increased with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|specialization]] for that weapon.
 
 > [!example]
-> The character rolled their attack roll and achieved 4 wins.
-> If the character has a weapon with attack 1, they will deal 1 damage to the enemy.
-> If the character has a weapon with attack 3, they will deal 3 damage to the enemy.
+> - The character rolled their attack roll and achieved 4 wins.
+> - If the character has a weapon with attack 1, they will deal 1 damage to the enemy.
+> - If the character has a weapon with attack 3, they will deal 3 damage to the enemy.
 
 If the weapon's attack (the limit of maximum damage) is higher than the number of dice the character can use for their attack roll, the character receives bonus dice for their roll. The number of bonus dice is equal to the difference between the weapon's attack and the character's attack.
 
 > [!example]
-> The character can use 6 dice for the attack (3 base + 2 from attributes + 1 specialization).
-> The character owns a sword with attack 8.
-> The sword's attack exceeds the character's attack by 2 (because 8 - 6 = 2).
-> The character gets +2 dice for their attack roll.
+> - The character can use 6 dice for the attack (3 base + 2 from attributes + 1 specialization).
+> - The character owns a sword with attack 8.
+> - The sword's attack exceeds the character's attack by 2 (because 8 - 6 = 2).
+> - The character gets +2 dice for their attack roll.
 
 Regarding the secondary use of the weapon for performing a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] activity, the number of attack points is converted into dice, which increases the number of dice when a skill is rolled. If the secondary use of the weapon leads to damaging the enemy, the attack points are not converted into dice and remain as the level of maximum damage.
 
@@ -391,30 +392,30 @@ In such a case, the character with modern equipment will roll the dice with [[LO
 **In chapter**  : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 04 - Combat\|RPG - CH 04 - Combat]]
 
 #### Notes linked here
+- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Sacrifice\|RPG - Points of Sacrifice]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Sharp weapons\|Sharp weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Ranged and Thrown Weapons\|Ranged and Thrown Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Piercing weapons\|Piercing weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/melee weapons\|melee weapons]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Explosive weapons\|Explosive weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Hand protectors\|Hand protectors]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Explosive weapons\|Explosive weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Blunt weapons\|Blunt weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Weight of Inventory\|Weight of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Inventory\|Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Magic\|Magic]]
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|RPG - Basics of Magic]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|RPG - Victory levels]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|RPG - Basics of Magic]]
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Sacrifice\|RPG - Points of Sacrifice]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
-- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 
 { .block-language-dataview}
 

@@ -8,7 +8,7 @@
 
 #### Notes linked here
 
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]]
 
 { .block-language-dataview}

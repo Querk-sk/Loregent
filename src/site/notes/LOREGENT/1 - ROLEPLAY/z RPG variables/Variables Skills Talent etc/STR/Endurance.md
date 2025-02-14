@@ -11,7 +11,7 @@
 
 #### [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]]
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] focuses on the body's defense against attacks – whether physical, chemical, bacterial, etc. If the character has a status (e.g., poison), the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] skill is used to mitigate the effect of the poison. The amount by which the character falls short of the challenge level reduces [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]], gives fewer dice for the next roll, or worsens their overall situation (e.g., unable to walk). If the character surpasses the challenge level, they mitigate the status effect (poison). The more successes they roll, the more they reduce the effect duration (e.g., poison affects for 4 rounds instead of 8). This is just an example; the narrator can adjust it.
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] focuses on the body's defense against attacks – whether physical, chemical, bacterial, etc. If the character has a status (e.g., poison), the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] skill is used to mitigate the effect of the poison. The amount by which the character falls short of the challenge level reduces [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]], or gives fewer dice for the next roll, or worsens their overall situation (e.g., unable to walk). If the character surpasses the challenge level, they mitigate the status effect (poison). The more successes they roll, the more they reduce the effect duration (e.g., poison affects for 4 rounds instead of 8). This is just an example; the narrator can adjust it.
 
 ##### All Verbs
 
@@ -19,7 +19,7 @@ Resistance to injury:
 Resistance, Deflection, Stopping, Defense, Protection
 
 Resistance to external influences: 
-Reach somewhere, Hold on, Keep, Wait, Continue, Not finish, Manage, Stand up
+Reach somewhere, Hold on, Keep, Wait, Continue, do not end, To manage, Stand up
 
 Resistance to poisons: 
 Mitigating the effect of disease, poison, chemicals, and so on.
@@ -41,11 +41,11 @@ Who can drink more moonshine, the character walks near lava where the temperatur
 </div></div>
 
 #### Poznámky nalinkované sem
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
+- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
-- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 
 { .block-language-dataview}

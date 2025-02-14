@@ -6,7 +6,7 @@
 
 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] is similar to [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|Talent]]. However, [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|specialization]] is used exclusively for combat.
 
-A character can add a specialization for a specific weapon, a certain martial art, a particular armor, or a specific branch of magic to their character sheet. Each character can have a maximum of 3 specializations.
+A character can add a specialization for a specific weapon, a certain martial art, a particular armor, or a specific branch of magic - to their character sheet. Each character can have a maximum of **3 specializations** (this can be changed by the narrator).
 
 Unless otherwise specified, each player receives [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/15 points\|15 points]] during character creation to allocate to any skills, talents, or specializations. Unless stated otherwise, a player can invest a maximum of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/6 points\|6 points]] in each specialization. The number of invested points is assessed similarly to attributes or skills (where 0 means an average person and 3 indicates someone very capable).
 
@@ -18,19 +18,19 @@ Specialization is used exclusively for combat. It can be combined with skills wh
 
 When a character needs to do something that requires education or special knowledge, and the character does not have this knowledge or education (i.e., specialization), they roll with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
-When it is an activity that is very special or very difficult (even for someone with education) and the character does not have this knowledge (i.e., specialization), they roll with [[great disadvantage\|great disadvantage]].
+When it is an activity that is very special or very difficult (even for someone with education) and the character does not have this knowledge (i.e., specialization), they roll with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|great disadvantage]].
 
 #### Specialization and Weapons
 
-Specialization in weapons increases the number of dice in a combat roll when the character uses that weapon. It also increases the maximum damage that the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|weapon]] can deal to an enemy.
+Specialization in weapons increases the number of dice in a combat roll when the character uses that weapon. It also increases the maximum [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Weapon Attributes\|damage]] that the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|weapon]] can deal to an enemy.
 
-If the character does not have the appropriate talent for their weapon (or martial art) and does not have the specialization, their combat roll is made with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. For very complex weapons or under very difficult circumstances, they roll with great disadvantage
+If the character does not have the appropriate talent for their weapon (or martial art) and/or they does not have the specialization, their combat roll is made with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. For very complex weapons or under very difficult circumstances, they roll with great disadvantage
  
 #### Specialization and Armor
 
-Specialization in armor increases the number of armor points when the character is wearing that specific type of armor. For example, with Samurai Armor Specialization 1, the character gains +1 armor point when wearing samurai armor.
+Specialization in armor increases the number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|armor]] points when the character is wearing that specific type of armor. For example, with Samurai Armor Specialization 1, the character gains +1 armor point when wearing samurai armor.
 
-However, there is an additional restriction for armor specialization. The character must have their entire body covered by a single type of armor – they cannot wear two or three types of armor. This is because they will not receive any benefits from the specialization
+However, there is an additional restriction for armor specialization. The character must have their entire body covered by a single type of armor – they cannot wear two or three types of armor. This is because they will not receive any benefits from the specialization.
 
 > [!note] 
 > If the character, for example, wears samurai gloves and boots, but a different type of helmet, the points invested in the specialization will not count. They will be considered as having no armor specialization. 
@@ -82,12 +82,12 @@ All necessary information can be found in the chapter on [[LOREGENT/1 - ROLEPLAY
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 02 C - Skills and Talents\|RPG - CH 02 C - Skills and Talents]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
+- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|RPG - Victory levels]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|RPG - Skills in general]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
-- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 
 { .block-language-dataview}

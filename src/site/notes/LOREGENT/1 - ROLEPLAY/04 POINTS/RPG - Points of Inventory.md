@@ -254,10 +254,10 @@ The character is looking for something:
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 03 - Points\|RPG - CH 03 - Points]]
 
 #### Notes linked here
+- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Weight of Inventory\|Weight of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Inventory\|Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Other Challenge Levels\|RPG - Other Challenge Levels]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
-- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 
 { .block-language-dataview}

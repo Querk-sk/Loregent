@@ -13,7 +13,7 @@
 
 It is used to control endurance when running, speed of running, and control of jumping, such as how high or far the character can jump. It is also used to control running or walking when the character runs (or walks) through difficult terrain (e.g., deep snow). [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]] is the main skill used during [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Chase\|chases]]!
 
-If a character wants to walk, run, or jump over difficult terrain that requires some training and the character lacks training, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. For example, when they want to walk through deep snow like in Antarctica, or through a desert, or if they have magnetic boots and are walking in zero gravity.
+If a character wants to walk, run, or jump over difficult terrain that requires some training and the character lacks training (i.e. [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]), they roll with a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. For example, when they want to walk through deep snow like in Antarctica, or through a desert, or if they have magnetic boots and are walking in zero gravity.
 
 ##### All Verbs
 
@@ -24,7 +24,7 @@ Change in height:
 Jump, Jump over obstacles, Pole vault, High jump, Jumping over a pit, Propel off the ground (or wall)
 
 Other: 
-Chasing (the character wants to catch a thief who is running), The character wants to slide under a door, Parkour (running and jumping maneuvers, not somersaults and gymnastics. The character jumps through a window, uses a pole on the wall to jump and slide and jump over a pit)
+Chasing (the character wants to catch a thief who is running), The character wants to slide under a door, Parkour (running and jumping maneuvers, not somersaults and gymnastics. The character jumps through a window, uses a pole on the wall to jump and slide and jump over a pit).
 
 ##### Talent Combinations
 
@@ -39,15 +39,15 @@ Chasing (the character wants to catch a thief who is running), The character wan
 </div></div>
 
 #### Poznámky nalinkované sem
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
+- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance\|RPG - Combat Distance]]
-- [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|RPG - Actions]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk\|RPG - Perk]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Chase\|RPG - Chase]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Other Challenge Levels\|RPG - Other Challenge Levels]]
-- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
+- [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|RPG - Actions]]
 
 { .block-language-dataview}

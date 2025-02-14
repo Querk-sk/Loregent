@@ -29,7 +29,7 @@ Data view TASK (všetko čo je škrtacie políčko - `[ ]` - tak to všetko zora
 - [x] Write
 - [x] Check
 - [x] Translate
-- [ ] Checking translation <<<<-- now : [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills STR\|RPG - Skills STR]]
+- [ ] Checking translation <<<<-- now : [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [ ] Write <<<<<<------- The Land of Time (and Lands overall)
 - [ ] Check
 - [ ] Translate

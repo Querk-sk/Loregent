@@ -159,8 +159,8 @@ If the narrator wishes, they can differentiate the number of points a character 
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 02 B - Character attributes\|RPG - CH 02 B - Character attributes]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
 

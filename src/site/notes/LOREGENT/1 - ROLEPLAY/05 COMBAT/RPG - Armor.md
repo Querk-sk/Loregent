@@ -180,10 +180,10 @@ In terms of weight, magical properties do not count towards the weight. However,
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 04 - Combat\|RPG - CH 04 - Combat]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|Armor]]
-- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|Armor]]
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]
+- [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
 

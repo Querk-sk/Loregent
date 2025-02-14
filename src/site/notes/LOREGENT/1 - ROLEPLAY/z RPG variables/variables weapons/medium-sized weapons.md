@@ -11,26 +11,27 @@
 
 
 
+
 ### Weapons
 
 Weapons are tools used primarily for attacking or defending against enemies. They can also be used for performing some [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] activities, such as cutting salami, chopping down a tree, or carving a wooden statue. Every [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] use of a weapon must be approved by the narrator.
 
 #### Weapon Attributes
 
-The main attribute of every weapon is attack. Attack increases the limit of maximum damage that the character can inflict on their enemy during combat. Weapons can have an attack at least at level 1 (meaning every weapon, including bare hands, causes at least 1 injury). This level of damage that a weapon can inflict can also be increased with specialization for that weapon.
+The main attribute of every weapon is attack. Attack increases the limit of maximum damage that the character can inflict on their enemy during combat. Weapons can have an attack at least at level 1 (meaning every weapon, including bare hands, causes at least 1 injury). This level of damage that a weapon can inflict can also be increased with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|specialization]] for that weapon.
 
 > [!example]
-> The character rolled their attack roll and achieved 4 wins.
-> If the character has a weapon with attack 1, they will deal 1 damage to the enemy.
-> If the character has a weapon with attack 3, they will deal 3 damage to the enemy.
+> - The character rolled their attack roll and achieved 4 wins.
+> - If the character has a weapon with attack 1, they will deal 1 damage to the enemy.
+> - If the character has a weapon with attack 3, they will deal 3 damage to the enemy.
 
 If the weapon's attack (the limit of maximum damage) is higher than the number of dice the character can use for their attack roll, the character receives bonus dice for their roll. The number of bonus dice is equal to the difference between the weapon's attack and the character's attack.
 
 > [!example]
-> The character can use 6 dice for the attack (3 base + 2 from attributes + 1 specialization).
-> The character owns a sword with attack 8.
-> The sword's attack exceeds the character's attack by 2 (because 8 - 6 = 2).
-> The character gets +2 dice for their attack roll.
+> - The character can use 6 dice for the attack (3 base + 2 from attributes + 1 specialization).
+> - The character owns a sword with attack 8.
+> - The sword's attack exceeds the character's attack by 2 (because 8 - 6 = 2).
+> - The character gets +2 dice for their attack roll.
 
 Regarding the secondary use of the weapon for performing a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] activity, the number of attack points is converted into dice, which increases the number of dice when a skill is rolled. If the secondary use of the weapon leads to damaging the enemy, the attack points are not converted into dice and remain as the level of maximum damage.
 

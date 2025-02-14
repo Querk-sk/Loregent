@@ -354,8 +354,8 @@ Other possibilities for Great Fortune:
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 01 C - Dice roll\|RPG - CH 01 C - Dice roll]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters\|RPG - Groups of characters]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 

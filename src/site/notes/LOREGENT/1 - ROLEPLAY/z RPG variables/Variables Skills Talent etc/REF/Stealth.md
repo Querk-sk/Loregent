@@ -32,15 +32,15 @@ Hide, Walk quietly, Become invisible, Avoid detection, Observe (without being de
 </div></div>
 
 #### Poznámky nalinkované sem
+- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance\|RPG - Combat Distance]]
-- [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|RPG - What is RPG]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Size of the character\|RPG - Size of the character]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills\|RPG - Other skills]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Success and Failure\|RPG - Success and Failure]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Other Challenge Levels\|RPG - Other Challenge Levels]]
-- [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
+- [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|RPG - What is RPG]]
 
 { .block-language-dataview}

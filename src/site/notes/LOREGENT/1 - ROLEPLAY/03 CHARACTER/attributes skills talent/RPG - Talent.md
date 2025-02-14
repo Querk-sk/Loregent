@@ -8,7 +8,7 @@
 
 Talent indicates the character's primary occupation, their role in the group, or what they are genuinely good at. In video games, the term talent could be equivalent to a class (e.g., ranger, necromancer), a type (e.g., tank, support), or a designation (e.g., healer).
 
-Each character must have at least one talent and can have a maximum of 6 talents. Unless otherwise specified, each player receives [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/15 points\|15 points]] during character creation to allocate to any skills, talents, or specializations. For every point invested in a talent, the character gains one extra die when performing an activity that requires that talent (e.g., an auto mechanic talent when repairing an engine).
+Each character must have at least one talent and can have a maximum of **6 talents**. Unless otherwise specified, each player receives [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/15 points\|15 points]] during character creation to allocate to any skills, talents, or specializations. For every point invested in a talent, the character gains one extra die when performing an activity that requires that talent (e.g., an auto mechanic talent when repairing an engine).
 
 Unless stated otherwise, a player can invest a maximum of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/6 points\|6 points]] in each talent. The number of invested points is assessed similarly to attributes or skills (where 0 means an average person and 3 indicates someone very capable).
 
@@ -52,7 +52,7 @@ Additionally, talents cannot be combined. One talent cannot enhance another tale
 
 However, each use of a talent must be approved by the narrator. The narrator determines whether the combination (talent + skill) can be used. This depends on the specific situation in the game (for example, when the character is looking for medicines, they can use the Doctor talent).
 
-####  Talent and Combat
+#### Talent and Combat
 
 Talent is used for solving problems, not for combat. Only [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] is used in combat. Specialization can be combined with other skills during combat. You can find more details in the chapters "[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]]" and "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|Combat Maneuvers]]."
 
@@ -60,7 +60,7 @@ Regarding talent and combat, if a character has a talent applicable to a specifi
 
 However, if the character does not have an appropriate talent for their weapon (or martial art) and does not have a specialization, their combat roll is made with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. For very complex weapons or under very difficult circumstances, they roll with great disadvantage.
 
-####  Talent and Magic
+#### Talent and Magic
 More information can be found in the chapter on [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|Magic]].
 
 ### TAG and LINK : 
@@ -104,8 +104,8 @@ More information can be found in the chapter on [[LOREGENT/1 - ROLEPLAY/06 MAGIA
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 02 C - Skills and Talents\|RPG - CH 02 C - Skills and Talents]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]]
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}

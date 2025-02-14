@@ -16,7 +16,6 @@
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG Idea - Creature Collection\|RPG Idea - Creature Collection]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG Idea - Dave Homebrew Ranged Combat\|RPG Idea - Dave Homebrew Ranged Combat]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG Idea - Dungeon Creation\|RPG Idea - Dungeon Creation]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG Idea - Gateway Skills\|RPG Idea - Gateway Skills]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG Idea - Impossible roll\|RPG Idea - Impossible roll]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG Idea - Items in Inventory\|RPG Idea - Items in Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG Idea - Making a TTRPG From Scratch\|RPG Idea - Making a TTRPG From Scratch]]

@@ -66,8 +66,8 @@ The narrator can use:
 **From** : [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG Idea - Maze Rats\|RPG Idea - Maze Rats]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random World Rules\|RPG - Random World Rules]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Story cubes\|RPG - Story cubes]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random World Rules\|RPG - Random World Rules]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 06 - Additional content\|RPG - CH 06 - Additional content]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]

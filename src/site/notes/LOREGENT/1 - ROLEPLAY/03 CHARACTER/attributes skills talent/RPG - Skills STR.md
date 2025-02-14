@@ -2,15 +2,15 @@
 {"dg-publish":true,"permalink":"/loregent/1-roleplay/03-character/attributes-skills-talent/rpg-skills-str/"}
 ---
 
+
 ### Skills Strength - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]]
 
-Their main attribute is Strength – [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]]. The number of dice that a character or narrator can roll is calculated as 3 dice + skill + [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]].
+Their main attribute is Strength – [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]]. The number of dice that a character or narrator can roll is calculated as **3 dice + skill + [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]]**.
 
 The list below details each skill and its appropriate use. The names and uses of each skill can be adjusted by the narrator to fit their world and story.
 
 >[!note]
->Each skill also has a so-called verb list. This is a list of all the actions the skill can perform. If something is missing, you can add it.
->The verb list is divided into smaller categories for clarity.
+>Each skill also includes a so-called verbs list. This is a list of all the actions that the skill can perform. If something is missing, you can add it. The verbs list is divided into smaller categories just for clarity.
 
 #### [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]]
 
@@ -21,7 +21,7 @@ Additionally, the skill “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Ski
 ##### All Verbs
 
 Moving an object or character: 
-Throw, Toss, Discard, Drop, Push, Move, Shift, Push away, Thrust, Shove (someone), Tumble (a car pushing it), Roll away, Roll over, Roll back, Lift (to a higher place), Lower (from a higher place), Pull, Draw, Tug...
+Throw, Toss, throw away, Drop, Push, Move, Shift, Push away, Thrust, Shove (someone), Tumble (a car pushing it), Roll away, Roll over, Roll back, Lift (to a higher place), Lower (from a higher place), Pull, Draw, Tug...
 
 Endurance: 
 Hold, Maintain, Restrain (someone on the ground), Hold onto a rope, Carry, Bear (someone in their arms)
@@ -46,7 +46,7 @@ Throwing heavy objects when precision is not required.
 
 It is used to control endurance when running, speed of running, and control of jumping, such as how high or far the character can jump. It is also used to control running or walking when the character runs (or walks) through difficult terrain (e.g., deep snow). [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]] is the main skill used during [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Chase\|chases]]!
 
-If a character wants to walk, run, or jump over difficult terrain that requires some training and the character lacks training, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. For example, when they want to walk through deep snow like in Antarctica, or through a desert, or if they have magnetic boots and are walking in zero gravity.
+If a character wants to walk, run, or jump over difficult terrain that requires some training and the character lacks training (i.e. [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]), they roll with a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. For example, when they want to walk through deep snow like in Antarctica, or through a desert, or if they have magnetic boots and are walking in zero gravity.
 
 ##### All Verbs
 
@@ -57,7 +57,7 @@ Change in height:
 Jump, Jump over obstacles, Pole vault, High jump, Jumping over a pit, Propel off the ground (or wall)
 
 Other: 
-Chasing (the character wants to catch a thief who is running), The character wants to slide under a door, Parkour (running and jumping maneuvers, not somersaults and gymnastics. The character jumps through a window, uses a pole on the wall to jump and slide and jump over a pit)
+Chasing (the character wants to catch a thief who is running), The character wants to slide under a door, Parkour (running and jumping maneuvers, not somersaults and gymnastics. The character jumps through a window, uses a pole on the wall to jump and slide and jump over a pit).
 
 ##### Talent Combinations
 
@@ -72,7 +72,7 @@ Chasing (the character wants to catch a thief who is running), The character wan
 
 It is used to control endurance or the ability to move in unusual environments. Mobility mainly involves swimming in water, climbing rocks, rope climbing, or climbing over a fence. It also includes flying in zero gravity or in the air (like Ironman). In simple terms, it’s movement involving the whole body, not just the legs.
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Mobility\|Mobility]] also includes normal movement in relatively normal conditions. If the conditions are not normal, this skill requires a talent. Otherwise, the character rolls at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. (For example, swimming in a pool is different than swimming in the open sea).
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Mobility\|Mobility]] also includes normal movement in relatively normal conditions. If the conditions are not normal, this skill requires a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. Otherwise, the character rolls with a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. (For example, swimming in a pool is different than swimming in the open sea).
 
 ##### All Verbs
 
@@ -91,7 +91,7 @@ Jumping, Flying, Flying in the air, Flying in zero-gravity space
 
 #### [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]]
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] focuses on the body's defense against attacks – whether physical, chemical, bacterial, etc. If the character has a status (e.g., poison), the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] skill is used to mitigate the effect of the poison. The amount by which the character falls short of the challenge level reduces [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]], gives fewer dice for the next roll, or worsens their overall situation (e.g., unable to walk). If the character surpasses the challenge level, they mitigate the status effect (poison). The more successes they roll, the more they reduce the effect duration (e.g., poison affects for 4 rounds instead of 8). This is just an example; the narrator can adjust it.
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] focuses on the body's defense against attacks – whether physical, chemical, bacterial, etc. If the character has a status (e.g., poison), the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] skill is used to mitigate the effect of the poison. The amount by which the character falls short of the challenge level reduces [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]], or gives fewer dice for the next roll, or worsens their overall situation (e.g., unable to walk). If the character surpasses the challenge level, they mitigate the status effect (poison). The more successes they roll, the more they reduce the effect duration (e.g., poison affects for 4 rounds instead of 8). This is just an example; the narrator can adjust it.
 
 ##### All Verbs
 
@@ -99,7 +99,7 @@ Resistance to injury:
 Resistance, Deflection, Stopping, Defense, Protection
 
 Resistance to external influences: 
-Reach somewhere, Hold on, Keep, Wait, Continue, Not finish, Manage, Stand up
+Reach somewhere, Hold on, Keep, Wait, Continue, do not end, To manage, Stand up
 
 Resistance to poisons: 
 Mitigating the effect of disease, poison, chemicals, and so on.
@@ -158,7 +158,6 @@ Who can drink more moonshine, the character walks near lava where the temperatur
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 02 C - Skills and Talents\|RPG - CH 02 C - Skills and Talents]] 
 
 #### Notes linked here
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
