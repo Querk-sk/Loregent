@@ -77,7 +77,7 @@ The price of an item is determined by its physical and magical properties (or it
     - The price also considers repairing or supplementing an attribute that increases damage level.        
 - **Adds an advantage = attribute x 3**    
     - When an item adds a special feature that cannot be categorized among other items. For example, breathing underwater, fast reloading, etc.        
-    - Change in the level of difficulty by 1.        
+    - Change in the challenge level by 1.        
 - **Increases Attributes and other points = attribute x 4**    
     - When an item adds basic attributes [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]].        
     - When an item adds [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]] or reduces weight.        
@@ -393,10 +393,8 @@ In such a case, the character with modern equipment will roll the dice with [[LO
 
 #### Notes linked here
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Sharp weapons\|Sharp weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Ranged and Thrown Weapons\|Ranged and Thrown Weapons]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Sharp weapons\|Sharp weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Piercing weapons\|Piercing weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/melee weapons\|melee weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Hand protectors\|Hand protectors]]
@@ -406,13 +404,15 @@ In such a case, the character with modern equipment will roll the dice with [[LO
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Inventory\|Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Magic\|Magic]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|RPG - Victory levels]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|RPG - Basics of Magic]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|RPG - Victory levels]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|RPG - Basics of Magic]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Sacrifice\|RPG - Points of Sacrifice]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]

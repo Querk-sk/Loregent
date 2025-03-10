@@ -13,7 +13,7 @@ Stories are broken down into the following parts:
 
 **Tier Progression**: There are 5 Tiers in the Tier Progression (with an optional starting point for extremely hard Stories). They are New Adventurer (1), Adventurer/One-Shot (2), Veteran (3), Hero (4), and Legend (5). Each Tier grants Character Creation resources, with rules on how to upgrade from one Tier to another.
 
-![narative structure tier progres.png](/img/user/LOREGENT/Assets/Files/IMG/narative%20structure%20tier%20progres.png)
+![narative structure tier progres.png](/img/user/LOREGENT/Assets/Files/IMG/RPG/narative%20structure%20tier%20progres.png)
 
 > AP = Attribute Points 
 >VP = Vocation Points (for Vocations only, not Specialisations) 

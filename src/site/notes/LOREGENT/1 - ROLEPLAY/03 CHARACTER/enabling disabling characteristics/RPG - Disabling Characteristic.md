@@ -4,7 +4,7 @@
 
 ### Disabling Characteristic
 
-Every character has some sort of problem that puts them at a disadvantage. Every character has their own difficulties, whether health-related, psychological, or social. Or a character might be bad at something or just not good at something. All these mentioned difficulties are manifested in our RPG system by a mechanic called "[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Disabling Characteristic\|Disabling Characteristic]]."
+Every character has some sort of problem that puts them at a disadvantage. Every character has their own difficulties, whether health-related, psychological, or social. Or, a character might be bad at something or just not good at something. All these mentioned difficulties are manifested in our RPG system by a mechanic called "[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Disabling Characteristic\|Disabling Characteristic]]."
 
 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Disabling Characteristic\|Disabling Characteristic]] is a set of traits that put the character at a disadvantage. It limits them in some way, making it difficult for them to solve situations that the story (narrator) throws their way. Disadvantages are given to characters to make them interesting. This mechanic, of course, also affects gameplay (adding or subtracting points) and the story (players play their character according to their disadvantage, like actors in a film).
 
@@ -47,7 +47,7 @@ The price of an item is determined by its physical and magical properties (or it
     - The price also considers repairing or supplementing an attribute that increases damage level.        
 - **Adds an advantage = attribute x 3**    
     - When an item adds a special feature that cannot be categorized among other items. For example, breathing underwater, fast reloading, etc.        
-    - Change in the level of difficulty by 1.        
+    - Change in the challenge level by 1.        
 - **Increases Attributes and other points = attribute x 4**    
     - When an item adds basic attributes [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]].        
     - When an item adds [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]] or reduces weight.        
@@ -65,7 +65,7 @@ The price of an item is determined by its physical and magical properties (or it
 >[!example]
 >Asthmatic = minus 1 to the skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]]. In a dusty environment, the character must roll "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]]" against a challenge determined by the narrator (minimum 2). If they fail the roll, they lose 3 dice on each roll unless they use an asthma inhaler. The character receives +4 points to invest in any skill, talent, or specialization.
 
-#### Zoznam Nevýhod
+#### List of Disabling characteristics
 
 This list was created with the help of the RPG systems [[LOREGENT/Assets/References/Systems/Cogent Roleplay\|Cogent Roleplay]] and [[LOREGENT/Assets/References/Systems/Open D6 - System\|Open D6 - System]]. If a player can't choose from the list, they can roll the [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice of Chance\|dice of chance]] and choose from the following table:
 
@@ -94,6 +94,7 @@ This list was created with the help of the RPG systems [[LOREGENT/Assets/Referen
     - The character is sensitive to something that normally occurs in the air of the given world. They must protect themselves against it. If they don’t (e.g., lack a gas mask), they start suffocating. In contact with the atmosphere they’re sensitive to, the character gains the status “poison.”        
 - **Change**:    
     - (Status): Poison: The character loses 0.5 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|health points]] per round.        
+- **Points**:    
     - The character gets 3 extra points, which can be invested in other skills, talents, or specializations.
 
 ###### Item 3 - Overconfident:
@@ -113,7 +114,7 @@ This list was created with the help of the RPG systems [[LOREGENT/Assets/Referen
 ###### Item 4 - Influenced:
 
 - **Explanation**:    
-    - The character can be talked into anything and is very easy to influence. They essentially have no opinions of their own. They cannot roll for defense against [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills SOC\|skills]] from the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] attribute (i.e., [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Intuition\|Intuition]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Persuasion\|Persuasion]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Deception\|Deception]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Intimidation\|Intimidation]]).        
+    - The character can be talked into anything and is very easy to influence. They essentially have no opinions of their own. They cannot roll for defense against [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills SOC\|skills]] from the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] attribute (i.e., [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Intuition\|Intuition]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Persuasion\|Persuasion]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Deception\|Deception]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Intimidation\|Intimidation]]). 
 - **Change**:    
     - Skills : [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Persuasion\|Persuasion]]: -2        
     - Trait : [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character psyché/Trust in others\|Trust in others]]: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character psyché/Trust\|Trust]]        
@@ -335,7 +336,7 @@ This list was created with the help of the RPG systems [[LOREGENT/Assets/Referen
 
 - **Explanation**:    
     - The character has an imaginary friend, sees ghosts (in a world where ghosts don’t exist), or believes they are a wizard and sees everything as a fantasy world (even though it’s a normal world). They believe in fairy tales and do everything as if it worked like a story – because in the story, it must work that way in the real world too.        
-    - If it’s a fantasy story – it should be based on the tales and stories told to children "there." What the character believes is never real.        
+    - If it’s a fantasy story – it should be based on the tales and stories told to children "there." What the character believes is never real.    
 - **Change**:    
     - (Status): Not Trusted: Characters who know this character know they’re lying. Therefore, they lose 3 dice from all [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] skills.        
     - Trait: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character psyché/Lives In\|Lives In]]: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character psyché/Fantasy\|Fantasy]]        
@@ -394,8 +395,8 @@ This list was created with the help of the RPG systems [[LOREGENT/Assets/Referen
 
 - **Explanation**:    
     - The character forgets things. They might forget they have an item in their pocket. They might forget a shopping list (and buy something else instead).
-    - They often get lost (forget where they are) -> they know the name of the city or street they need to get to but forget where they are.        
-    - This forgetfulness doesn’t mean the character has Alzheimer’s – they don’t forget everything. It just means they forget certain things.        
+    - They often get lost (forget where they are) -> they know the name of the city or street they need to get to but forget where they are.   
+    - This forgetfulness doesn’t mean the character has Alzheimer’s – they don’t forget everything. It just means they forget certain things. 
 - **Change**:    
     - (Status): Forgetfulness: When the narrator says, the character must roll all attributes against a challenge level set by the narrator. If they fail, they forget something really important. To remember where they lost the item, they must roll [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Knowledge\|Knowledge]] against the challenge level set by the narrator.  
     - Skills:        
@@ -508,7 +509,7 @@ This list was created with the help of the RPG systems [[LOREGENT/Assets/Referen
 - **Explanation**:    
 	- The character suffers from a chronic illness that doesn’t kill them but significantly complicates their life.
 - **Change**:
-	- (Status): Illness: When the narrator says, the character must roll {{Endurance}} against a difficulty of 3 to determine if they need to take a crucial medication. If they need the medication and don't take it within an hour, their [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] decrease by 1 (no more) and will continue to decrease by 1 each hour until they take the medication. Once they take the medication, only 1 health point is restored. Other health points must be restored through [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|healing]].
+	- (Status): Illness: When the narrator says, the character must roll [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] against a difficulty of 3 to determine if they need to take a crucial medication. If they need the medication and don't take it within an hour, their [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] decrease by 1 (no more) and will continue to decrease by 1 each hour until they take the medication. Once they take the medication, only 1 health point is restored. Other health points must be restored through [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|healing]].
 	- Zručnosti : 
 		- [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]]: -1
 		- [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Working with hands\|Working with hands]]: 1
@@ -581,7 +582,6 @@ This list was created with the help of the RPG systems [[LOREGENT/Assets/Referen
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 02 D - Enabling and disabling characteristics, perks\|RPG - CH 02 D - Enabling and disabling characteristics, perks]] 
 
 #### Notes linked here
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|RPG - Victory levels]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character Psyche\|RPG - Character Psyche]]

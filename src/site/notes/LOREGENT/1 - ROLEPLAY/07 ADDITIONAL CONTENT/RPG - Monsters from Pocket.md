@@ -396,7 +396,7 @@ When a monster attacks an enemy whose element is **strong** against the attacker
 
 When a monster attacks an enemy whose element is **the same** as the attacker's element, the dice are rolled normally (without advantage or disadvantage).
 
-![Element influence.png](/img/user/LOREGENT/Assets/Files/IMG/Element%20influence.png)
+![Element influence.png](/img/user/LOREGENT/Assets/Files/IMG/RPG/Element%20influence.png)
 [Link to generator](https://dreampuf.github.io/GraphvizOnline/?engine=circo#digraph%20%7B%0A%20%20%20%20Wind%20-%3E%20Earth%20-%3E%20Water%20-%3E%20Fire%20-%3E%20Physics%20-%3E%20Wind%0A%20%20%20%20Water%20-%3E%20Wind%0A%20%20%20%20Earth%20-%3E%20Physics%0A%20%20%20%20Physics%20-%3E%20Water%0A%20%20%20%20Wind%20-%3E%20Fire%0A%20%20%20%20Fire%20-%3E%20Earth%0A%7D%0A)
 
 

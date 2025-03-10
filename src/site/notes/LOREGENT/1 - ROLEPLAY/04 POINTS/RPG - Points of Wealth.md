@@ -43,7 +43,7 @@ The price of an item is determined by its physical and magical properties (or it
     - The price also considers repairing or supplementing an attribute that increases damage level.        
 - **Adds an advantage = attribute x 3**    
     - When an item adds a special feature that cannot be categorized among other items. For example, breathing underwater, fast reloading, etc.        
-    - Change in the level of difficulty by 1.        
+    - Change in the challenge level by 1.        
 - **Increases Attributes and other points = attribute x 4**    
     - When an item adds basic attributes [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]].        
     - When an item adds [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]] or reduces weight.        

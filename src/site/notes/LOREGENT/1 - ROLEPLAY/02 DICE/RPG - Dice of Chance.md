@@ -22,7 +22,7 @@ The narrator can use:
 - The second die to determine the column in the table (e.g., column 3)   
 - The third die to determine the item (e.g., item 4 in that column)
 
-![tab even odd.png|center](/img/user/LOREGENT/Assets/Files/IMG/tab%20even%20odd.png)
+![tab even odd.png|center](/img/user/LOREGENT/Assets/Files/IMG/RPG/tab%20even%20odd.png)
 
 ### TAG and LINK : 
 - Stability : #stability/mild_stability 

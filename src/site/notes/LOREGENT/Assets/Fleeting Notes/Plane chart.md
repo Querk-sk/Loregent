@@ -5,7 +5,7 @@
 
 #### Plane chart
 
-![Planechart.gif|center|300](/img/user/LOREGENT/Assets/Files/IMG/Planechart.gif)
+![Planechart.gif|center|300](/img/user/LOREGENT/Assets/Files/IMG/IDEAS/Planechart.gif)
 
 The image shown in the thumbnail appeared in the opening credits of Slayers TRY.
 

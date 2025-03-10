@@ -4,18 +4,18 @@
 
 ### Updated recently
 
-| File                                                                                                                                    | Updated    | Created    |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
-| [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]                                                                     | 14.02.2025 | 21.01.2024 |
-| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills STR\|RPG - Skills STR]]                                   | 13.02.2025 | 21.01.2024 |
-| [[MAIN - LoreGent\|MAIN - LoreGent]]                                                                                                 | 12.02.2025 | 09.04.2024 |
-| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills SOC\|RPG - Skills SOC]]                                   | 12.02.2025 | 10.03.2024 |
-| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills INT\|RPG - Skills INT]]                                   | 12.02.2025 | 10.03.2024 |
-| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]] | 12.02.2025 | 21.01.2024 |
-| [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/quick solution to the situation\|quick solution to the situation]]       | 10.02.2025 | 08.06.2024 |
-| [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Skill check\|RPG - Skill check]]                                                               | 10.02.2025 | 21.01.2024 |
-| [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|RPG - Self-assistance]]                                                       | 10.02.2025 | 25.01.2024 |
-| [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Quick Reaction\|RPG - Quick Reaction]]                                                         | 10.02.2025 | 21.01.2024 |
+| File                                                                                                                                        | Updated    | Created    |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
+| [[MAIN - LoreGent\|MAIN - LoreGent]]                                                                                                     | 10.03.2025 | 09.04.2024 |
+| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]] | 28.02.2025 | 04.04.2024 |
+| [[LOREGENT/1 - ROLEPLAY/z RPG variables/LoreGent\|LoreGent]]                                                                             | 14.02.2025 | 09.04.2024 |
+| [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]                                                                         | 14.02.2025 | 21.01.2024 |
+| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills STR\|RPG - Skills STR]]                                       | 14.02.2025 | 21.01.2024 |
+| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]                               | 14.02.2025 | 26.06.2024 |
+| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]                                               | 14.02.2025 | 12.03.2024 |
+| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills SOC\|RPG - Skills SOC]]                                       | 12.02.2025 | 10.03.2024 |
+| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills REF\|RPG - Skills REF]]                                       | 12.02.2025 | 21.01.2024 |
+| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills INT\|RPG - Skills INT]]                                       | 12.02.2025 | 10.03.2024 |
 
 { .block-language-dataview}
 

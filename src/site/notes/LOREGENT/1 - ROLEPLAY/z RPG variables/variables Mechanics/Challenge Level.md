@@ -9,8 +9,8 @@ When a player decides they want to do something in the story, the narrator assig
 (read :  [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Challenge Level\|RPG - Challenge Level]] )
 #### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/quick solution to the situation\|quick solution to the situation]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|RPG - Basics of Magic]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character in general\|RPG - Character in general]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|RPG - Self-assistance]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice in general\|RPG - Dice in general]]
