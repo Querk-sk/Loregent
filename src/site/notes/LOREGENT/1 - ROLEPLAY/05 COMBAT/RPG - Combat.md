@@ -161,9 +161,9 @@ This is a different form of regular combat, where characters do not fight with w
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Speed\|RPG - Points of Speed]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Size of the character\|RPG - Size of the character]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character in general\|RPG - Character in general]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}

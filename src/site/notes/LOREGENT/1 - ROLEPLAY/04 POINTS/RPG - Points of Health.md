@@ -31,10 +31,10 @@ Each damage received by the character **does not reduce** the number of dice the
 
 Health can be protected during the game by:
 
-- Before the dice roll, using a sacrifice to gain [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/advantage\|advantage]] (so that numbers 3, 4, 5, or 6 count as victories on the dice).    
-- After the dice roll, using [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|sacrifice]] to add victories.    
-- During combat, health can be protected, besides the mentioned options, by choosing a suitable [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|maneuver]].    
-- Or by using armor to absorb damage.
+- **Before the dice roll**, using a sacrifice to gain [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/advantage\|advantage]] (so that numbers 3, 4, 5, or 6 count as victories on the dice).    
+- **After the dice roll**, using [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|sacrifice]] to add victories.    
+- **During combat**, health can be protected, besides the mentioned options, by choosing a suitable [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|maneuver]].    
+- Or **after combat** by using armor, which absorb damage.
 
 #### Healing Injuries
 
@@ -87,7 +87,7 @@ The [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Item Price\|cost]] 
 
 > [!example]
 > * Bandage, which has 3 uses and adds +1 die = cost 4
-> * Injection, which reduces CL by 2 = cost 6
+> * Injector, which reduces CL by 2 = cost 6
 > * Ring of regeneration – heals 0.5 of an injury each night – this depends on whether the narrator counts 0.5x4 or 5x4.
 > * Aura of slow healing - adds +2 dice to the regenerative roll, with "infinite" usage = cost 12
 
@@ -97,11 +97,11 @@ An injured character can be treated by someone else. The character who treats so
 
 - 3 Dice as a base    
 - plus Skill “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Working with hands\|Working with hands]]”    
-- plus [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|Talent]] focused on healing, without which the character rolls at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]], or at a [[great disadvantage\|great disadvantage]] in the case of complex healing or deep wounds that need a specialized doctor.    
+- plus [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|Talent]] focused on healing, without which the character rolls at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]], or at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|great disadvantage]] in the case of complex healing or deep wounds that need a specialized doctor.    
 - plus dice for regenerative items
 
 >[!warning]
-When one character wants to treat another character with their spell, only the spell is rolled, according to the rules of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Magic\|Magic]].
+When one character wants to treat another character with their spell, only the spell dice roll is used, according to the rules of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Magic\|Magic]].
 
 An injured character can be treated with a skill (and talent) a maximum of once every 24 hours. The injured character can then heal themselves through natural regeneration (even if they were treated by another character). However, not immediately—maybe after 1 hour, or only at night.
 
@@ -116,6 +116,7 @@ In the story, things can happen that harm the character or complicate their life
 - **Annoying** health problems reduce the number of dice the character can roll. These are complications like blindness, difficulty walking, or difficulty breathing. An annoying health problem itself never reduces [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] (like poison, for example).
 
 (Based on how quickly the health problem needs to be addressed, we divide the problem into:)
+
 - **Acute** problems are those that need to be addressed here and now. For example, the character is _currently_ on fire, and if they do not extinguish it, they will lose [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]].    
 - **Chronic** problems will bother the character longer, and their effect does not need to be addressed immediately (and cannot be addressed immediately here and now).
 

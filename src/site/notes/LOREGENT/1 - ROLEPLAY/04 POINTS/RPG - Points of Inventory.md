@@ -12,7 +12,7 @@ The inventory rule applies only to characters controlled by players. The remaini
 
 #### Inventory Consumption
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]] serve as a limit, indicating how many items a character can carry.
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]] serve as a limit, indicating how many items a character can carry. When the next item will exceed the limit, character cannot take it, or they can sacrifice 1 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|point of speed]] until character needs additional space in inventory.
 
 ##### Small Items
 
@@ -96,8 +96,7 @@ Inventory consumption can also be calculated according to certain “bundles” 
 - A bundle of basic items does not include all items in the world, but only those that enable the character to perform an activity.    
 - The bundle's name should reflect its contents – e.g., adventurer's bundle, herbalist's bundle, wizard's bundle, traveling doctor's bundle, etc.    
     - An adventurer's bundle might contain a sleeping bag, travel food, a torch, a small axe (for chopping wood), and so on. So, whenever the character needs to, for example, sleep in the forest, they simply "take out" the sleeping bag from the bundle.        
-- Each bundle's contents must be approved by the narrator. The narrator should determine which activities the bundle covers. Each world is different, and in each world, "basic" needs are considered differently.
-    
+- Each bundle's contents must be approved by the narrator. The narrator should determine which activities the bundle covers. Each world is different, and in each world, "basic" needs are considered differently.  
 
 **Advantages**:
 - Can contain a very large number of items of a certain type.    
@@ -125,7 +124,7 @@ Inventory consumption can also be calculated according to certain “bundles” 
 **Impact on Inventory**: minus 1 point, maximum of 10 items or 10 kg.
 
 **Description**:
-- This is a bundle of items that allow the character to perform an activity while also providing dice for rolls or benefits.    
+- This is a bundle of items that allow the character to perform an activity while also providing dice for rolls or benefits. 
 - Items in this bundle are listed individually, item by item – hence it is more of a list of things.    
     - For example, a bundle might include: Belt of Strength, Ring of Healing, Glasses of Perception, and so on.        
 - In addition to useful items, the list can include damaging items (e.g., grenades) or items with a single purpose and one-time use (e.g., 1x teleportation scroll).    
@@ -135,24 +134,20 @@ Inventory consumption can also be calculated according to certain “bundles” 
 - Items can be used in combat without limitation.    
 
 **Disadvantages**:
-- This bundle uses 1 point even when it is not full. So, even 1 item uses up 1 whole point.    
+- This bundle consumes 1 point even when it is not full. So, even 1 item uses up 1 whole point.    
 - The number of items that can fit in the bundle is limited to 10 items or 10 kg. So, if the character has two items, each weighing 5 kg, the bundle is considered full.    
 - Exceeding the weight or item limit deducts another point of speed from the character, thereby creating another bundle.
 
 ###### Weapon
 
-**Impact on Inventory**: 1 point per 2 attack points. (That is = Weapon attack divided by 2, rounded up)
-
-**Description**:
-- When a character has a [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|weapon]] in hand, it loses 1 point of speed for every 2 attack points.    
+**Impact on Inventory**: 
+- Weapon in hand consumes 1 point per 2 points of damage. (That is = Weapon attack divided by 2, rounded up)
 - When the weapon is stored in the inventory, it is considered a [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory#Stored Item\|stored item]] and falls under the category of [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory#Bundle of Special Items\|bundle of special items]].
 
 ###### Armor
 
-**Impact on Inventory**: 1 point per 2 armor points (That is = Armor divided by 2, rounded up)
-
-**Description**:
-- When a character has [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|armor]] equipped, it loses 1 point of speed for every 2 armor points.
+**Impact on Inventory**: 
+- Armor worn on the body consumes 1 point per 2 armor points (That is = Armor divided by 2, rounded up)
 - When the armor is stored in the inventory, it is considered a [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory#Stored Item\|stored item]] and falls under the category of [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory#Bundle of Special Items\|bundle of special items]].
 
 #### Backpack
@@ -161,19 +156,19 @@ A character can change the impact of inventory by purchasing a backpack. It adds
 
 These special items must specify how they change the impact on inventory and by how many points.
 
-In any case, *the change in inventory weight* and *adding speed points* is considered an attribute, priced at 4 points for 1 point.
+In any case, *the change in inventory weight* and *adding [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|points of inventory]]* is considered an attribute, priced at 4 points for 1 point.
 
 Backpack or exoskeleton themselves do not have any impact on inventory as items (it's as if they weigh nothing).
 
 ##### Stored Item
 
-Only the items that the character has on them (in hand, on foot, or in a place where the item is readily accessible, e.g., bandits with a sword at their belt) are counted towards the character's attributes (such as attack, armor, inventory, etc.).
+Only items that the character has on them (in hand, on foot, or in a place where the item is readily accessible, e.g., bandits with a sword at their belt) are counted towards the character's attributes (such as attack, armor, inventory, etc.).
 
-Items that are stored in a backpack, on a horse, in a treasury, on a ship, etc., are not counted towards the character's attributes.
+Items that are stored in a backpack, on a horse, in a treasury, on a ship, etc., are not counted towards the character's attributes (for example - the belt of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]]+1 in horse inventory will give character 0 points inf [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]]).
 
-The character is burdened by the item's weight only when it is on their body or in their backpack. When a character stores an item outside their body, e.g., places it in a bag on a horse, the item no longer burdens the character with its weight. Such an item is called a "stored" item.
+The character is burdened by the item's weight only when item is on their body or in their backpack. When a character stores an item outside their body, e.g. on a horse, the item no longer burdens the character with its weight. Such an item is called a "stored" item.
 
-This advantage, however, comes with a drawback. If the character wants to use their stored item as quickly as possible, e.g., during combat, they must be near the place where they store their items. Retrieving a stored item takes 2 rounds. If the character wants to use a weapon immediately, they must roll an [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] skill check against a difficulty level of 3. If they fail to meet this difficulty level, they cannot use the item in that round. Moreover, the number of rounds it takes for the character to retrieve the stored item to use it is equal to how much they missed the difficulty level by.
+This advantage, however, comes with a drawback. If the character wants to use their stored item as quickly as possible, e.g., during combat, they must be near the place where they store their items. Retrieving a stored item takes 2 rounds. If the character wants to use a weapon immediately, they must roll an [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] skill check against a challenge level of 3. If they fail to meet this challenge level, they cannot use the item in that round. Moreover, the number of rounds it takes for the character to retrieve the stored item to use, it's equal to how much they missed the challenge level by.
 
 ##### Dropping the Backpack
 
@@ -181,13 +176,13 @@ A character carrying heavy items or bundles in their inventory may lose speed po
 
 When the character drops the heavy backpack, all the negative effects are nullified. (The character can only drop the entire backpack – meaning all the items in it.)
 
-To drop a heavy backpack, the character must wait 1-2 rounds (depending on the number of items and the complexity of their binding), or roll an [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] skill check against a difficulty level of 3. If they succeed, they can react immediately in that round. The number of rounds it takes to discard the excess load equals how much they missed the difficulty level by. The player cannot roll again to drop the heavy inventory.
+To drop a heavy backpack, the character must wait 1-2 rounds (depending on the number of items and the complexity of their binding), or roll an [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] skill check against a challenge level of 3. If they succeed, they can react immediately in that round. The number of rounds it takes to discard the excess load equals how much they missed the challenge level by. The player cannot roll again [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] to drop their heavy inventory.
 
-Naturally, if the character does not have the heavy backpack on, they cannot use the items in it. The narrator decides on the possibility of using items from a dropped backpack.
+Naturally, if the character does not have the heavy backpack on, they cannot use the items stored in it. The narrator decides on the possibility of using items from a dropped backpack.
 
 #### New or Forgotten Items
 
-When it comes to items that were not considered when creating the character (e.g., whether a climber has pitons and carabiners for securing a rope), or items the player wishes to have (e.g., wants to throw a jug of water at the enemy), or items the player has already used but needs more of (e.g., more ammunition) - the so-called [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Luck roll\|Luck roll]] is used to determine if the character has such an item (or rather, if the character has found such an item). If the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Luck roll\|Luck roll]] is successful, the character finds the item and can use it. If the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Luck roll\|Luck roll]] is unsuccessful, the character does not find the item or finds an item that further complicates the situation.
+When it comes to items that were not considered when creating the character (e.g., whether a climber has pitons and carabiners for securing a rope), or items the player wishes to have (e.g., wants to throw a jug of water at the enemy), or items the player has already used but needs more of (e.g., more ammunition) - the so-called [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Luck roll\|Luck roll]] is used to determine if the character has such an item (or rather, if the character has found such an item). If the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Luck roll\|Luck roll]] is successful, the character finds the item and can use it. If the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Luck roll\|Luck roll]] is unsuccessful, the character does not find the item or finds an item which further complicates the situation.
 
 ##### Result of the Luck Roll When Searching for Items
 
@@ -195,27 +190,27 @@ The character is looking for something:
 
 1. Huge Misfortune    
     - Either the character does not find the item.        
-    - Or the character finds the item, but using it increases the difficulty level by plus 2 because it is broken.        
-    - Or the character finds the item, but to use it, they must solve a problem at difficulty level 3.        
-    - Or the character must assemble or activate the item. Assembling or activating it will also have a difficulty level of 3.        
+    - Or the character finds the item, but using it increases the challenge level by plus 2 because it is broken.        
+    - Or the character finds the item, but to use it, they must solve a problem at challenge level 3.        
+    - Or the character must assemble or activate the item. Assembling or activating it will also have a challenge level of 3.        
 2. Great Misfortune    
     - Either the character does not find the item.        
-    - Or the character finds the item, but using it increases the difficulty level by plus 1 because it is somewhat broken.        
-    - Or the character finds the item, but to use it, they must solve a problem at difficulty level 2.        
-    - Or the character must assemble or activate the item. Assembling or activating it will also have a difficulty level of 2.        
+    - Or the character finds the item, but using it increases the challenge level by plus 1 because it is somewhat broken. 
+    - Or the character finds the item, but to use it, they must solve a problem at challenge level 2.        
+    - Or the character must assemble or activate the item. Assembling or activating it will also have a challenge level of 2.        
 3. Slight Misfortune    
-    - The character finds the item, but to use it, they must solve a problem at difficulty level 1.        
-    - Or the character must assemble or activate the item. Assembling or activating it will also have a difficulty level of 1.        
+    - The character finds the item, but to use it, they must solve a problem at challenge level 1.        
+    - Or the character must assemble or activate the item. Assembling or activating it will also have a challenge level of 1.        
 4. Slight Fortune    
-    - The character finds the item and can use it immediately.        
+    - The character finds the item and can use it immediately.   
 5. Great Fortune    
-    - The character finds the item and can use it immediately. This item reduces the difficulty level by 1 or adds 1 win to the roll.        
+    - The character finds the item and can use it immediately. This item reduces the challenge level by 1 or adds 1 win to the roll.        
 6. Huge Fortune    
-    - The character finds the item and can use it immediately. This item reduces the difficulty level by 2 or adds 2 wins to the roll.
+    - The character finds the item and can use it immediately. This item reduces the challenge level by 2 or adds 2 wins to the roll.
 
 ### TAG and LINK : 
 - Stability : #stability/mild_stability  
-- Version : #version/2024/08 
+- Version : #version/2025/03 
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -257,6 +252,7 @@ The character is looking for something:
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Weight of Inventory\|Weight of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Inventory\|Inventory]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Other Challenge Levels\|RPG - Other Challenge Levels]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 

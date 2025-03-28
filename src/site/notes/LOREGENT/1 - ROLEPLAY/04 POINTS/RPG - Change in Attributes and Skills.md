@@ -6,11 +6,11 @@
 
 #### Point Transfer
 
-Every character develops during the story. Some may become stronger, others may weaken, or they may gain new experiences. This story development is captured in the game through the so-called point transfer. Each character can transfer 1 point from any attribute to any other Attribute. This transfer is allowed only once every two played (story) years. Regarding [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Skill\|Skills]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|Talent]], or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specializations]], a character can transfer 1 point from any Skill to any other Skill, Talent, or Specialization, only once every 2 weeks.
+Every character develops during the story. Some may become stronger, others may weaken, or they may gain new experiences. This story development is captured in the game through the so-called point transfer. Each character can transfer 1 point from any attribute to any other Attribute. This transfer is allowed only once every two story years. Regarding [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Skill\|Skills]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|Talent]], or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specializations]], a character can transfer 1 point from any Skill to any other Skill, Talent, or Specialization, only once every 2 weeks.
 
-Points can also be transferred such that an Attribute, Skill, or Talent reaches a value below 0. However, this requires the narrator's consent. (This does not apply to specializations).
+Points can also be transferred such that an Attribute, Skill, or Talent reaches a value below 0. However, this requires the narrator's consent. (This does not apply to [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|specializations]]).
 
-> [!example]
+> [!note]
 > The word “Spell” includes: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Magic\|magic]], special aptitude, abilities, superpowers, or sci-fi technologies. We use the word “Spell” or the word “Magic” when we do not want to list all the abilities.
 
 #### Increasing Attribute and Skill Points

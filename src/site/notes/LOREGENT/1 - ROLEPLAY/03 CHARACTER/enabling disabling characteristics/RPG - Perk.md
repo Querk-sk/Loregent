@@ -5,12 +5,12 @@
 
 ### Perk
 
-Some characters may have innate special traits, talents, or skills that set them apart from others. These traits, known as "perks," are free for the characters. However, their effects are limited to special cases, and some traits may also have drawbacks. A character can choose only one innate trait, and the trait (and its corresponding disadvantage) must be approved by the narrator. The trait is listed among talents in the character's table.
+Some characters may have innate special trait, talent, or skill that set them way apart from others. These traits, known as "perks," are free for the characters. However, their effects are limited to special cases, and traits must also have drawbacks. A character can choose only one innate trait, and the trait (and its corresponding disadvantage) must be approved by the narrator. The trait is listed among other talents in the character sheet.
 
 > [!example]
-> **Cat Person**: When in darkness (where a normal person can't see), they get +2 dice on a [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]] skill roll. However, such a character is sensitive to light and loses 2 dice on a [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]] roll in strong light (e.g., sharp sunlight at noon).
+> **Cat Person**: When in darkness (where a normal person can't see), cat-person gets +2 dice on a [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]] skill roll. However, such a cat-character is sensitive to light and loses 2 dice on a [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]] roll in environment with strong light (e.g., sharp sunlight at noon).
 > 
-> **Fish Person**: +3 to [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Mobility\|Mobility]] when swimming in water. On land, they lose 2 dice from [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]] if they don't drink water (let’s say they need 1 liter every 3 hours).
+> **Fish Person**: +3 to [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Mobility\|Mobility]] when swimming in water. On land, they lose 2 dice from [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]].
 > 
 > **Bear**: +2 to [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]], -2 to [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Persuasion\|Persuasion]].
 
@@ -18,20 +18,19 @@ Some characters may have innate special traits, talents, or skills that set them
 
 A powerful trait (or Keystone) is an attribute of a character that changes the whole game for that specific character. It can make certain RPG rules not apply to the character or work in entirely different ways. Each powerful trait must have both advantages and disadvantages, balanced accordingly. However, not every powerful trait must have a level. Below is a list serving as inspiration for the narrator, who can create any powerful traits they desire.
 
-A powerful trait, like other traits or blessings, is listed among talents in the character's table.
+A powerful trait, like other traits or blessings, is listed among the talents in the character table. The level of a blessing or powerful trait does not consume points from those that the player uses for skills, talents, or specializations. The level can be determined by the narrator or by an event in the story.
 
 ##### Perfect
 
 **Description**: 
-The character rolls one die. If they roll a success (4, 5, 6), their success will be perfect (as if they rolled 7 successes with 7 dice plus some extra benefit). If they roll a failure (3, 2, 1), their failure will also be perfect (as if they rolled only failures plus some extra drawback).
+The character first rolls one die. If they roll a success (for example 4 / 5 or 6), their success will be perfect (as if they rolled 7 successes with 7 dice). If they roll a failure (3 / 2 or 1), their failure will also be perfect (as if they rolled only failures).
 
 **Levels**: 
 The level affects the range of numbers when this powerful trait activates. If different numbers are rolled (outside the range), the character must roll their normal skill check.
 
-1: The activation range is only 6 and 1 (6 as a perfect success, 1 as the worst failure). 
-2: The activation range is 6, 5, 2, and 1. 
-3: The activation range is 6, 5, 4, 3, 2, and 1. 
-4: The activation range is 6, 5, 4, 3, 2, and 1. The character rolls two dice and chooses the one with the better result.
+1 : The activation range is 6, 5, 4, and 3, 2, 1.
+2 : The activation range is 6, 5, and 2, 1.  4 acts as normal success and 3 as normal failure
+3 : The activation range is 6, and 1. 5 and 4 acts as normal success and 3 and 2 as normal failure
 
 ##### Free
 
@@ -47,7 +46,7 @@ The level affects when the character is free. For example, at the lowest level, 
 **Description**: 
 The character is extremely strong. They can break through anything, crush anything, tear anything apart, all with ease as if everything were made of butter. However, the character lacks fine motor skills—any delicate work they attempt will be ruined because they handle everything with full force.
 
-In every roll involving the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]] attribute (or in any situation where they use their strength), they get +4 successes. However, with every roll, they will break, damage, or injure someone.
+In every roll involving the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]] attribute (or in any situation where they use their strength), they get +4 successes. However, in case of failure, they will "succeed", but they will break something, damage, tear down, or injure someone.
 
 ##### Guru
 (no levels)
@@ -55,7 +54,7 @@ In every roll involving the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables At
 **Description**:
 For this character, money is worthless, and so they don’t use it. Instead, they live spiritually and in the present.
 
-This character cannot use money. They can't sell or buy anything, nor can they help with selling or buying. All wealth points are converted into skill points (4 skill points per 10 wealth points) or attribute points (1 attribute point per 10 wealth points). The character can pay for services by rolling SOC (e.g., [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Persuasion\|Persuasion]]) to give some life advice to the merchant.
+This character cannot use money. They can't sell or buy anything, nor can they help with selling or buying. All wealth points are converted into skill points (4 skill points per 10 wealth points) or attribute points (1 attribute point per 10 wealth points). The character can pay for services by rolling [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] (e.g., [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Persuasion\|Persuasion]]) to give some life advice to the merchant.
 
 The character can only pay for services through bartering or exchanging a service for a service (e.g., "I’ll peel your potatoes in exchange for a place to sleep under the stairs"). The character always demands the lowest quality (or a basic item) but tries to do as much as possible for the other person.
 
@@ -81,13 +80,13 @@ This character has armor and weapons that gradually improve. They do so by findi
 (no levels)
 
 **Description**: 
-Anything the character touches breaks, and anything that touches the character also breaks. This means the character can only fail or break something. If they manage to pass a difficulty level, they break the object in such a way that it becomes useful or harmless. On the other hand, if a weapon harms the character, the weapon is damaged, or if it tries to target the character, it gets jammed.
+Anything the character touches breaks, and anything that touches the character also breaks. This means the character can only fail or break something. If they manage to pass a challenge level, they break the object in such a way that it becomes useful or harmless. On the other hand, if a weapon harms the character, the weapon is damaged, or if it tries to target the character, it gets jammed.
 
 ##### Average
 (no levels)
 
 **Description**: 
-This character is average in everything. Everything they do succeeds "averagely." This means they can never fail. They can fix or start things, but if they fail a roll (don't meet the difficulty level), it just extends the time needed for the repair, activation, or other tasks. This powerful trait only applies to skills and not to combat. On the other hand, the character doesn't have any skill points. They can put 1 point into talents or spells. Attributes are not affected by this powerful trait.
+This character is average in everything. Everything they do succeeds "averagely." This means they can never fail. They can fix or start things, but if they fail a roll (don't meet the challenge level), it just extends the time needed for the repair, activation, or other tasks. This powerful trait only applies to skills and not to combat. On the other hand, the character doesn't have any skill points. They can put 1 point into talents or spells. Attribute rolls does not activate this trait.
 
 ##### Protector
 (no levels)
@@ -106,29 +105,29 @@ The narrator simply assigns such an item an advantage and a disadvantage.
 
 >[!example]
 >- Sword of Precision
->	- Advantage: The sword contains 2 points that can be exchanged for a success. These points are replenished after each battle.
+>	- Advantage: The sword contains 2 points that can be exchanged for a success in any dice roll. These points are replenished after each battle.
 >	- Disadvantage: The sword decreases the character's attack by 2.
 
-The price of such an item does not need to change if it has a disadvantage of equal value. Otherwise, if it has a smaller disadvantage or no disadvantage at all, each point (which gives an advantage) is multiplied by 4.
+The **price** of such an item does not need to change if it has a disadvantage of equal value. Otherwise, if it has a smaller disadvantage or no disadvantage at all, each point (which gives an advantage) is multiplied by 4.
 
 >[!example]
 >- Sword of Precision
 >	- Standard: Attack +2
 >	- Advantage: The sword contains 2 points that can be exchanged for a success. These points are replenished after each battle.
 >	- Disadvantage: (none)
->- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Cena predmetu\|Price]] : 12 
+>- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Cena predmetu\|Price]] (for example): 12 
 ><br>
 >- Sword of Precision
 >	- Standard: Attack +2
 >	- Advantage: The sword contains 2 points that can be exchanged for a success. These points are replenished after each battle.
 >	- Disadvantage: The sword decreases the character's attack by 1 (instead of -2)
->- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Cena predmetu\|Price]] : 8
+>- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Cena predmetu\|Price]] (for example): 8
 ><br>
 >- Sword of Precision
 >	- Standard: Attack +2
 >	- Advantage: The sword contains 2 points that can be exchanged for a success. These points are replenished after each battle.
 >	- Disadvantage: The sword decreases the character's attack by minus 2
->- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Cena predmetu\|Price]] : 4
+>- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Cena predmetu\|Price]] (for example): 4
 
 ### Blessing
 
@@ -161,7 +160,7 @@ As for blessings, they vary according to the amount of attention the god pays to
 
 Characters can gain the god's attention by chance, through their actions, by praying, or by completing tasks in moral situations. Alternatively, they can do something directly for the god.
 
-With regard to points, they function like training points. The character's talent table lists the god's name alongside a starting value of 0. When the character does something good (for that god), they earn points (e.g., 0.01 for a prayer), and when they do something bad, points are deducted. The amount of points a character earns or loses for their deeds is determined by the narrator, who may use the rule of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]] for guidance. To reach one level, a character must accumulate 100 points.
+With regard to points, they function like [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]]. The character's talent table lists the god's name alongside a starting value of 0. When the character does something good (for that god), they earn points (e.g., 0.01 for a prayer), and when they do something bad, points are deducted. The amount of points a character earns or loses for their deeds is determined by the narrator, who may use the rule of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]] for guidance. To reach one level, a character must accumulate 100 points.
 
 #### List of Blessings
 
@@ -172,25 +171,25 @@ Each character can receive only one blessing. However, they may receive multiple
 	    - The character receives minor help, a small item, or advice from the god.        
 	    - This blessing is unlimited and can be combined with any other blessing.        
 	- **Levels**    
-	    - 1: The god won't speak to the character but will occasionally send a small gift, sign, or reduce the difficulty level by 1.        
-	    - 2: The god will speak to the character like a boss, giving something for something in return. The character must earn the information, or the god will reduce the difficulty level by 2.        
-	    - 3: The god will speak like a merchant, offering something for something, but advice will be free (limited to the god's knowledge, e.g., the god of hunting can only give hunting advice). Or the god will reduce the difficulty level by 3. 
-	    - 4: The god will speak like a friend and sometimes give gifts without the character needing to do anything or reduce the difficulty level by 4.        
-	    - 5: The god will speak like family and may help the character in times of need (either personally or by sending someone capable). The character can ask the god anything, and the god will find out from other gods if they don't know. Or the god will reduce the difficulty level by 5.
+	    - 1: The god won't speak to the character but will occasionally send a small gift, sign, or reduce the challenge level by 1.        
+	    - 2: The god will speak to the character like a boss, giving something for something in return. The character must earn the information, or the god will reduce the challenge level by 2.        
+	    - 3: The god will speak like a merchant, offering something for something, but advice will be free (limited to the god's knowledge, e.g., the god of hunting can only give hunting advice). Or the god will reduce the challenge level by 3. 
+	    - 4: The god will speak like a friend and sometimes give gifts without the character needing to do anything or reduce the challenge level by 4.        
+	    - 5: The god will speak like family and may help the character in times of need (either personally or by sending someone capable). The character can ask the god anything, and the god will find out from other gods if they don't know. Or the god will reduce the challenge level by 5.
 - Divine Disfavor
 	- **Description**    
 	    - The god will attack the character because they go against the god's plans. The character will face curses and villains.        
 	    - Disfavor is unlimited and can be combined with any other blessing or disfavor.        
 	- **Levels**    
-	    - 1: The god causes minor problems for the character, sometimes increasing the difficulty level by 1 (e.g., if the character angered the god of the forest, the god might scare away animals when the character tries to hunt).        
-	    - 2: The god sends a small creature to bother the character or increases the difficulty level by 2.        
-	    - 3: The god causes inconveniences, like stealing or destroying something from the character or increasing the difficulty level by 3.        
-	    - 4: The god will attack occasionally, hiring assassins or creating monsters, or increasing the difficulty level by 4.        
-	    - 5: The god will actively attack, sending various strengthened assassins with the character's death as a priority, or increasing the difficulty level by 5.
+	    - 1: The god causes minor problems for the character, sometimes increasing the challenge level by 1 (e.g., if the character angered the god of the forest, the god might scare away animals when the character tries to hunt them).        
+	    - 2: The god sends a small creature to bother the character or increases the challenge level by 2.        
+	    - 3: The god causes inconveniences, like stealing or destroying something from the character or increasing the challenge level by 3.        
+	    - 4: The god will attack occasionally, hiring assassins or creating monsters, or increasing the challenge level by 4.        
+	    - 5: The god will actively attack, sending various strengthened assassins with the character's death as a priority, or increasing the challenge level by 5.
 
 ### TAG and LINK : 
 - Stability : #stability/unstable
-- Version : #version/2024/06 
+- Version : #version/2025/03 
  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

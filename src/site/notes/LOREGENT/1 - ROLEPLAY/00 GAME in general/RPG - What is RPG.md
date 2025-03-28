@@ -45,7 +45,7 @@ The player checks the character sheet to know how many dice they can use for the
 
 #### A note on player-to-player communication with the narrator
 
-Our system is flexible. The Narrator can adjust the rules as needed. Therefore, not all things or possibilities for how the rules should be applied are mentioned here (for example, what damage a sword should deal on a hit, what talents a player is allowed, and so on). This is determined solely by the Narrator and their story. On the other hand, every player can fully use their creativity to create the character they want. Of course, considering the rules set by the Narrator.
+Our system is flexible. The Narrator can adjust the rules as their story needs. Therefore, not all things or possibilities for how the rules should be applied are mentioned here (for example, what damage a sword should deal on a hit, what talents a player is allowed, and so on). This is determined solely by the Narrator and their story. On the other hand, every player can fully use their creativity to create the character they want. Of course, considering the rules set by the Narrator.
 
 > [!example]
 >Even if it is a medieval story, the character can be a 'Truck Driver' if it involves a random time traveler or a reincarnated soul (who was a truck driver in their past life).

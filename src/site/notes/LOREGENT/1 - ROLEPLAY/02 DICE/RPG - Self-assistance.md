@@ -50,7 +50,6 @@ The [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll
 
 #### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Items\|RPG - Points of Items]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 

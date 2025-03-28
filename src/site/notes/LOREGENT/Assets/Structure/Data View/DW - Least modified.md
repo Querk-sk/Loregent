@@ -31,21 +31,21 @@
 | [[LOREGENT/Assets/Fleeting Notes/vedomie podvedomie nadvedomie - nápad\|vedomie podvedomie nadvedomie - nápad]]                                       | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/stratégia na ovládnutie systému svetov - nápad\|stratégia na ovládnutie systému svetov - nápad]]                     | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Seriály/The magicians\|The magicians]]                                                                               | 05.07.2024    |
-| [[LOREGENT/Assets/Fleeting Notes/Príbeh - The first of us - nápad\|Príbeh - The first of us - nápad]]                                                 | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Robili s ním veci - citát môj\|Robili s ním veci - citát môj]]                                                       | 05.07.2024    |
+| [[LOREGENT/Assets/Fleeting Notes/Príbeh - The first of us - nápad\|Príbeh - The first of us - nápad]]                                                 | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Pomsta - citát\|Pomsta - citát]]                                                                                     | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Politický parlament slovenska\|Politický parlament slovenska]]                                                       | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Oživenie človeka ktorý zomrel - príbeh\|Oživenie človeka ktorý zomrel - príbeh]]                                     | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Návody pre príbehy/Pixar design process\|Pixar design process]]                                                      | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Návody pre príbehy/Ako písať scenár - návod\|Ako písať scenár - návod]]                                              | 05.07.2024    |
-| [[LOREGENT/Assets/Fleeting Notes/Múdrosť - citát\|Múdrosť - citát]]                                                                                   | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Mágia Počítačová - nápad\|Mágia Počítačová - nápad]]                                                                 | 05.07.2024    |
+| [[LOREGENT/Assets/Fleeting Notes/Múdrosť - citát\|Múdrosť - citát]]                                                                                   | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Mravce a levy - fakty\|Mravce a levy - fakty]]                                                                       | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/LW magic - otázka - link\|LW magic - otázka - link]]                                                                 | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Kráľ Nočných môr\|Kráľ Nočných môr]]                                                                                 | 05.07.2024    |
+| [[LOREGENT/Assets/Fleeting Notes/Hack Your Brain With Elaborate Coping Mechanisms - návod\|Hack Your Brain With Elaborate Coping Mechanisms - návod]] | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Immortal Querk\|Immortal Querk]]                                                                                     | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Fér - nápad\|Fér - nápad]]                                                                                           | 05.07.2024    |
-| [[LOREGENT/Assets/Fleeting Notes/Hack Your Brain With Elaborate Coping Mechanisms - návod\|Hack Your Brain With Elaborate Coping Mechanisms - návod]] | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Design Requirements - návod\|Design Requirements - návod]]                                                           | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/chrám detí\|chrám detí]]                                                                                             | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Boh - Krvavý - nápad\|Boh - Krvavý - nápad]]                                                                         | 05.07.2024    |

@@ -9,15 +9,15 @@
 (read : [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]] )
 #### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Weight of Inventory\|Weight of Inventory]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Inventory\|Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Reward\|RPG - Points of Reward]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character in general\|RPG - Character in general]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
 
 { .block-language-dataview}

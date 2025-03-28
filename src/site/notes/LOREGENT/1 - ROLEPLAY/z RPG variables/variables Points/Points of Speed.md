@@ -21,13 +21,13 @@ Points of Speed determine the order in combat and also indicate how many items a
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Reward\|RPG - Points of Reward]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Sacrifice\|RPG - Points of Sacrifice]]
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Reward\|RPG - Points of Reward]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Size of the character\|RPG - Size of the character]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character in general\|RPG - Character in general]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Advantage and Disadvantage\|RPG - Advantage and Disadvantage]]
 
 { .block-language-dataview}

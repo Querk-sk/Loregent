@@ -182,7 +182,7 @@ The item found can be used in the next round, or if there are still unused actio
 
 **Type:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|Damaging]] action rolled before the attack - fast action.
 
-**Description:** A character can use their vehicle in battle. They can maneuver it to ram the enemy or position it for better shooting. This maneuver is rolled as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]] with the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Skillfulness\|Skillfulness]] skill connected to a talent related to [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/z - ostatné/Pilot and Ride\|Pilot and Ride]] (e.g., fighter pilot).
+**Description:** A character can use their vehicle in battle. They can maneuver it to ram the enemy or position it for better shooting. This maneuver is rolled as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]] with the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Skillfulness\|Skillfulness]] skill connected to a talent related to [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/z - others/Pilot and Ride\|Pilot and Ride]] (e.g., fighter pilot).
 
 Note: Though referred to as a vehicle, this maneuver applies to all machines that can be piloted, including aircraft, spaceships, and so on.
 

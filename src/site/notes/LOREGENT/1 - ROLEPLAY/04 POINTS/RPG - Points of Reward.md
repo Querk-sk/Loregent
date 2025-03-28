@@ -4,11 +4,11 @@
 
 ### Points of Reward
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]] do not exist by themselves; it's a game mechanic through which a character receives a reward for defeating a group of enemies, completing a task, or for a player playing their character very well (like a good actor). These points are used to increase [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]], increase [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]], restore other points that the character previously used up (e.g., [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|Armor]], etc.), or to obtain an item.
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]] do not exist by themselves; it's a game mechanic through which a character receives a reward for defeating a group of enemies, completing a task, or for a player playing their character very well (like a good actor). These points are used to increase [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]], increase [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]], restore other points that the character have previously spent (e.g., [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|Armor]], etc.), or for obtaining an item.
 
 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]] are always given by the narrator and the player should use them as soon as possible.
 
-The reward points rule applies only to characters controlled by players. Other characters controlled by the narrator do not receive any rewards.
+The [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]  rule applies only to characters controlled by players. Other characters controlled by the narrator do not receive any rewards.
 
 #### Points for Combat
 
@@ -21,47 +21,47 @@ Regarding defeating an enemy, the narrator has four options for setting the rewa
 
 ##### First Option: Points Based on Enemy Level
 
-The narrator can use a luck die to [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Encounter#Množstvo atribútov pre nepriateľa\|determine the strength of the enemies]] that attacked the characters. This strength of the enemies also determines the amount of reward when the characters defeat them.
+The narrator can use a luck die to [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Encounter#Enemy Attribute Points\|determine the strength of the enemies]] that attacked the characters. This strength of the enemies also determines the amount of reward when the characters defeat them.
 
 All characters receive this reward after the battle and in the same amount (the reward is not divided).
 
-- Level 1 = +2 reward points (number 6 on the luck die)    
-- Level 2 = +4 reward points (number 5 on the luck die)    
-- Level 3 = +6 reward points (number 4 on the luck die)    
-- Level 4 = +8 reward points (number 3 on the luck die)    
-- Level 5 = +10 reward points (number 2 on the luck die)    
-- Level 6 = +12 reward points (number 1 on the luck die)
+- Level 1 = +2 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]  (number 6 on the [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Encounter#Enemy Attribute Points\|luck die]])    
+- Level 2 = +4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (number 5 on the [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Encounter#Enemy Attribute Points\|luck die]])    
+- Level 3 = +6 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (number 4 on the [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Encounter#Enemy Attribute Points\|luck die]])    
+- Level 4 = +8 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (number 3 on the [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Encounter#Enemy Attribute Points\|luck die]])    
+- Level 5 = +10 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (number 2 on the [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Encounter#Enemy Attribute Points\|luck die]])    
+- Level 6 = +12 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (number 1 on the [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random Encounter#Enemy Attribute Points\|luck die]])
 
 ##### Second Option: Points Based on Enemy Type
 
 Characters receive this reward as soon as they defeat (or kill) the enemy. However, if they wish, they can receive it at the end of the battle. The fate of the reward is decided by the narrator. The narrator can decide that the reward goes only to the character who killed the enemy, or that the reward is shared equally among all characters.
 
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Extras\|Extras]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Unimportant Character\|Minor Character]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Supporting Character\|Supporting Character]] = +4 reward points for defeating or killing.    
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Important Character\|Important Enemy]] = +10 reward points for defeating, +20 reward points for killing.    
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Main Hero\|Main Enemy]] = +30 reward points for defeating, +60 reward points for killing.    
-- Enemy [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Divine Character\|Divine Characters]] = +120 reward points for defeating.
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Extras\|Extras]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Unimportant Character\|Minor Character]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Supporting Character\|Supporting Character]] = +4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for defeating or killing.    
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Important Character\|Important Enemy]] = +10 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for defeating, +20 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for killing.    
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Main Hero\|Main Enemy]] = +30 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for defeating, +60 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for killing.    
+- Enemy [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters#Divine Character\|Divine Characters]] = +120 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for defeating.
 
 ##### Third Option: Points Based on Group Size
 
 All characters receive this reward after the battle and in the same amount (the reward is not divided).
 
-- One or two enemies: +4 reward points for defeating or killing    
-- Small group of enemies: +8 reward points for defeating or killing    
-- Large group of enemies: +16 reward points for defeating or killing
+- One or two enemies: +4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for defeating or killing    
+- Small group of enemies: +8 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for defeating or killing    
+- Large group of enemies: +16 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for defeating or killing
 
 ##### Fourth Option: Points Based on Enemy Group Strength
 
 All characters receive this reward after the battle and in the same amount (the reward is not divided).
 
-- Weak enemy: +4 reward points for defeating or killing    
-- Average enemy: +8 reward points for defeating or killing    
-- Strong enemy: +16 reward points for defeating or killing
+- Weak enemy: +4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for defeating or killing    
+- Average enemy: +8 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for defeating or killing    
+- Strong enemy: +16 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] for defeating or killing
 
 ##### Special Task
 
-During combat, a character can receive a special task that they may or may not complete. For example, an enemy attacks a villager and tries to kidnap them, or an entrance to a building needs to be barricaded. These tasks are optional and not crucial for the “main” battle taking place but can help the villagers. Completing such a task rewards the player with reward points equal to the difficulty level of the task or based on the level of the enemy they had to defeat.
+During combat, a character can receive a special task that they may or may not complete. For example, an enemy attacks a villager and tries to kidnap them, or an entrance to a building needs to be barricaded. These tasks are optional and not crucial for the “main” battle taking place (but it can help the villagers for example). Completing such a task rewards the player with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]  equal to the challenge level of the task , or CL based on the level of the enemy they had to defeat.
 
-If a character performs a heroic deed during combat or accomplishes something incredible, they can also receive reward points. In this case, the number of points is determined by the difficulty level of the task, but the narrator can increase the total number of points.
+If a character performs a heroic deed during combat or accomplishes something incredible, they can also receive [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] . In this case, the number of points is determined by the challenge level of the task, but the narrator can increase the total number of points.
 
 ##### Group Points Division
 
@@ -80,22 +80,22 @@ The narrator determines the reward amount for each completed condition in the st
 - Moderately difficult task: 6 points    
 - Difficult task: 12 points
 
-The narrator may also decide that characters receive points for completing side (optional or special) tasks based on the difficulty level of the task. If the task involves multiple dice rolls with multiple DLs, the narrator selects only the highest DL (or can decide to sum up all DLs). In that case, the reward would look like this:
+The narrator may also decide that characters receive points for completing side (optional or special) tasks based on the challenge level of the task. If the task involves multiple dice rolls with multiple CLs, the narrator selects only the highest CL (or can decide to sum up all CLs). In that case, the reward would look like this:
 
-- DL 3 = +9 reward points    
-- DL 4 = +12 reward points    
-- DL 5 = +15 reward points    
-- DL 6 = +18 reward points    
-- DL 7 = +21 reward points    
-- DL 8 = +24 reward points    
-- (DL x 3)
+- CL 3 = +9 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]    
+- CL 4 = +12 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]   
+- CL 5 = +15 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]
+- CL 6 = +18 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]  
+- CL 7 = +21 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]
+- CL 8 = +24 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]
+- (CL x 3)
 
 ##### Main Task
 
 The main task is something that players must accomplish. It is their primary goal. It spans multiple sessions and mainly several story days (it can involve story months or even years).
 
 > [!example] 
->The characters must break into a magical bank. They want to steal a valuable artifact from there. The problem is that it's the most guarded city in the entire country, with many battle-hardened mages, numerous traps, and who knows what else. Moreover, the artifact is in a magical vault that not just anyone can open. The characters don't even know exactly where the artifact is. So, to complete the main task, they must gather all the information, accumulate resources, perhaps hire someone, and devise a foolproof plan.
+>The characters must break into a magic bank. They want to steal a valuable artifact from there. The problem is that it's the most guarded city in the entire country, with many battle-hardened mages, numerous traps, and who knows what else. Moreover, the artifact is in a magic vault that not just anyone can open. The characters don't even know exactly where the artifact is. So, to complete the main task, they must gather all the information, accumulate resources, perhaps hire someone, and devise a foolproof plan.
 
 The main task can be likened to a story from a book. It's something that unfolds throughout the entire novel.
 
@@ -104,7 +104,7 @@ The main task can be likened to a story from a book. It's something that unfolds
 Alongside the Main Task, side tasks that relate to the main one may arise. A side task should not last more than three RPG sessions or more than a story month. A side task can address part of the Main Task or be something entirely outside the main story.
 
 > [!example] 
-> The players need to break into a magical bank with many magical vaults. However, they need a potion from the Alchemist. The Alchemist gives them a task before starting the potion. For example, the players must raid a bandit camp (partly because the Alchemist was attacked and robbed by the bandits, and partly because the camp contains ingredients for the potion). The bandit camp is quite large, so the players must plan the best way in and out.
+> The players need to break into a magic bank with many magic vaults. However, they need a potion from the Alchemist. The Alchemist gives them a task before starting the potion. For example, the players must raid a bandit camp (partly because the Alchemist was attacked and robbed by the bandits, and partly because the camp contains ingredients for the potion - because they rob the alchemist). The bandit camp is quite large, so the players must plan the best way in and out.
 
 > [!example] 
 > (outside the main storyline)
@@ -114,59 +114,59 @@ A side task can be likened to a chapter in a book. It is something addressed ove
 
 #### Points for Fulfilling a Desire
 
-Every character has something they desire, wants to achieve, or atone for. It can be something small or something very significant that they struggle with throughout their life. For fulfilling this desire, the character receives reward points based on the difficulty level of the given desire.
+Every character has something they desire, wants to achieve, or atone for. It can be something small or something very significant that they struggle with throughout their life. For fulfilling this desire, the character receives [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]  based on the challenge level of the given desire.
 
-- DL 3 = +9 reward points    
-- DL 4 = +12 reward points    
-- DL 5 = +15 reward points    
-- DL 6 = +18 reward points    
-- DL 7 = +21 reward points    
-- DL 8 = +24 reward points    
-- (DL x 3)
+- CL 3 = +9 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]     
+- CL 4 = +12 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]     
+- CL 5 = +15 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]     
+- CL 6 = +18 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]     
+- CL 7 = +21 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]     
+- CL 8 = +24 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]     
+- (CL x 3)
 
 > [!example]
-> A character wants to quit smoking. This is a very difficult task requiring a lot of effort, with a DL of 5. When the character successfully quits smoking, they receive 15 reward points.
+> A character wants to quit smoking. This is a very difficult task requiring a lot of effort, with a CL of 5. When the character successfully quits smoking, they receive 15 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] .
 
 #### Points for Good Role-Playing
 
-When a player portrays their character very well, like an actor in a movie, and does everything the character would do, even if it harms the character – the narrator can decide to reward the player. As a reward, they can give 4 reward points (or 8 for exceptional role-playing. Each level is in multiples of 4).
+When a player portrays their character very well, like an actor in a movie, and does everything the character would do, even if it harms the character – the narrator can decide to reward the player. As a reward, they can give 4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (or 8 for exceptional role-playing. Each level is in multiples of 4).
 
 #### Points for Treasure
 
 Characters can also earn [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]] when they find treasure, gems, or something truly valuable. The narrator can decide whether the characters receive wealth points or an item. The number of points that the character (or their group) receives is based on the level of the treasure. This number can be multiplied by its size.
 
 - Points based on treasure level:    
-    - Level 0 = +2 reward points (Worthless) (number 1 on the luck die)        
-    - Level 1 = +4 reward points (Common) (number 2 on the luck die)        
-    - Level 2 = +6 reward points (Uncommon) (number 3 on the luck die)       
-    - Level 3 = +8 reward points (Exceptional) (number 4 on the luck die)       
-    - Level 4 = +10 reward points (Rare) (number 5 on the luck die)        
-    - Level 5 = +12 reward points (Very Rare) (number 6 on the luck die)        
+    - Level 0 = +2 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (Worthless) (number 1 on the luck die)        
+    - Level 1 = +4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (Common) (number 2 on the luck die)        
+    - Level 2 = +6 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (Uncommon) (number 3 on the luck die)       
+    - Level 3 = +8 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (Exceptional) (number 4 on the luck die)       
+    - Level 4 = +10 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (Rare) (number 5 on the luck die)        
+    - Level 5 = +12 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]] (Very Rare) (number 6 on the luck die)        
 - Points based on treasure size:    
     - x 1 (Common size – the treasure fits into a small chest)        
     - x 2 (Uncommon size – the treasure fits into a closet)        
     - x 3 (Exceptional size – the treasure fits into a room)        
     - x 4 (Large treasure – the treasure fits into a house)        
-    - x 5 (Very large treasure – the treasure is as extensive as a valley)
+    - x 5 (Very large treasure – the treasure is as vast as a valley)
 
-#### Use of Reward Points
+#### Use of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]     
 
 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]] are converted into other character points, which the player records in their table. This conversion must happen as soon as possible. If the player does not use the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]], they will be lost. (Conversion at the end of a combat encounter is sufficient.)
 
-- _For 1 reward point, the character receives_    
+- **For 1 reward point, the character receives**
     - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Wealth Points]], where the character receives 1 wealth point for 1 reward point.        
-    - A useful item based on [[RPG - Item Points\|item points]], where the character receives 1 useful die for 1 reward point.        
-- _For 2 reward points, the character receives_ (total points divided by 2)    
-    - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]], where the character receives 1 training point for 2 reward points.        
-    - A weapon based on [[RPG - Item Points\|item points]], where the character receives 1 attack point for 2 reward points.        
-    - Ammunition replenishment, 1 piece for 2 reward points.        
-    - Armor based on [[RPG - Item Points\|item points]], where the character receives 1 armor point for 2 reward points.        
-- _For 4 reward points, the character receives_ (total points divided by 4)    
+    - A useful item based on [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Items\|item points]], where the character receives 1 useful die for 1 reward point.        
+- **For 2 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]], the character receives** (total points divided by 2)    
+    - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]], where the character receives 1 training point for 2 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]].        
+    - A weapon based on [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Items\|item points]], where the character receives 1 attack point for 2 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]].        
+    - Ammunition replenishment, 1 piece for 2 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]].        
+    - Armor based on [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Items\|item points]], where the character receives 1 armor point for 2 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]].        
+- **For 4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]], the character receives** (total points divided by 4)    
     - Restoration of 1 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|health point]]        
     - Restoration of 1 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|speed point]]        
     - Restoration of 1 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Energy\|energy point]]
 
-The player can allocate their points to multiple categories. They do not have to "purchase" from only one category, as long as they have enough reward points. If the player is short on reward points, the narrator decides what happens.
+The player can allocate their points to multiple categories. They do not have to "purchase" from only one category, as long as they have enough [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]]. If the player is short on [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|points of reward]], the narrator decides what happens.
 
 ### TAG and LINK : 
 - Stabilita : #stability/mild_stability 

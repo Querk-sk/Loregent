@@ -13,6 +13,7 @@
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Reward\|RPG - Points of Reward]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk\|RPG - Perk]]
 
 { .block-language-dataview}
 

@@ -127,6 +127,7 @@ Sacrifice points can only be used to gain a win in the character's roll. The cos
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 03 - Points\|RPG - CH 03 - Points]]
 
 #### Notes linked here
+- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Items\|RPG - Points of Items]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]

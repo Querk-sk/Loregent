@@ -6,19 +6,19 @@
 
 Some characters may have an enhancement that gives them an advantage. This can be a health-related, psychological, or social advantage. Alternatively, a character may excel in something or be particularly successful in a specific area. In our RPG system, all of these aspects are represented by a mechanic called [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Enabling characteristics\|Enabling characteristics]].
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Enabling characteristics\|Enabling characteristics]] is a set of traits that give a character an advantage. They enhance them in some way or help them handle situations that come their way (narrator). Advantages are given to characters to make them interesting. This mechanic, of course, also impacts gameplay (adding or subtracting points) and the story (players portray their character according to their disadvantage, like actors in a film).
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Enabling characteristics\|Enabling characteristics]] is a set of traits that give a character an advantage. They enhance them in some way or help them handle unique situations. [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Enabling characteristics\|Enabling characteristics]] are given to characters to make them interesting. This mechanic, of course, also impacts game-play (by adding or subtracting points) and the story (by players portray their character according to their advantage, like actors in a film).
 
-A player can take a maximum of **2 Advantages**, each of which must be approved by the narrator and may also be modified if necessary. If the story (and the narrator) permits, an advantage can also be removed over time.
+A player can take a maximum of **2 Enabling characteristics**, each of which must be approved by the narrator and may also be modified if necessary. If the story (and the narrator) permits, an enabling characteristic can also be removed over time.
 
-#### How to create an advantage
+#### How to create an Enabling Characteristic
 
-Below in this text is a list of advantages we have prepared for you. But if you want to create your own, you can proceed as follows.:
+Below in this text is a list of characteristics we have prepared for you. But if you want to create your own, you can proceed as follows.:
 
 ##### Impact on the story
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Enabling characteristics\|Enabling characteristics]] must improve a character in some way or help them overcome an obstacle. Therefore, they should be chosen based on what is in the story. If it is a story with magic, the character may have some kind of talent for magic (especially the most common one).
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Enabling characteristics\|Enabling characteristic]] must improve a character in some way or help them overcome a common obstacle or an unusual one. Therefore, they should be chosen based on what is in the story. If it is a story with magic, the character may have some kind of talent for magic.
 
-Sometimes a character may need to activate their ability. When the character reaches a place where there is an obstacle (such as when a character knows how to work with cats and is faced with a guard who is a cat), they must roll the dice against the difficulty level. If the character overcomes the difficulty, the ability is activated. If the character fails the dice roll, something bad will happen, or nothing will happen (the ability will not be activated).
+Sometimes a character may need to activate their ability. When the character reaches a place where there is an obstacle (such as when a character knows how to work with cats and is faced with a guard who is a cat), they must roll the dice roll against the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Challenge Level\|challenge level]]. If the character overcomes the challenge, the ability is activated. If the character fails the dice roll, something bad will happen, or nothing will happen (the ability will not be activated).
 
 If a character wants to activate their ability, they must roll a skill, or they can roll all attributes ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]]+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]]+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]]+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]]) without a skill.
 
@@ -80,7 +80,6 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 |  5  |       Brave        |          Persuasive          |   Resilient   |
 |  6  |      Skillful      | Disadvantage Hides Advantage | Compatibility |
 
-
 ##### Column - 1, 2 -
 
 ###### Item 1 - Authority :
@@ -90,8 +89,8 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
     - Authority also gives the character other options - for example, as a police officer, they can declare a search or activate police lights to get somewhere quickly.      
     - The character must choose one Talent that will serve as their main occupation, through which they gain this authority.       
     - They must invest at least 3 points into this talent.        
-    - Whenever the character wants to use the advantage of their authority, they must roll skill + talent dice against the difficulty determined by the narrator.        
-    - Failure in the dice roll is explained in the story, for example, by the radio failing, the person not understanding or paying attention, or the operator not finding the place the character was looking for on the map.        
+    - Whenever the character wants to use the advantage of their authority, they must roll skill + [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] against the challenge determined by the narrator.        
+    - Failure in the dice roll is explained in the story, for example, by the radio failing, the person not understanding or not paying attention, or the operator not finding the place the character was looking for on the map.        
 - **Points**:    
     - The character loses 3 points that could have been invested in other skills, talents, or specializations.
 
@@ -108,7 +107,7 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 
 - **Explanation**:    
     - The character has a patron - someone who provides them with money, equipment, or education.        
-    - However, this "everything" is not entirely free. Although the character is paid or has some advantages, they must deliver results to their patron. For example, if they go to a temple in the jungle, they must bring back an artifact. Or they must engage in some research.        
+    - However, this "everything" is not entirely free. Although the character is paid or has some advantages, they must deliver results to their patron. For example, if they go to a temple in the jungle, they must bring back an artifact. Or they must engage in some research.       
     - The character is obligated to their patron, but this does not restrict them much. They just need to deliver the results. The patron does not care how they do it.        
 - **Change**:    
     - The character gets their equipment for free.        
@@ -132,7 +131,7 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
     - In the world, there are things that people fear or find unpleasant (such as ghosts, darkness, or blood). However, this character is resistant to these things.        
     - The character is assigned one or more related things against which they will be brave.        
 - **Change**:    
-    - (Status) Courage: When the character is near something that others fear (or find unpleasant), they get +2 dice to their roll.  
+    - (Status) Courage: When the character is near something that others fear (or find unpleasant), the character gets +2 dice to their roll.  
 - **Points**:    
     - The character loses 3 points that could have been invested in other skills, talents, or specializations.
 
@@ -160,7 +159,7 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 ###### Item 2 - Tools:
 
 - **Explanation**:    
-    - This character has the right tools for the job or a weapon that no one else has. These "tools" are several times stronger than a regular item, or they are unique (doing something unique for that world, something no one has ever seen or even dreamed of).        
+    - This character has the right tools for the job or a weapon that no one else has. These "tools" are several times stronger than a regular item, or they are unique (doing something unique for that world, something no one has ever seen or even dreamed of).    
     - The tools do not burden the character's inventory (weight is 0) and cannot be sold. The properties of the tools are determined by the narrator.        
 - **Points**:    
     - The character loses 3 points that could have been invested in other skills, talents, or specializations
@@ -170,7 +169,7 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 - **Explanation**:    
     - The character has inherited great wealth or is an industrial magnate who doesn't have to think about money. They can have literally endless amounts of money. So buying things is not a problem for them.     
 - **Change**:    
-    - The character is at the highest levels in the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]] ranking. That is, Very Wealthy: (2,561 - 5,120 points).        
+    - The character is at the highest levels in the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]] ranking.
 - **Points**:    
     - The character loses 6 points that could have been invested in other skills, talents, or specializations. 
 
@@ -218,7 +217,7 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
     - This fame brings its advantages. For example, someone might buy the character a drink, a restaurant might give them the best table, or someone might offer to drive them.        
     - The character must invest 3 points into a talent that makes them famous.        
 - **Change**:    
-    - (Status) Celebrity: Minus 2 to the skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Stealth\|Stealth]] when the character wants to hide in public.        
+    - (Status) Celebrity: Minus 2 to the skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Stealth\|Stealth]] when the character wants to hide in public.   
     - Skill: [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Stealth\|Stealth]]: -2        
 - **Points**:    
     - No change in points.
@@ -235,7 +234,7 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 ###### Item 4 - Pleasant:
 
 - **Explanation**:    
-    - The character exudes an aura that makes people like them. They know how to behave, what to say, how to make people laugh, and how to captivate.        
+    - The character exudes an aura that makes people like them. They know how to behave, what to say, how to make people laugh, and how to captivate them.        
 - **Change**:    
     - Attributes: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] (social): +1        
 - **Points**:    
@@ -247,14 +246,14 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
     - The character has robust health - diseases avoid them, and they have strong bones - so they are not often injured.        
 - **Change**:    
     - (Status) Unbreakable: The character cannot fail when defending against diseases or external influences (cold, stones, poison, disease, etc.). Failure in the roll means their action will take longer. The character can still be injured during combat like other characters.        
-    - The character must invest 3 points into the Skill Resilience.        
+    - The character must invest 3 points into the Skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]].        
 - **Points**:    
     - The character loses 3 points that could have been invested in other skills, talents, or specializations.
 
 ###### Item 6 - Compatibility: 
 
 - **Explanation**:    
-    - There is something in the atmosphere that harms characters, but this character is resistant to it.        
+    - There is something in the atmosphere that harms other characters, but not this character.        
     - For example, acid rain, high temperature, cold, some chemical, and so on. While other characters struggle to survive in that environment, the resistant character moves through it as if nothing is happening.        
 - **Points**:    
     - The character loses 3 points that could have been invested in other skills, talents, or specializations.
@@ -300,7 +299,6 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 02 D - Enabling and disabling characteristics, perks\|RPG - CH 02 D - Enabling and disabling characteristics, perks]] 
 
 #### Notes linked here
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 

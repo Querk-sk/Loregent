@@ -5,7 +5,7 @@
 
 ### Points of Energy
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Energy\|Points of Energy]] talk about how many spells a character can cast. So, how many fire rays, how many healing touches, or how many protective shields.
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Energy\|Points of Energy]] determines how many spells a character can cast. So, how many fire rays, how many healing touches, or how many protective shields.
 
 Unless otherwise specified, each character has **[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/6 points\|6 points]] of energy**. These can be increased by items such as crystals, or they can be increased when the character invests in the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] attribute. In such cases, the character gains an additional [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/3\|3]] [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Energy\|Points of Energy]].
 
@@ -31,11 +31,11 @@ Unless otherwise specified, each character has **[[LOREGENT/1 - ROLEPLAY/z RPG v
 - Large spells that act at a distance of [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance\|Further 10m - 100m]] and beyond.    
     - (For example, a healing spell that heals characters within a 300m radius)        
 - Or any spell the narrator deems too powerful.    
-    - (For example, a spell that restores all health points of a character, or one that creates an elemental golem)     
+    - (For example, a spell that restores all [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] of a character, or one that creates an elemental golem)     
 
 **Consumption**: 1 spell consumes 2 energy points, or even 3, as determined by the narrator.
 
-##### Combat Spells or Shield or Armor
+##### Combat Spells or Shield and Armor
 
 **These are**: All combat spells, or spells that function as a magical shield, or spells that add armor, or any other combat advantage.
 

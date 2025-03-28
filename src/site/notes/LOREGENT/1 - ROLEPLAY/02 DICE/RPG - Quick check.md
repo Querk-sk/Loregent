@@ -15,7 +15,7 @@ In the story, there might be situations where a character needs to quickly react
 
 >[!example]
 > - The character is driving and another car is rushing towards them
-> - The narrator says they must roll the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/z - ostatné/Pilot and Ride\|Pilot and Ride]]" to avoid the car.
+> - The narrator says they must roll the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/z - others/Pilot and Ride\|Pilot and Ride]]" to avoid the car.
 > - The CL is 4, and the character rolls with 7 dice, getting 5 success.
 > -The character successfully meets the CL and takes no injury.
 

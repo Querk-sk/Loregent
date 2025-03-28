@@ -9,15 +9,15 @@
 
 | File                                                                                                                                        | Last Modified |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[MAIN - LoreGent\|MAIN - LoreGent]]                                                                                                     | 10.03.2025    |
-| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]] | 28.02.2025    |
-| [[LOREGENT/1 - ROLEPLAY/z RPG variables/LoreGent\|LoreGent]]                                                                             | 14.02.2025    |
-| [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]                                                                         | 14.02.2025    |
-| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills STR\|RPG - Skills STR]]                                       | 14.02.2025    |
-| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]                               | 14.02.2025    |
-| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]                                               | 14.02.2025    |
-| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills SOC\|RPG - Skills SOC]]                                       | 12.02.2025    |
-| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills REF\|RPG - Skills REF]]                                       | 12.02.2025    |
-| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills INT\|RPG - Skills INT]]                                       | 12.02.2025    |
+| [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]                                          | 28.03.2025    |
+| [[MAIN - LoreGent\|MAIN - LoreGent]]                                                                                                     | 26.03.2025    |
+| [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]]                                     | 26.03.2025    |
+| [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Reward\|RPG - Points of Reward]]                                                       | 26.03.2025    |
+| [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Items\|RPG - Points of Items]]                                                         | 26.03.2025    |
+| [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]                                                 | 26.03.2025    |
+| [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|RPG - What is RPG]]                                                        | 26.03.2025    |
+| [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]]                                             | 24.03.2025    |
+| [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Enabling characteristics\|Enabling characteristics]]                         | 24.03.2025    |
+| [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]] | 24.03.2025    |
 
 { .block-language-dataview}

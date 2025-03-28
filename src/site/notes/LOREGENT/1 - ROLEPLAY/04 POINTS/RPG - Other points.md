@@ -15,9 +15,9 @@ Pain points are used when an attacker causes pain to their victim instead of inj
 
 **Stress**
 
-Pain does not have to be physical. Therefore, the narrator may decide to use Stress points, which are added when the attacker attacks their victim using [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] skills or when they use the victim's phobia against them. When the victim accumulates 10 Stress points, they can no longer fight and fall out of the battle because the stress becomes unbearable, and the character faints. The victim can use 1 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|health point]] to "cleanse" themselves of 3 stress points.
+Pain does not have to be physical. Therefore, the narrator may decide to use Stress points, which are added when the attacker attacks their victim using [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] skills or when an attacker use the victim's phobia against them. When the victim accumulates 10 Stress points, they can no longer fight and fall out of the battle because the stress becomes unbearable, and the character faints. The victim can use 1 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|health point]] to "cleanse" themselves of 3 stress points.
 
-**Heat (element)**
+**Heat (other element)**
 
 If the narrator uses elements in their story, they can add Heat points (or Cold points, etc.) to a character. These points are added when the attacker uses a weapon with an element (e.g., fire) against their victim. When the victim accumulates 10 element points, they can no longer fight and fall out of the battle because the effect of the element becomes unbearable, and the character faints. The victim can use 1 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|health point]] to "cleanse" themselves of 3 element points.
 
@@ -25,7 +25,7 @@ If the narrator uses elements in their story, they can add Heat points (or Cold 
 
 **Advantage**
 
-Advantage points are accumulated when the attacker does not use their victory levels during their winning turn and simply stores them. These points can be used later if the attack roll fails or if the attacker wants to completely crush their enemy. The narrator has complete freedom in determining how many advantage points a player can store and for how many rounds.
+Advantage points are accumulated when the attacker does not use their victory levels during their winning turn and simply stores them. These points can be used later if the attack roll fails or if the attacker wants to completely crush their enemy. The narrator has complete freedom in determining how many advantage points player can store and for how many rounds.
 
 In terms of the story, the successful attacker dodges the attack during the winning turn. The more they dodge, the dizzier the victim becomes. The attacker later uses this for a devastating blow.
 
