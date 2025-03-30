@@ -4,7 +4,7 @@
 
 ### [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]]
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]] are used to permanently improve a character's attributes. Such improvement can only be gained through training (like lifting weights, running around the village, or hitting a target). A character can train any passive Attributes ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]]), [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|Skills]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|Talents]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|Specializations]], or spells.
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]] are used to permanently improve a character's attributes. Such improvement can only be gained through training (like lifting weights, running around the village, or hitting a target). A character can train any passive Attributes ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]]), [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|Skills]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|Talents]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|Specializations]], or [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|spells]].
 
 The character must state that they want to train and must also specify exactly what they will be training. Training can only be done once every 24 hours, with the training session lasting at least 1 story hour and focusing on only one thing (for example, the character will train the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]]"). If the character trains multiple things, their training must alternate day by day.
 
@@ -22,7 +22,7 @@ The character must state that they want to train and must also specify exactly w
 
 #### Training Challenge Level
 
-During training, the character rolls the dice against the difficulty level, which is equal to the level of the Skill (Attribute, Talent, Specialization) the character is training.
+During training, the character rolls the dice against the challenge level, which is equal to the level of the Skill (Attribute, Talent, Specialization) the character is training.
 
 >[!example]
 > * When a character is training “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]]” and this skill is at level 0, or -1, -2, in that case, the CL is 0.
@@ -136,6 +136,7 @@ Characters can learn completely new Talents or specializations, but only from ex
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 03 - Points\|RPG - CH 03 - Points]]
 
 #### Notes linked here
+- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Change in Attributes and Skills\|RPG - Change in Attributes and Skills]]

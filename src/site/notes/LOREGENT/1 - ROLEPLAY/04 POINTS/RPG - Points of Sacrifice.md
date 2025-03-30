@@ -10,7 +10,7 @@
 >
 >Characters are being chased by a dragon. They ended up in a dead end. However, there is a locked door. One of the characters has a big hammer (as a weapon) and could smash the door.
 >
->Let's say they have 7 dice to roll and need to beat a difficulty level of 4 because the door is sturdy.
+>Let's say they have 7 dice to roll and need to beat a challenge level of 4 because the door is sturdy.
 >
 >Let's say the character managed to roll 3 wins, which is not enough. Therefore, they decide to sacrifice some of the weapon's attributes, gaining the one win they need. Thanks to that, they break the door.
 
@@ -18,18 +18,20 @@ A sacrifice can only be used for logically applicable things, and each use must 
 
 #### Earning Sacrifice Points
 
-A character earns [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|Points of Sacrifice]] by sacrificing some attribute either from their body (e.g., health) or from their item (e.g., attack). These points are then converted into wins that they can use in their roll.
+A character earns [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|Points of Sacrifice]] by sacrificing some attribute either from their body (e.g., health) or from their item (e.g., armor). These points are then converted into wins that they can use in their roll.
 
-- **Sacrificing an Attribute That Adds Dice to the Roll ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]])**    
+- **Sacrificing an Attribute That Adds Dice to the Roll** (a.k.a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]])
     - Attributes that can be sacrificed:        
-        - Attributes from an item that add dice to skills, talents, and specializations (not dice for attack)            
+        - Attributes from an item that add dice to skills, talents, and specializations (not dice for attack)
+        - points from characters skills or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] spells 
     - Attributes that cannot be sacrificed:        
-        - Skills, talents, and specializations from the character            
+        - talents, and specializations from the character            
     - The character receives:        
         - 1 win for 1 point of the sacrificed attribute            
 - **Sacrificing an Attribute Used in Combat**    
     - Attributes that can be sacrificed:        
-        - An attribute from an item that adds dice to attack, increases [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Weapon Attributes\|max damage]], or adds armor         
+        - An attribute from an item that adds dice to attack, increases [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Weapon Attributes\|max damage]], or adds armor   
+        - points from characters [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|damaging]] spells
     - Attributes that cannot be sacrificed:        
         - Combat talents and specializations from the character            
     - The character receives:        
@@ -48,11 +50,11 @@ When sacrificing health, the character may receive additional conditions, such a
 
 ##### Note on Item Sacrifice
 
-When an entire item is sacrificed, or when an item has exhausted all attributes that could be sacrificed, the item can no longer be repaired. If the item is only damaged because the character used some of its points, it can be repaired, but only by a specialist (e.g., a blacksmith repairs a sword). The final repair cost is increased by the [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Negotiating Prices with a Merchant\|merchant's surcharge]], where the narrator rolls three dice and the resulting value is added to the repair cost. Alternatively, the repair may require a rare component that the character must find.
+When an entire item is sacrificed, or when an item has exhausted all attributes that could be sacrificed, the item can no longer be repaired. If the item is only damaged because the character used some of its points, it can be repaired, but only by a specialist (e.g., a town blacksmith). The final repair cost is increased by the [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Negotiating Prices with a Merchant\|merchant's surcharge]], where the narrator rolls three dice and the resulting value is added to the repair cost. Alternatively, the repair may require a rare component that the character must find.
 
 ##### Note on Wealth Sacrifice
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]] can only be sacrificed when social skills are rolled. For every 10 wealth points, the character gains 1 win in their roll. The same applies to combat (where wealth points can be used to persuade the enemy to stop fighting), but in this case, the number of points to be sacrificed is determined by the narrator.
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]] can only be sacrificed when social skills are rolled. For every 10 wealth points, the character gains 1 win in their roll. The same applies to combat (where wealth points can be used to persuade the enemy to stop fighting - e.g. social influence), but in this case, the number of points to be sacrificed is determined by the narrator.
 
 Alternatively, [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]] can be sacrificed by purchasing a service (e.g., hiring a locksmith to open a chest), or by hiring a companion to help solve a problem, or by purchasing a blacksmith's services to repair armor, or finally, to replenish points that the character has used (e.g., renting a room at an inn to sleep and replenish [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]]).
 
@@ -64,7 +66,7 @@ If there is no other option and the dice roll is too important for the survival 
 > 
 > Let's say the players are being chased by a dragon. They ended up in a dead end with wooden doors. One of the players has a big hammer as a weapon and there is a possibility they could smash the doors.
 > 
-> Let's say they have 7 dice to roll against a difficulty level of 4 (sturdy doors). They fail to roll any wins. Let's say their character is injured and decides to sacrifice themselves.
+> Let's say they have 7 dice to roll against a challenge level of 4 (sturdy doors). They fail to roll any wins. Let's say their character is injured and decides to sacrifice themselves.
 > 
 > Narratively, the narrator can describe that the character smashed into the doors, causing them to open. However, the wall weakened and the ceiling started to collapse. The other players escaped while the injured character stayed behind to stop the dragon. Both the character and the dragon were buried under the rubble, and after this sacrifice, the dragon will no longer pose a threat to the players.
 
@@ -74,21 +76,21 @@ Sacrificed attribute points of the character are considered an injury and are re
 
 #### Use of Sacrifice Points
 
-Sacrifice points can only be used to gain a win in the character's roll. The cost of sacrifice depends on whether the character wants to match their wins to the difficulty level, or exceed it (i.e., achieve more wins than the CL). If the character wants to match the wins to the CL, 1 win point requires 1 sacrifice point, while in the second case (exceeding the CL), 1 win point requires 2 sacrifice points.
+Sacrifice points can only be used to gain a win in the character's roll. The cost of sacrifice depends on whether the character wants to match their wins to the challenge level, or exceed it (i.e., achieve more wins than the CL). If the character wants to match the wins to the CL, 1 win point requires 1 sacrifice point, while in the second case (exceeding the CL), 1 win point requires 2 sacrifice points.
 
 > [!example]  Example (matching wins)
 > - The character rolled 3 wins.
-> - The difficulty level is 5, so they need 2 more wins.
+> - The challenge level is 5, so they need 2 more wins.
 > - If they only want to match the 2 wins, they "pay" 2 sacrifice points.
 
 >[!example] Example (exceeding the CL)
 >- The character rolled 5 wins.
->- The difficulty level is 5, but the character wants 1 additional win, for example, to [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Negotiating Prices with a Merchant\|persuade a merchant]] to give them a discount.
+>- The challenge level is 5, but the character wants 1 additional win, for example, to [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Negotiating Prices with a Merchant\|persuade a merchant]] to give them a discount.
 >- In that case, they "pay" 2 sacrifice points for 1 win.
 
 ### TAG and LINK :
 - Stability : #stability/mild_stability  
-- Version : #version/2024/08
+- Version : #version/2025/03
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -127,7 +129,6 @@ Sacrifice points can only be used to gain a win in the character's roll. The cos
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 03 - Points\|RPG - CH 03 - Points]]
 
 #### Notes linked here
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Items\|RPG - Points of Items]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]

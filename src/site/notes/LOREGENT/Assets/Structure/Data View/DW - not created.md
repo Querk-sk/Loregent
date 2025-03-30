@@ -24,6 +24,8 @@
 | [[boh spravodlivosti\|boh spravodlivosti]]                                       | [[LOREGENT/Assets/Fleeting Notes/Boh - Diabol spravodlivosti - nápad\|Boh - Diabol spravodlivosti - nápad]]                                |
 | [[bylinkárstvo\|bylinkárstvo]]                                                   | [[LOREGENT/Assets/Fleeting Notes/Bohovia dávajú mágiu - nápad\|Bohovia dávajú mágiu - nápad]]                                              |
 | [[bylinkárstvo\|bylinkárstvo]]                                                   | [[LOREGENT/Assets/Fleeting Notes/Bohovia dávajú mágiu - nápad\|Bohovia dávajú mágiu - nápad]]                                              |
+| [[Chaos Dragon Garv\|Chaos Dragon Garv]]                                         | [[LOREGENT/Assets/Fleeting Notes/Plane chart\|Plane chart]]                                                                                |
+| [[Chaotic Blue\|Chaotic Blue]]                                                   | [[LOREGENT/Assets/Fleeting Notes/Plane chart\|Plane chart]]                                                                                |
 | [[Cogent - Talenty Remeslá Magické vedy\|Cogent - Talenty Remeslá Magické vedy]] | [[LOREGENT/Assets/Structure/Data View/DW - Least modified\|DW - Least modified]]                                                           |
 | [[Color of Magic\|Color of Magic]]                                               | [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random conflict\|RPG - Random conflict]]                                               |
 | [[Computerei\|Computerei]]                                                       | [[LOREGENT/Assets/Fleeting Notes/LW svety - nič - otázka\|LW svety - nič - otázka]]                                                        |
@@ -54,7 +56,5 @@
 | [[Ekológia\|Ekológia]]                                                           | [[LOREGENT/Assets/Fleeting Notes/Mravce a levy - fakty\|Mravce a levy - fakty]]                                                            |
 | [[element\|element]]                                                             | [[LOREGENT/Assets/Fleeting Notes/Rozprávač - príbeh - nápad\|Rozprávač - príbeh - nápad]]                                                  |
 | [[Elements\|Elements]]                                                           | [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random conflict\|RPG - Random conflict]]                                               |
-| [[Elementy\|Elementy]]                                                           | [[LOREGENT/Assets/Fleeting Notes/Genasi - Kúzelnárovia\|Genasi - Kúzelnárovia]]                                                            |
-| [[Factorio\|Factorio]]                                                           | [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 A - Foreword and Acknowledgements\|RPG - CH 00 A - Foreword and Acknowledgements]] |
 
 { .block-language-dataview}

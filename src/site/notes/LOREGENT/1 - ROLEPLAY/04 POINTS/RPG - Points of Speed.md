@@ -5,21 +5,21 @@
 
 ### Points of Speed
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]] determine the order in combat and also indicate how many items a character can carry in their inventory. The number of speed points is determined by the narrator. Unless specified otherwise, each character receives **[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/6 points\|6 points]] of speed** (this applies to all characters, as well as monsters or animals).
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]] determine the order in combat (and they are also useful in other way, see below). The number of Points of Speed is determined by the narrator. Unless specified otherwise, each character receives **[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/6 points\|6 points]] of speed**. This applies to all characters, as well as monsters or animals.
 
 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]] can be increased by items such as potions, magical amulets, exoskeletons, and so on. They are permanently increased when a player allocates a point to the reflex attribute ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]]).
 
-The minimum number of speed points is -2, at which point the character loses 2 dice from each roll (at -1, they lose 1 die).
+The minimum number of Points of Speed is -2, at which point the character loses 2 dice from each roll (at -1, they lose 1 die).
 
 #### Combat Order
 
 More on this topic can be found in the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|combat chapter]]. But for completeness – [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]] determine the order in which combat takes place. Combat consists of several phases – declaration of action (what the characters will do), execution of action (rolling dice and what happened), and combat result (who takes damage). [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]] influence all combat phases.
 
-During the declaration of action, players (and the narrator) state what their characters will do. Characters with the lowest speed (least [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|speed points]]) declare their actions first. Faster characters go next, and the fastest characters go last. This allows faster characters to react to what slower characters do. Slower characters cannot change their declared actions during the combat round.
+During the declaration of action, players (and the narrator) state what their characters will do. Characters with the lowest speed (least [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]]) declare their actions first. Faster characters go next, and the fastest characters go last. This allows faster characters to react to what slower characters do. Slower characters cannot change their declared actions during the combat round.
 
 > [!example]
 > 
-A player's character is fighting a bandit. The player's character has lower speed (fewer speed points) than the bandit. Let's say they are fighting in a tavern, and to gain a better combat position, the player wants to jump on a table. The bandit (with higher speed) decides to kick the table. The player cannot change their action since they already declared it.
+A player's character is fighting a bandit. The player's character has lower speed (fewer Points of Speed) than the bandit. Let's say they are fighting in a tavern, and to gain a better combat position, the player wants to jump on a table. The bandit (with higher speed) decides to kick the table. The player cannot change their action since they already declared it.
 
 In the next combat phase (execution of action), faster characters act first. They perform their planned actions before others. Whether they succeed is determined by rolling dice.
 
@@ -27,14 +27,15 @@ In the next combat phase (execution of action), faster characters act first. The
 > 
 The bandit kicks the table before the player can jump on it. (Dice rolls determine if the bandit succeeds.)
 
-#### Other Uses of Speed Points
+#### Other Uses of Points of Speed
 
 - When a character exhausts their [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]], they can use 1 speed point to restore 3 inventory points.    
-- Speed points can also be sacrificed, where 1 speed point grants the character 4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|Points of Sacrifice]].
+- Points of Speed can also be sacrificed, where 1 speed point grants the character 4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|Points of Sacrifice]].
+- Points of Speed are used in combat to allow a character to perform more actions during a [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|single round]].
 
 ### TAG and LINK : 
 - Stability : #stability/mild_stability 
-- Version : #version/2024/08 
+- Version : #version/2025/03 
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
