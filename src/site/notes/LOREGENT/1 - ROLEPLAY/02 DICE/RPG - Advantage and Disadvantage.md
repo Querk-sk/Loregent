@@ -33,9 +33,23 @@ It works the same way as disadvantage. It is used when a character lacks talent 
 - If the die rolls a **1, 2, 3, 4, or 5,** it will be a loss for that die (under the influence of great Disadvantage)    
 - If the die rolls a **6,** it will be a win for that die (under the influence of great Disadvantage)
 
+#### Alternative Rule for Advantage and Disadvantage
+
+- When a character rolls with an Advantage after rolling their dice, they re-roll only the dice that resulted in failure.    
+- When a character rolls with a Disadvantage after rolling their dice, they must re-roll only the dice that resulted in success.    
+
+The number of dice that can (or must) be re-rolled depends on the circumstances. In some situations, a character may have minor Advantage (or Disadvantage), in which case they re-roll one die. In other situations, where the Advantage (or Disadvantage) is significant, they re-roll three dice. The level of favor or disfavor can also be determined by the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Challenge Level\|Challenge]] of the task or the difference between the quality of equipment of the character and their opponent.
+
+>[!example] For example: 
+>- A character wants to treat another character's wounds. 
+>- However, the wounds are too complex, so they need the "Doctor" talent.
+>- Unfortunately, the character does not possess this talent, so they will roll with disfavor. 
+>- The complexity level of the treatment is 4. 
+>- Therefore, after their initial dice roll, they must re-roll 4 dice that resulted in success.
+
 ### TAG and LINK : 
 - Stability : #stability/unstable
-- Version : #version/2024/08
+- Version : #version/2025/04
  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

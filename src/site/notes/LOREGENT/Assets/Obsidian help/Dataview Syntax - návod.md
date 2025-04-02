@@ -29,7 +29,7 @@ Data view TASK (všetko čo je škrtacie políčko - `[ ]` - tak to všetko zora
 - [x] Write
 - [x] Check
 - [x] Translate
-- [ ] Checking translation <<<<-- now : [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
+- [ ] Checking translation <<<<-- now : [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
 - [ ] Write <<<<<<------- The Land of Time (and Lands overall)
 - [ ] Check
 - [ ] Translate

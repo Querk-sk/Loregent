@@ -37,10 +37,10 @@
 | [[LOREGENT/Assets/Fleeting Notes/Pomsta - citát\|Pomsta - citát]]                                                                                     | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Politický parlament slovenska\|Politický parlament slovenska]]                                                       | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Oživenie človeka ktorý zomrel - príbeh\|Oživenie človeka ktorý zomrel - príbeh]]                                     | 05.07.2024    |
+| [[LOREGENT/Assets/Fleeting Notes/Mágia Počítačová - nápad\|Mágia Počítačová - nápad]]                                                                 | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Návody pre príbehy/Pixar design process\|Pixar design process]]                                                      | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Návody pre príbehy/Ako písať scenár - návod\|Ako písať scenár - návod]]                                              | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Múdrosť - citát\|Múdrosť - citát]]                                                                                   | 05.07.2024    |
-| [[LOREGENT/Assets/Fleeting Notes/Mágia Počítačová - nápad\|Mágia Počítačová - nápad]]                                                                 | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Mravce a levy - fakty\|Mravce a levy - fakty]]                                                                       | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/LW magic - otázka - link\|LW magic - otázka - link]]                                                                 | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Kráľ Nočných môr\|Kráľ Nočných môr]]                                                                                 | 05.07.2024    |

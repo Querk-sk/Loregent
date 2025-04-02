@@ -33,7 +33,6 @@
 { .block-language-dataview}
 ### 2024 / 08
 
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Advantage and Disadvantage\|RPG - Advantage and Disadvantage]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|RPG - Basics of Magic]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Challenge Level\|RPG - Challenge Level]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Change in Attributes and Skills\|RPG - Change in Attributes and Skills]]

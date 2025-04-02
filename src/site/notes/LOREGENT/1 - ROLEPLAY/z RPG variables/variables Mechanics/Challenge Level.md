@@ -16,6 +16,7 @@ When a player decides they want to do something in the story, the narrator assig
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|RPG - Self-assistance]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice in general\|RPG - Dice in general]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Assistance\|RPG - Assistance]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Advantage and Disadvantage\|RPG - Advantage and Disadvantage]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Success and Failure\|RPG - Success and Failure]]
 
 { .block-language-dataview}

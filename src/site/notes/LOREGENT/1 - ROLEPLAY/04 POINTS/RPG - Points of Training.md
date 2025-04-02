@@ -4,13 +4,13 @@
 
 ### [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]]
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]] are used to permanently improve a character's attributes. Such improvement can only be gained through training (like lifting weights, running around the village, or hitting a target). A character can train any passive Attributes ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]]), [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|Skills]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|Talents]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|Specializations]], or [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|spells]].
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]] are used to permanently improve a character's attributes. Such improvement can only be gained through training (like lifting weights, running around the village, or hitting a target). A character can train any passive Attributes ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]]), [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|Skill]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|Talent]], [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|Specialization]], or [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|Spell]].
 
 The character must state that they want to train and must also specify exactly what they will be training. Training can only be done once every 24 hours, with the training session lasting at least 1 story hour and focusing on only one thing (for example, the character will train the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]]"). If the character trains multiple things, their training must alternate day by day.
 
 > [!example] 
 > - The character is a chef and wants to learn to cook better. This is achieved by training in soup cooking.
-> - In the training roll, they roll the Talent “chef” with the skill “working with hands”
+> - In the training roll, they roll the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|Talent]] “chef” with the skill “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Working with hands\|working with hands]]”
 > - (meaning it will be 3 + chef + [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Working with hands\|Working with hands]] + [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] )
 
 > [!important] 
@@ -20,7 +20,7 @@ The character must state that they want to train and must also specify exactly w
 > - For [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] it is “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Knowledge\|Knowledge]]” 
 > - For [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] it is “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Intuition\|Intuition]]”.
 
-#### Training Challenge Level
+#### Challenge Level of Training
 
 During training, the character rolls the dice against the challenge level, which is equal to the level of the Skill (Attribute, Talent, Specialization) the character is training.
 
@@ -29,25 +29,25 @@ During training, the character rolls the dice against the challenge level, which
 > * When a character is training “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]]” and this skill is at level 1, in that case, the CL is 1.
 > * When a character is training “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]]” and this skill is at level 4, in that case, the CL is 4.
 
-The training challenge level can also change based on circumstances. For example, when a character is learning to swim in a river and the river has a strong current, in that case, the challenge level will be higher. If the character finds a good teacher, such as a martial arts master, or has better conditions for training, then the challenge level is lowered. However, the training challenge level must never be negative.
+The training challenge level can also change based on circumstances. For example, when a character is learning to [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills#Swimming, Flying, Low Gravity, etc.\|swim]] in a river and the river has a strong current, in that case, the challenge level will be higher. If the character finds a good teacher, such as a martial arts master, or has better conditions for training, then the challenge level is lowered. However, the training challenge level must never be negative.
 
-The training challenge level affects the total number of victories (i.e., training points) the character gains from the training roll. This means that the victories from the roll are reduced by the challenge level.
+The training challenge level affects the total number of victories (i.e., Points of Training) the character gains from the training roll. This means that the victories from the roll are reduced by the challenge level.
 
 >[!example]
 >- The character rolled 6 victories
->- With a CL of 2, they receive 4 training points
->- With a CL of 4, they receive 2 training points
+>- With a CL of 2, they receive 4 Points of Training
+>- With a CL of 4, they receive 2 Points of Training
 
-#### Gaining Training Points
+#### Gaining Points of Training
 
 From each training roll, the character gains at least 1 training point (never less).
 
-Additional points are awarded for all victories rolled on the dice that have been reduced by the challenge level. These [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]] are recorded next to the respective Attribute, Skill, Talent, or Specialization as a number expressed in thousandths (for example, 2 victories are recorded as 0.002).
+Additional points are awarded for all victories rolled on the dice that have been reduced by the challenge level. These [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]] are recorded next to the respective Attribute, Skill, Talent, or Specialization (where the invested points in skills, etc., are written) as a number expressed in thousandths (for example, 2 victories are recorded as 0.002).
 
-Individual points from different training sessions are then added together with the total number of points. For example, if the character gained 0.003, 0.005, 0.001, 0.004 points during various training sessions, they are added together, resulting in 0.013. Additional training points can also be gained through the system of “[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|reward points]]”.
+Individual points from different training sessions are then added together with the total number of points. For example, if the character gained 0.003, 0.005, 0.001, 0.004 points during various training sessions, they are added together, resulting in 0.013. Additional Points of Training can also be gained through the system known as “[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]”.
 
-- To gain 1 point in an Attribute, 1000 training points are needed.    
-- To gain 1 point in a Skill, Talent, or Specialization, 100 training points are needed.
+- To gain 1 point in an Attribute, 1000 Points of Training are needed.    
+- To gain 1 point in a Skill, Talent, or Specialization, 100 Points of Training are needed.
 
 #### Injury During Training
 
@@ -57,39 +57,42 @@ During training, it can happen that the character gets injured. However, this on
 
 The rule for joint training can be used when several friendly characters join together to train. In such a case, the friendly characters perform actions against each other as if they were in an active conflict. They can arm-wrestle each other ([[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]]), try to convince each other with good arguments ([[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Persuasion\|Persuasion]]), or play chess against each other ([[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Thinking\|Thinking]]). Characters can also fight each other (so-called sparring), where the result of the combat roll is not an injury but, for example, knocking the opponent down or disarming them. Players must notify the narrator that they are going to train together, and they must also state what they will be training. The narrator must agree with this (or can change something if necessary).
 
-Characters can train all Skills, Talents, combat Talents, and Specializations in joint training. However, only the same ones or those that have the same function. For example, if one character trains the skill “[Raw Strength],” the other character must train either the same skill or something that works the same way as “[Raw Strength]” (such as the spell “strong wind” from a wizard). Joint training is limited to three rounds. Players can continue training for the sake of the story, but victories for skill, talent, or specialization improvement are counted only from the first three rounds.
+Characters can train all Skills, Talents, combat Talents, and Specializations in joint training. However, only the same ones or those that have the same function. For example, if one character trains the skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]], the other character must train either the same skill or something that works the same way as [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]] (such as the spell “strong wind” from a wizard). Joint training is limited to three rounds. Players can continue training for the sake of the story, but victories for skill, talent, or specialization improvement are counted only from the first three rounds.
 
-The number of training points that characters record in their attributes, skills, etc., are summed up and added to both characters at once - they are not divided between the characters. The challenge level of the training is determined according to the character with the lowest level in the given skill (talent, etc.). Characters take at least 1 victory from each round.
+The number of training points that characters record in their attributes, skills, etc., are summed up and added to both characters at once - they are not divided between the characters. The challenge level of the training is determined each round, according to the character with the lowest level in the given skill (talent, etc.). Characters take at least 1 victory from each round.
 
 #### Items and Training
 
-During training, characters can use appropriate items or spells to help them (e.g., dumbbells for strength training, a golem for archery training). However, their use must be approved by the narrator. Auxiliary items add extra dice to the roll according to their highest attribute (for example, if a golem has 3 health points, it adds 3 dice. If the golem has 3 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] and 4 attack, it only adds 4 dice, not 7).
+During training, characters can use appropriate items or spells to help them (e.g., dumbbells for strength training, a Golem for archery training). However, their use must be approved by the narrator. Auxiliary items add extra dice to the roll according to their highest attribute 
+
+>[!example]
+> If Golem has 3 health points, it adds 3 dice. 
+> If Golem has 3 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] and 4 attack, it only adds 4 dice, not 7.
 
 #### Teacher
 
-To increase their points in Attributes, Skills, Talents, or Specializations, characters can choose to train under the guidance of a teacher (or researcher, scientist, scholar, craftsman, or martial arts master, etc.). The teacher increases the total number of victories the character gains from training by multiplying the number of victories achieved by the teacher's level, reduced by the character's level.
+To increase their points in Attributes, Skills, Talents, or Specializations, characters can choose to train under the guidance of a teacher (or researcher, scientist, scholar, craftsman, or martial arts master, etc.). The teacher increases the total number of victories the character gains from training by multiplying the number of victories achieved by the teacher's level, reduced by the character's level. To this multiplication factor add +1. 
 
 > [!example] 
-> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 3, the character has agility 0. In this case, the number of training points is multiplied by 3 (because 3 - 0 = 3).
-> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 5, the character has agility 2. In this case, the number of training points is multiplied by 3 (because 5 - 2 = 3).
-> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 3, the character has agility 2. In this case, the number of training points is multiplied by 1 (because 3 - 2 = 1).
+> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 3, the character has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 0. In this case, the number of Points of Training is multiplied by 4 (because 1 + 3 - 0 = 4).
+> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 5, the character has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 2. In this case, the number of Points of Training is multiplied by 3 (because 1 + 5 - 2 = 4).
+> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 3, the character has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 2. In this case, the number of Points of Training is multiplied by 1 (because 1 + 3 - 2 = 2).
 
 When the teacher's level and the character's level are the same, the character cannot learn from the teacher. When the character's level is negative, the training multiplier is calculated as if the character's level were 0.
 
 > [!example] 
-> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 3, the character has agility -2. In this case, the number of training points is multiplied by 3.
-> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 3, the character has agility -1. In this case, the number of training points is multiplied by 3.
-> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 3, the character has agility 0. In this case, the number of training points is multiplied by 3.
+> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 2, the character has agility -2. In this case, the number of Points of Training is multiplied by 3.
+> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 2, the character has agility -1. In this case, the number of Points of Training is multiplied by 3.
+> * The teacher has [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] 2, the character has agility 0. In this case, the number of Points of Training is multiplied by 3.
 
 ##### Cost of Learning
 
-The cost of learning is determined by the teacher's level, not by the multiplier. The teacher's level is considered an attribute, so for each level of the teacher, 4 wealth points are paid.
+The cost of learning is determined by the teacher's level, not by the multiplier. The teacher's level is considered an attribute, so for each level of the teacher, [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Item Price\|4 wealth points]] are paid.
 
-A character can also gain new abilities under the guidance of a teacher - that is, they can learn new Talents or Specializations that they did not know before. Newly acquired abilities are recorded in the table with level 0, along with the victories the character received during training from the teacher (e.g., “fire school 0.052”). The character can use these new abilities even at level 0 because they are still learning. However, until they reach level 1, they will lose 2 dice from the roll in situations requiring a special Talent.
+A character can also gain new abilities under the guidance of a teacher - that is, they can learn new Talents or Specializations that they did not know before. Newly acquired abilities are recorded in the table with level 0, along with the victories the character received during training from the teacher (e.g., “fire school 0.052”). The character can use these new abilities even at level 0 because they are still learning. However, until they reach level 1, they will rol in [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]] in situations requiring a special Talent.
 
 > [!Important] 
 > Characters cannot be teachers to each other. The teacher must be someone outside the player group (which means they are not a member of the player group).
-
 
 #### New Talents and Spells
 
@@ -136,7 +139,6 @@ Characters can learn completely new Talents or specializations, but only from ex
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 03 - Points\|RPG - CH 03 - Points]]
 
 #### Notes linked here
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Change in Attributes and Skills\|RPG - Change in Attributes and Skills]]

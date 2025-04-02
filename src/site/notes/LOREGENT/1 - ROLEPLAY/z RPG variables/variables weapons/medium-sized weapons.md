@@ -91,7 +91,7 @@ The price of an item is determined by its physical and magical properties (or it
     - When an item adds basic attributes [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]].        
     - When an item adds [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]] or reduces weight.        
     - When an item adds [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] and [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]].        
-    - When an item contains a [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk#Powerful Traits for Items\|strong trait]] without disadvantage (or with a minor advantage).        
+    - When an item contains a [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk#Powerful Traits for Items\|strong trait]] without disadvantage (or with a minor advantage).       
     - The price also considers repairing or supplementing an attribute that gives attributes or points.
 
 - If these properties give the item advantages (e.g., attack +1), the price increases.  

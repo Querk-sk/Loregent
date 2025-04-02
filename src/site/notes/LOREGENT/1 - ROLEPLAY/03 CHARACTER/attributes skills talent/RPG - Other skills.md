@@ -169,6 +169,7 @@ When a character wants to unlock a lock without keys (with a lockpick), they can
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 02 C - Skills and Talents\|RPG - CH 02 C - Skills and Talents]] 
 
 #### Notes linked here
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
