@@ -5,7 +5,7 @@
 
 ### Armor
 
-Armor is a passive protection that shields a character from damage in [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|combat]] or during a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/quick solution to the situation\|quick solution to the situation]]. The number of armor points is determined by the narrator. Unless otherwise specified, every character receives **0 armor points**.
+Armor is a passive protection that shields a character from damage in [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|combat]] or during a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/quick solution to the situation\|quick solution to the situation]]. The number of armor points is determined by the narrator. Unless otherwise specified, every character receives **0 points of armor**.
 
 Armor can be increased with items like helmets, gloves, or bulletproof vests. Armor can also be permanently increased by a [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk\|natural trait]] the character is born with (e.g., a turtle's shell).
 
@@ -35,7 +35,8 @@ The armor level of a given item is not judged by the period or genre in which th
 2. Below-average armor or medium armor    
 3. Average armor or standard size    
 4. Above-average armor or larger    
-5. High-quality armor or largest
+5. High-quality armor or the most largest
+6. (everything stronger)
 
 #### Armor Specialization
 
@@ -77,7 +78,7 @@ In our story universe, armor is divided according to the type of weapon attack i
 - This armor is resistant to blunt weapons and explosives. This means that blunt weapons do not harm this armor.    
 - It is weak against other weapons. This means it loses 1 armor point with each successful enemy attack.    
 - ([[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Blunt Weapons\|Blunt Weapons]] are: hammers, maces, clubs, and similar. Also includes blunt throwing weapons.)    
-- (Explosives fall under [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Explosive Weapons\|Explosive Weapons]]. These include: grenades, explosive arrows, explosive spells, and similar.)
+- (Under blunt weapons also falls [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Explosive Weapons\|Explosive Weapons]]. These include: grenades, explosive arrows, explosive spells, and similar.)
 
 ###### Against Sharp Weapons
 - This armor is resistant to sharp weapons. This means that sharp weapons do not harm this armor. 
@@ -115,33 +116,37 @@ Such armor can also be recharged. The method depends on the story (sometimes a s
 
 Energy armor does not affect the character's weight. Some weapons may be more effective against it (meaning some weapons deplete 2 or 3 points instead of 1). Some elements may completely ignore it (e.g., a poisonous cloud that depletes [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] directly).
 
-In close combat, energy armor functions normally.
+In close combat, energy armor functions normally. (Meaning, it protects the character from any harm. Normal armor does not function in [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|close combat]])
 
-#### Magical Armor Abilities
+#### Magical properties and Armor
 
 Magical properties of armor are special abilities that provide additional protection or advantage to a character. To activate these properties, the character must meet certain conditions. Some magical properties are activated by spells, or a combination of talent, skill, or specialization. Other magical properties are activated when certain numbers or ranges of numbers are rolled on the dice.
 
 > [!example]
 > * **Thorn Armor** - When a 1 is rolled on the dice, the enemy receives as much damage as the number of dice with a 1.
-> * **Ice Armor** - Reduces the speed of nearby characters by 1 point (speed) for as many rounds as the character rolled victories.
+> * **Ice Armor** - Reduces the number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|speed points]] of nearby characters by 1 for as many rounds as the character wins the combat roll.
 > * **Spider Armor** - The character can use the "pull" spell. It combines Dexterity + specialization in Spider Armor. The character chooses a target, and the narrator determines the difficulty level.
 
-These magical properties can only be activated when the character has a specialization for a specific type of armor. So if the character has a specialization in heavy armor and is wearing heavy armor with magical properties, they can use the magical properties. If they had a different armor, they could not. The number of points invested in specialization adds dice to the roll or shifts the activation threshold.
+The number of points invested in specialization adds dice to the roll or shifts the activation threshold.
 
-- Specialization 1, 2 = when a 1 is rolled    
-- Specialization 3, 4 = when a 1, 2 is rolled    
-- Specialization 5, 6 = when a 1, 2, 3 is rolled (3 is the maximum)
+- Specialization 0 = when a 1 is rolled or 6
+- Specialization 1 = when a 1, 2 is rolled or 6, 5     
+- Specialization 2 = when a 1, 2, 3 is rolled or 6, 5, 4
+- Specialization 3 = when a 1, 2, 3, 4 is rolled or 6, 5, 4, 3
+- Specialization 4 = when a 1, 2, 3, 4, 5 is rolled or 6, 5, 4, 3, 2
+- Specialization 5 = when a 1, 2, 3, 4, 5, 6 is rolled
 
-> [!example]
-> For protective properties, numbers 1, 2, 3 are used. For supportive or offensive properties, numbers 4, 5, 6 are used.
+> [!important]
+> For protective properties, numbers 1, 2, 3 are used. 
+> For supportive or offensive properties, numbers 4, 5, 6 are used.
 
-As for the cost, magical properties are considered armor points. So if heavy armor has 3 armor points and magical properties add 2 points, the cost will be the same as if the heavy armor had 5 armor points.
+As for the cost (in terms of [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Item Price\|money]]), magical properties are considered as an armor points. So if heavy armor has 3 armor points plus magical properties with plus 2 points, the cost (in terms of money) will be the same as if the heavy armor had 5 armor points.
 
 In terms of weight, magical properties do not count towards the weight. However, the narrator can change this and, for example, increase the armor's weight.
 
 ### TAG and LINK : 
 - Stability : #stability/unstable
-- Version : #version/2024/07 
+- Version : #version/2025/04 
  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -180,7 +185,6 @@ In terms of weight, magical properties do not count towards the weight. However,
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 04 - Combat\|RPG - CH 04 - Combat]] 
 
 #### Notes linked here
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|Armor]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]

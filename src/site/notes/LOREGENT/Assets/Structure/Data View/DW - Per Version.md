@@ -76,7 +76,6 @@
 { .block-language-dataview}
 ### 2024 / 07
 
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 
 { .block-language-dataview}

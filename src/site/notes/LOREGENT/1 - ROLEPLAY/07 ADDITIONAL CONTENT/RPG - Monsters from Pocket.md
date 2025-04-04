@@ -430,7 +430,7 @@ In our story universe, armor is divided according to the type of weapon attack i
 - This armor is resistant to blunt weapons and explosives. This means that blunt weapons do not harm this armor.    
 - It is weak against other weapons. This means it loses 1 armor point with each successful enemy attack.    
 - ([[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Blunt Weapons\|Blunt Weapons]] are: hammers, maces, clubs, and similar. Also includes blunt throwing weapons.)    
-- (Explosives fall under [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Explosive Weapons\|Explosive Weapons]]. These include: grenades, explosive arrows, explosive spells, and similar.)
+- (Under blunt weapons also falls [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Explosive Weapons\|Explosive Weapons]]. These include: grenades, explosive arrows, explosive spells, and similar.)
 
 ###### Against Sharp Weapons
 - This armor is resistant to sharp weapons. This means that sharp weapons do not harm this armor. 

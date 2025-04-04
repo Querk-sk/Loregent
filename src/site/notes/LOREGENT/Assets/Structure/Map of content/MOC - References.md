@@ -14,9 +14,9 @@
 - [[LOREGENT/Assets/References/Authors/Shad\|Shad]]
 - [[LOREGENT/Assets/References/Authors/Rorschach\|Rorschach]]
 - [[LOREGENT/Assets/References/Authors/Pointy Hat\|Pointy Hat]]
-- [[LOREGENT/Assets/References/Authors/Martian Muckraker\|Martian Muckraker]]
 - [[LOREGENT/Assets/References/Authors/LocalScriptMan\|LocalScriptMan]]
 - [[LOREGENT/Assets/References/Authors/Jazza\|Jazza]]
+- [[LOREGENT/Assets/References/Authors/Martian Muckraker\|Martian Muckraker]]
 - [[LOREGENT/Assets/References/Authors/Javk\|Javk]]
 - [[LOREGENT/Assets/References/Authors/Game Maker's Toolkit\|Game Maker's Toolkit]]
 
