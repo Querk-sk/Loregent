@@ -204,9 +204,9 @@ The character is looking for something:
 4. Slight Fortune    
     - The character finds the item and can use it immediately.   
 5. Great Fortune    
-    - The character finds the item and can use it immediately. This item reduces the challenge level by 1 or adds 1 win to the roll.        
+    - The character finds the item and can use it immediately. This item reduces the challenge level by 1 or adds 1 success to the roll.        
 6. Huge Fortune    
-    - The character finds the item and can use it immediately. This item reduces the challenge level by 2 or adds 2 wins to the roll.
+    - The character finds the item and can use it immediately. This item reduces the challenge level by 2 or adds 2 successes to the roll.
 
 ### TAG and LINK : 
 - Stability : #stability/mild_stability  

@@ -139,6 +139,9 @@ Transferring successes can happen in all actions that characters perform togethe
 **In chapter** :  [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 01 C - Dice roll\|RPG - CH 01 C - Dice roll]] 
 
 #### Notes linked here
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/success\|success]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Assistance\|RPG - Assistance]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 

@@ -10,7 +10,7 @@ The character can create any item, provided they have the talent, sufficient mat
 The skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Working with hands\|Working with hands]]" or "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Technical skills\|Technical skills]]" is used to create the item. Other skills can also be used for the creation of the item, but only as an "[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]]" (e.g., the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]]" when forging a sword)
 
 > [!note] Skills and Item Creation
-> **[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Working with hands\|Working with hands]]** is used for creating items that only require knowledge and skilled hands, but not complex machines. Examples include brewing potions, embroidering magical runes into cloth, creating a statue (which a magician later animates), stringing beads (to make a magical necklace), forging a sword, making a bow, and so on.
+> **[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Working with hands\|Working with hands]]** is used for creating items that only require knowledge and skilled hands, but not complex machines. Examples include bresuccessg potions, embroidering magical runes into cloth, creating a statue (which a magician later animates), stringing beads (to make a magical necklace), forging a sword, making a bow, and so on.
 > 
 > **[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Technical skills\|Technical skills]]** are rolled when the character is creating a machine or using a machine to create an item (e.g., a replicator that makes medicine, a CNC machine that cuts a knife from a piece of steel, an analytical mixer that mixes a potion).
 >
@@ -18,7 +18,7 @@ The skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/I
 
 #### Challenge Level for Creating an Item
 
-The character specifies what they want to create and what attributes the item should have. Based on this, the challenge level is calculated according to the following list (from chapter points of wealth):
+The character specifies what they want to create and what attributes the item should have. Based on this, the challenge level is calculated according to the follosuccessg list (from chapter points of wealth):
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/1-roleplay/04-points/rpg-points-of-wealth/#item-price" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -58,22 +58,22 @@ The price of an item is determined by its physical and magical properties (or it
 
 The challenge level can be adjusted by the narrator if the character is making a complex item or if they have weak tools or are missing a minor component (e.g., one clip instead of two). Better auxiliary items like a modern blacksmith's forge (instead of a regular forge), a higher-quality hammer, etc., reduce the challenge level. The amount of reduction is determined by the narrator.
 
-After rolling the dice, all wins are summed. If the number of wins is lower, the item is created with worse attributes or no item is created at all, and the materials are destroyed.
+After rolling the dice, all successes are summed. If the number of successes is lower, the item is created with worse attributes or no item is created at all, and the materials are destroyed.
 
 ##### Bonus Points for Items
 
-A character can earn additional wins if they use higher quality or rarer materials (e.g., using titanium instead of iron) or if they enhance their basic materials (e.g., creating a purer alloy).
+A character can earn additional successes if they use higher quality or rarer materials (e.g., using titanium instead of iron) or if they enhance their basic materials (e.g., creating a purer alloy).
 
 > [!example]
 >  - The character is going to make an axe.
 >  - They are a blacksmith and have all the materials. Some materials have also been enhanced.
 >- They rolled [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|Talent]] "blacksmith" +[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Working with hands\|Working with hands]]+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]]+3
->- Against a challenge level of 4 and achieved, say, 6 wins.
+>- Against a challenge level of 4 and achieved, say, 6 successes.
 >- This grants them 2 item points.
->- Enhanced materials provide, say, 4 wins (iron bar 2, better wood 1, better axe handle 1)
->- Thus, the character gains a total of 6 wins.
+>- Enhanced materials provide, say, 4 successes (iron bar 2, better wood 1, better axe handle 1)
+>- Thus, the character gains a total of 6 successes.
 
-Regarding rare materials, the narrator determines how many wins they add to the final result.
+Regarding rare materials, the narrator determines how many successes they add to the final result.
 
 For enhanced materials, the character must enhance them themselves (e.g., by refining steel) or buy them from a merchant. Enhancing materials (which must be approved by the narrator) is done in the same way as a roll for creating an item. Because it involves creating a better material, the challenge level may be higher or lower, depending on the circumstances and tools used.
 

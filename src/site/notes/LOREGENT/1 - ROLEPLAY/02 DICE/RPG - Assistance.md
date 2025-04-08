@@ -69,6 +69,7 @@ Assistance cannot be used on an assistance roll that is meant to assist somethin
 
 #### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Assistance\|Assistance]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}

@@ -4,7 +4,7 @@
 
 ### [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|Points of Sacrifice]]
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|Points of Sacrifice]] do not exist by themselves; it's just a name for the game mechanic where a character sacrifices their item, health, money, or anything they own to gain wins for their roll.
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|Points of Sacrifice]] do not exist by themselves; it's just a name for the game mechanic where a character sacrifices their item, health, money, or anything they own to gain successes for their roll.
 
 > [!example]
 >
@@ -12,13 +12,13 @@
 >
 >Let's say they have 7 dice to roll and need to beat a challenge level of 4 because the door is sturdy.
 >
->Let's say the character managed to roll 3 wins, which is not enough. Therefore, they decide to sacrifice some of the weapon's attributes, gaining the one win they need. Thanks to that, they break the door.
+>Let's say the character managed to roll 3 successes, which is not enough. Therefore, they decide to sacrifice some of the weapon's attributes, gaining the one success they need. Thanks to that, they break the door.
 
 A sacrifice can only be used for logically applicable things, and each use must be approved by the narrator. Sacrifice can only be used by [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character type/Main Hero\|main characters]] and [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character type/Main Enemy\|main enemies]].
 
 #### Earning Sacrifice Points
 
-A character earns [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|Points of Sacrifice]] by sacrificing some attribute either from their body (e.g., health) or from their item (e.g., armor). These points are then converted into wins that they can use in their roll.
+A character earns [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Sacrifice\|Points of Sacrifice]] by sacrificing some attribute either from their body (e.g., health) or from their item (e.g., armor). These points are then converted into successes that they can use in their roll.
 
 - **Sacrificing an Attribute That Adds Dice to the Roll** (a.k.a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]])
     - Attributes that can be sacrificed:        
@@ -27,7 +27,7 @@ A character earns [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Point
     - Attributes that cannot be sacrificed:        
         - talents, and specializations from the character            
     - The character receives:        
-        - 1 win for 1 point of the sacrificed attribute            
+        - 1 success for 1 point of the sacrificed attribute            
 - **Sacrificing an Attribute Used in Combat**    
     - Attributes that can be sacrificed:        
         - An attribute from an item that adds dice to attack, increases [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Weapon Attributes\|max damage]], or adds armor   
@@ -35,14 +35,14 @@ A character earns [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Point
     - Attributes that cannot be sacrificed:        
         - Combat talents and specializations from the character            
     - The character receives:        
-        - 2 wins for 1 point of the sacrificed attribute            
+        - 2 successes for 1 point of the sacrificed attribute            
 - **Sacrificing an Attribute That Improves Passive Characteristics or Other Points**    
     - Attributes that can be sacrificed:        
         - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Energy\|Points of Energy]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]]            
     - Attributes that cannot be sacrificed:        
         - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Weight of Inventory\|Weight of Inventory]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]]            
     - The character receives:        
-        - 4 wins for 1 point of the sacrificed attribute
+        - 4 successes for 1 point of the sacrificed attribute
 
 ##### Note on Health Sacrifice
 
@@ -54,19 +54,19 @@ When an entire item is sacrificed, or when an item has exhausted all attributes 
 
 ##### Note on Wealth Sacrifice
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]] can only be sacrificed when social skills are rolled. For every 10 wealth points, the character gains 1 win in their roll. The same applies to combat (where wealth points can be used to persuade the enemy to stop fighting - e.g. social influence), but in this case, the number of points to be sacrificed is determined by the narrator.
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]] can only be sacrificed when social skills are rolled. For every 10 wealth points, the character gains 1 success in their roll. The same applies to combat (where wealth points can be used to persuade the enemy to stop fighting - e.g. social influence), but in this case, the number of points to be sacrificed is determined by the narrator.
 
 Alternatively, [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]] can be sacrificed by purchasing a service (e.g., hiring a locksmith to open a chest), or by hiring a companion to help solve a problem, or by purchasing a blacksmith's services to repair armor, or finally, to replenish points that the character has used (e.g., renting a room at an inn to sleep and replenish [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]]).
 
 ##### Note on Sacrificing the Entire Character
 
-If there is no other option and the dice roll is too important for the survival of the entire group, a player can decide to sacrifice their entire character. This will win the dice roll, solving the problem completely and entirely. However, the character will be permanently out of the game and cannot be revived in any way.
+If there is no other option and the dice roll is too important for the survival of the entire group, a player can decide to sacrifice their entire character. This will success the dice roll, solving the problem completely and entirely. However, the character will be permanently out of the game and cannot be revived in any way.
 
 > [!example]
 > 
 > Let's say the players are being chased by a dragon. They ended up in a dead end with wooden doors. One of the players has a big hammer as a weapon and there is a possibility they could smash the doors.
 > 
-> Let's say they have 7 dice to roll against a challenge level of 4 (sturdy doors). They fail to roll any wins. Let's say their character is injured and decides to sacrifice themselves.
+> Let's say they have 7 dice to roll against a challenge level of 4 (sturdy doors). They fail to roll any successes. Let's say their character is injured and decides to sacrifice themselves.
 > 
 > Narratively, the narrator can describe that the character smashed into the doors, causing them to open. However, the wall weakened and the ceiling started to collapse. The other players escaped while the injured character stayed behind to stop the dragon. Both the character and the dragon were buried under the rubble, and after this sacrifice, the dragon will no longer pose a threat to the players.
 
@@ -76,17 +76,17 @@ Sacrificed attribute points of the character are considered an injury and are re
 
 #### Use of Sacrifice Points
 
-Sacrifice points can only be used to gain a win in the character's roll. The cost of sacrifice depends on whether the character wants to match their wins to the challenge level, or exceed it (i.e., achieve more wins than the CL). If the character wants to match the wins to the CL, 1 win point requires 1 sacrifice point, while in the second case (exceeding the CL), 1 win point requires 2 sacrifice points.
+Sacrifice points can only be used to gain a success in the character's roll. The cost of sacrifice depends on whether the character wants to match their successes to the challenge level, or exceed it (i.e., achieve more successes than the CL). If the character wants to match the successes to the CL, 1 success point requires 1 sacrifice point, while in the second case (exceeding the CL), 1 success point requires 2 sacrifice points.
 
-> [!example]  Example (matching wins)
-> - The character rolled 3 wins.
-> - The challenge level is 5, so they need 2 more wins.
-> - If they only want to match the 2 wins, they "pay" 2 sacrifice points.
+> [!example]  Example (matching successes)
+> - The character rolled 3 successes.
+> - The challenge level is 5, so they need 2 more successes.
+> - If they only want to match the 2 successes, they "pay" 2 sacrifice points.
 
 >[!example] Example (exceeding the CL)
->- The character rolled 5 wins.
->- The challenge level is 5, but the character wants 1 additional win, for example, to [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Negotiating Prices with a Merchant\|persuade a merchant]] to give them a discount.
->- In that case, they "pay" 2 sacrifice points for 1 win.
+>- The character rolled 5 successes.
+>- The challenge level is 5, but the character wants 1 additional success, for example, to [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Negotiating Prices with a Merchant\|persuade a merchant]] to give them a discount.
+>- In that case, they "pay" 2 sacrifice points for 1 success.
 
 ### TAG and LINK :
 - Stability : #stability/mild_stability  

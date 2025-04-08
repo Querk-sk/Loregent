@@ -7,8 +7,8 @@
 
 Maneuvers or actions during battle are divided into three categories: "Slow Action," "Fast Action," and "Very Fast Action."
 
-- "**Slow Action**" requires concentration or more than 2 seconds to complete, or it results in a full injury to the enemy (or another full disadvantage).    
-- "**Fast Action**" requires less concentration or can be done within 2 seconds, or it has a smaller impact on the enemy's injury (or another disadvantage).    
+- "**Slow Action**" requires concentration or more than 2 seconds to complete, or it results in a full injury to the enemy (or another full disadvantage for enemy).    
+- "**Fast Action**" requires less concentration or can be done within 2 seconds, or it has a smaller impact on the enemy's injury (or another disadvantage for enemy).    
 - "**Very Fast Action**" is something that requires the least concentration and can be done within one second, or it has a minimal impact on the enemy (not resulting in any injury or limitation), or it is an action that must be performed (e.g., a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Skill check\|activity check]]). The decision to perform a very fast action is made by the narrator.
 
 During battle, a character can perform only one "slow action" or two "fast actions."
@@ -36,7 +36,7 @@ A character can make only one sacrifice per dice roll. It’s best to use the ac
 #### Maneuvers by Impact on the Enemy
 
 Maneuvers are also classified by their impact on the enemy into:
-- Offensive (causing damage to the enemy)    
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|Damaging]] (causing damage to the enemy)    
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] (where the activity helps the character or allies)    
 - Pacifistic (not causing damage to the enemy but disadvantaging them, e.g., stunning)
 
@@ -52,17 +52,17 @@ Movement allows a character to get into a better position, hide, or dodge an att
 
 **Type:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] action performed before rolling dice - very fast action.
 
-**Description:** It is a quick move within 2 meters or within 1 second. For example, when a character passes through a door, hides behind a cupboard (must be close by), or jumps through a window (when standing next to it). It must be a move that does not require any dice roll and has no level of complexity. When the move requires a dice roll or has a level of complexity, "quick move" is replaced with "regular move."
+**Description:** It is a quick move within 2 meters or within 1 second. For example, when a character passes through a door, hides behind a cupboard (must be close by), or jumps through a window (when standing next to it). It must be a move that does not require any dice roll and has no challenge level. When the move requires a dice roll or has a challenge level, "quick move" is replaced with "regular move."
 
 **Repetition:** Quick move can be used only once per round.
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. There are no benefits from specialization or talent.
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. There are no benefits from specialization or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]].
 
 ###### Regular Move - f
 
 **Type:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] action performed (or rolled) before rolling dice - fast action.
 
-**Description:** It is a move within a larger area than 2 meters or lasting more than 2 seconds. For example, when a character passes through a door (from a distance), hides behind a cupboard (even if it is further away), or jumps through a window (even if it is further away). It is a movement that requires a skill roll against the level of complexity.
+**Description:** It is a move within a larger area than 2 meters or lasting more than 2 seconds. For example, when a character passes through a door (from a distance), hides behind a cupboard (even if it is further away), or jumps through a window (even if it is further away). It is a movement that requires a skill roll against the challenge level.
 
 For a “regular move,” you roll:
 
@@ -70,11 +70,11 @@ For a “regular move,” you roll:
 - or [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Mobility\|Mobility]] (for handling difficult terrain, e.g., height differences or deep snow),    
 - or [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] (when jumping over an obstacle).    
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Challenge Level\|Challenge Level]] is determined by meters - for every additional 2 meters, add 1 CL (starting from 0, so 4m = CL 1, 6m = CL 2, etc.), and the complexity of the obstacle also increases CL (+1 for something easier, +2 for something complex, +3 for something very complex).
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Challenge Level\|Challenge Level]] is determined by meters - for every additional 2 meters, add 1 CL (starting from 0, so 4m = CL 1, 6m = CL 2, etc.), and the challenge of the obstacle also increases CL (+1 for something easier, +2 for something complex, +3 for something very complex).
 
 **Repetition:** Regular move can be repeated several times in one round, even between two attacks (the character moves, attacks, and moves again). It works as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. If the character has an appropriate talent for movement, they can use it for this maneuver.
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If the character has an appropriate [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] for movement, they can use it for this maneuver.
 
  ###### Shift in Combat Distance - s
 
@@ -84,7 +84,7 @@ For a “regular move,” you roll:
 
 **Repetition:** The shift in combat distance can be used multiple times in one combat round, but consecutively (e.g., the character shifts by 1+1 positions within [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance\|combat distance]]).
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. There are no benefits from specialization or talent.
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. There are no benefits from specialization or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]].
 
 ###### Stealthy Approach - s
 
@@ -98,11 +98,11 @@ The narrator decides how many times the character must roll "[[LOREGENT/1 - ROLE
 
 If the character wins all the rolls in the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Stealth\|Stealth]] skill, they reach the enemy from behind and can make an attack against CL0. Each win counts as direct damage to the enemy (or as a level of victory), and the enemy's armor is ignored.
 
-If the character loses, the enemy sees them and can attack. The wins the enemy gained in the last roll carry over to the next attack.
+If the character loses, the enemy sees them and can attack. Wins the enemy gained in the last roll carry over to the next attack.
 
 **Repetition:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Stealth\|Stealth]] is rolled every round. If the character is revealed, [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Stealth\|Stealth]] can no longer be rolled.
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. If the character has an appropriate talent for silent movement, they can use it for this maneuver.
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If the character has an appropriate [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] for silent movement, they can use it for this maneuver.
 
 ###### Charge - s
 
@@ -110,13 +110,13 @@ If the character loses, the enemy sees them and can attack. The wins the enemy g
 
 **Description:** Charge is a combat maneuver based on the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]]." In this maneuver, the character runs towards the enemy and uses their speed and weight to knock them down. There must be a sufficient distance between the character and the enemy. Charge can be used within "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Reach\|Reach]]" distance (4m - 5m).
 
-Each character (regardless of whether they have points in the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]]" or not) receives an additional +3 dice for their roll during a charge. If the attacking character wins, they knock the enemy to the ground (see the "[[RPG - Levels of Victory\|Combat Result]]" chapter, option “[[RPG - Levels of Victory#Knockdown (pacif)\|Knockdown]]").
+Each character (regardless of whether they have points in the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]]" or not) receives an additional +3 dice for their roll during a charge. If the attacking character wins, they knock the enemy to the ground (see the "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|Combat Result]]" chapter, option “[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels#Knockdown (pacifist)\|Knockdown]]").
 
 Defense against Charge includes: Resistance, Dodge, or a regular attack if the character has a shield or any loaded firearm.
 
-**Repetition:** With a sacrifice, the charge can be rolled again as a normal roll. It can be used against another enemy. It can only be used against the same enemy when the character and enemy are within "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Reach\|Reach]]" distance (4m - 5m).
+**Repetition:** With a sacrifice, the charge can be rolled again as a normal roll. It can be used against another enemy (not the same). Against the same enemy it can be used only when the character and enemy are within "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|Reach]]" distance (4m - 5m).
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. If the character has an appropriate specialization that can be used for the charge, they can use it for this maneuver. (Talent cannot be used since Charge is a damaging maneuver).
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If the character has an appropriate specialization that can be used for the charge, they can use it for this maneuver. ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] cannot be used since Charge is a damaging maneuver).
 
 ##### Attack
 
@@ -126,13 +126,13 @@ Attack allows a character to damage the enemy or to disadvantage their enemy.
 
 **Type:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] action rolled before the attack - very fast action.
 
-**Description:** This is an activity check that determines if the character can attack when in challenging conditions (e.g., swimming in deep water). The character must first roll the skill related to the conditions (e.g., in deep water, the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Mobility\|Mobility]] skill is rolled), with the complexity level determined by the narrator based on the circumstances.
+**Description:** This is an activity check that determines if the character can attack when in challenging conditions (e.g., swimming in deep water). The character must first roll the skill related to the conditions (e.g., in deep water, the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Mobility\|Mobility]] skill is rolled), with the challenge level determined by the narrator based on the circumstances.
 
 The pre-attack check functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
 **Repetition:** With a sacrifice, the pre-attack check can be rolled again. It still functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. If the character has an appropriate talent, they can use it for this maneuver.
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If the character has an appropriate [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], they can use it for this maneuver.
 
 ###### Analysis of Weakness - f
 
@@ -144,7 +144,7 @@ Weakness detection functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variab
 
 **Repetition:** It can only be used once in battle.
 
-**Specialization:** This maneuver requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. Without them, the character rolls at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+**Specialization:** This maneuver requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. Without them, the character rolls at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ###### Analysis of an Enemy  - f
 
@@ -154,15 +154,15 @@ Weakness detection functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variab
 
 **Repetition:** It can only be used once in battle.
 
-**Specialization:** This maneuver requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. Without them, the character rolls at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+**Specialization:** This maneuver requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. Without them, the character rolls at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ###### Searching for an Item - f
 
 **Type:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] action rolled before the attack - fast action.
 
-**Description:** The character finds an item that will help in battle (e.g., a bottle of gasoline, sand, rag). Searching for an item functions as an auxiliary roll and is rolled as [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]], against the [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Challenge Level\|level of complexity]], determined by a luck roll. (So if the character wants to find an item, first roll luck and then roll [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]]).
+**Description:** The character finds an item that will help in battle (e.g., a bottle of gasoline, sand, rag). Searching for an item functions as an auxiliary roll and is rolled as [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]], against the [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Challenge Level\|challenge level]], determined by a luck roll. (So if the character wants to find an item, first roll luck and then roll [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]]).
 
-The level (or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|strength]]) of the item is determined by the number of wins the character gets from the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]] skill roll (which was reduced by the level of complexity).
+The level (or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|strength]]) of the item is determined by the number of wins the character gets from the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]] skill roll (which was reduced by the challenge level).
 
 The item found can be used in the next round, or if there are still unused actions, it can be used in the same round (see use of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] item). The item must be used as soon as possible and cannot be saved for later. It also cannot be sacrificed.
 
@@ -176,19 +176,19 @@ The item found can be used in the next round, or if there are still unused actio
 
 **Repetition:** With a sacrifice, it can be rolled again. In this case, it functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. If the character has an appropriate talent, it can be used for this maneuver.
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If the character has an appropriate [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], it can be used for this maneuver.
 
 ###### Vehicle Use - f
 
 **Type:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|Damaging]] action rolled before the attack - fast action.
 
-**Description:** A character can use their vehicle in battle. They can maneuver it to ram the enemy or position it for better shooting. This maneuver is rolled as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]] with the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Skillfulness\|Skillfulness]] skill connected to a talent related to [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/z - others/Pilot and Ride\|Pilot and Ride]] (e.g., fighter pilot).
+**Description:** A character can use their vehicle in battle. They can maneuver it to ram the enemy or position it for better shooting. This maneuver is rolled as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]] with the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Skillfulness\|Skillfulness]] skill connected to a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] related to [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/z - others/Pilot and Ride\|Pilot and Ride]] (e.g., fighter pilot).
 
 Note: Though referred to as a vehicle, this maneuver applies to all machines that can be piloted, including aircraft, spaceships, and so on.
 
 **Repetition:** With a sacrifice, it can be rolled again. It still functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
-**Specialization:** This maneuver requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. Without them, the character rolls at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+**Specialization:** This maneuver requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. Without them, the character rolls at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ###### Use of an Animal - f
 
@@ -196,11 +196,11 @@ Note: Though referred to as a vehicle, this maneuver applies to all machines tha
 
 **Description:** Control of commands for the animal, or control of the use of surrounding animals (e.g., scaring elephants). This control serves to make the animals attack the enemy or somehow make their life difficult.
 
-[[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills#Talking to Animals / Controlling Animals\|Animal Use]] is rolled as a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|self-assistance roll]] and is rolled as a combination of any one skill from [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] and a talent related to working with animals (e.g., beast tamer). The use of animals must be approved by the narrator.
+[[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills#Talking to Animals / Controlling Animals\|Animal Use]] is rolled as a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|self-assistance roll]] and is rolled as a combination of any one skill from [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] and a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] related to [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills#Talking to Animals / Animal Control\|working with animals]] (e.g., beast tamer). The use of animals must be approved by the narrator.
 
 **Repetition:** It can only be used once per round.
 
-**Specialization:** This maneuver requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. Without them, the character rolls at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+**Specialization:** This maneuver requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. Without them, the character rolls at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ###### Deceiving the Enemy - f
 
@@ -208,7 +208,7 @@ Note: Though referred to as a vehicle, this maneuver applies to all machines tha
 
 **Description:** The character uses tricks to deceive the enemy. For example, pretending to attack from the other side or feigning defense.
 
-Deceiving the enemy is rolled as a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|self-assistance roll]] and is rolled using the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Deception\|Deception]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Skillfulness\|Skillfulness]] skill. If the character has an appropriate talent, it can also be used (e.g., illusionist, circus performer).
+Deceiving the enemy is rolled as a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|self-assistance roll]] and is rolled using the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/SOC/Deception\|Deception]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Skillfulness\|Skillfulness]] skill. If the character has an appropriate [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], it can also be used (e.g., illusionist, circus performer).
 
 **Repetition:** It can only be used once per round.
 
@@ -236,7 +236,7 @@ Note - Only melee weapons can be used. Ranged or thrown weapons cannot be used.
 
 **Repetition:** With a sacrifice, it can be rolled again. It then functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
-**Specialization:** When a character uses a weapon that requires a talent or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] and does not have either, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+**Specialization:** When a character uses a weapon that requires a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] and does not have either, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ###### Half Attack / Counterattack - f
 
@@ -246,7 +246,7 @@ Note - Only melee weapons can be used. Ranged or thrown weapons cannot be used.
 
 **Repetition:** With a sacrifice, it can be rolled again. It then functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
-**Specialization:** When a character uses a weapon that requires a talent or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] and does not have either, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+**Specialization:** When a character uses a weapon that requires a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] and does not have either, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ###### Deflect Attack - f
 
@@ -256,7 +256,7 @@ Note - Only melee weapons can be used. Ranged or thrown weapons cannot be used.
 
 **Repetition:** With a sacrifice, it can be rolled again. It then functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
-**Specialization:** When a character uses a weapon that requires a talent or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] and does not have either, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+**Specialization:** When a character uses a weapon that requires a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] and does not have either, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ###### Brace - f
 
@@ -268,7 +268,7 @@ Bracing is rolled as a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|se
 
 **Repetition:** It can only be used once per round.
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. If the character has an appropriate talent or specialization, they can use it for this maneuver.
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If the character has an appropriate [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or specialization, they can use it for this maneuver.
 
 ###### Dodging - f
 
@@ -278,21 +278,21 @@ Bracing is rolled as a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|se
 
 **Repetition:** With a sacrifice, it can be rolled again. It then functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. If the character has an appropriate talent or specialization, they can use it for this maneuver.
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If the character has an appropriate [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or specialization, they can use it for this maneuver.
 
 ###### Damage Absorption - f
 
 **Type:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] action used instead of an attack - fast action.
 
-**Description:** Damage absorption serves to reduce the damage that the character would receive. It is rolled as the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] skill, without the use of talent or items (which can only be used for sacrifice). Armor, shield, or weapon can be used in this roll - the number of points in armor (shield or weapon) is converted into dice, which increases the number of dice in the damage absorption roll.
+**Description:** Damage absorption serves to reduce the damage that the character would receive. It is rolled as the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] skill, without the use of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or items (which can only be used for sacrifice). Armor, shield, or weapon can be used in this roll - the number of points in armor (shield or weapon) is converted into dice, which increases the number of dice in the damage absorption roll.
 
 The roll is made against the enemy's attack. The number of wins the character rolls is the amount by which their damage is reduced. The result of this roll is final, and the damage cannot be reduced further by armor.
 
-Damage absorption serves to absorb the enemy's attack without causing any injury to the enemy. The character does not gain any benefits from a successful counterattack.
+Damage absorption serves to absorb the enemy's attack without causing any injury to the enemy. The character does not gain any benefits from a successful damage absorption.
 
 **Repetition:** It can only be used once per combat round.
 
-**Specialization:** Talent and specialization are not used for this maneuver.
+**Specialization:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] and [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|specialization]] are not used for this maneuver.
 
 ##### Magic
 
@@ -306,7 +306,7 @@ Damage absorption serves to absorb the enemy's attack without causing any injury
 
 **Repetition:** With a sacrifice, it can be rolled again. It then functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
-**Specialization:** The character must have talent. If they do not have talent, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. If the spell is quite complex, they roll at a great disadvantage.
+**Specialization:** The character must have [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If they do not have [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. If the spell is quite complex, they roll at a great disadvantage.
 
 ###### [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] Spell, Slow - s
 
@@ -316,7 +316,7 @@ Damage absorption serves to absorb the enemy's attack without causing any injury
 
 **Repetition:** With a sacrifice, it can be rolled again. It then functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
-**Specialization:** The character must have talent. If they do not have talent, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. If the spell is quite complex, they roll at a great disadvantage.
+**Specialization:** The character must have [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If they do not have [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. If the spell is quite complex, they roll at a great disadvantage.
 
 ###### Spell Charging - f
 
@@ -324,11 +324,11 @@ Damage absorption serves to absorb the enemy's attack without causing any injury
 
 **Description:** This maneuver is used when the CL for the spell is too high or when the wizard wants to strengthen their spell. The wizard focuses on their spell, charging it with full power. During the round, the character rolls their normal dice roll (as if casting the spell) against the CL, which is determined by the length of the charging time. The duration of the character's focus on their spell determines the CL of the spell. If the CL is high, the character can spread it out - but each round must have at least CL 2 (exceptionally 1). Thus, the CL for each charging round of the spell should be 2 (exceptionally 1).
 
-If the character wins the roll (passes the complexity level), the number of wins is recorded. If the roll fails (does not pass the complexity level), nothing happens (0 wins are recorded). In the final charging round, all wins from all rounds are added up into one final total, which will be considered definitive.
+If the character wins the roll (passes the challenge level), the number of wins is recorded. If the roll fails (does not pass the challenge level), nothing happens (0 wins are recorded). In the final charging round, all wins from all rounds are added up into one final total, which will be considered definitive.
 
 **Repetition:** With a sacrifice, the charging roll can be rolled again in the same round. It then functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
-**Specialization:** The character must have a talent or specialization. If they have neither, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. If the spell is quite complex, they roll at a great disadvantage.
+**Specialization:** The character must have a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or specialization. If they have neither, they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. If the spell is quite complex, they roll at a great disadvantage.
 
 ###### Regular Attack / Counterattack with Spell - s
 
@@ -344,7 +344,7 @@ Used the same way as regular deflecting attack with weapons.
 
 ##### Morale
 
-Morale affects the enemy's will to fight. Morale is the only attribute that falls under [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]]. All maneuvers are performed using skills from this attribute. Another difference is that all maneuvers in the morale category are [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]], meaning they do not directly harm the enemy. Additionally, all rolls are considered auxiliary, meaning they either increase the number of dice an ally can roll or decrease the number of dice an enemy can roll. The narrator determines the [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Challenge Level\|level of complexity]].
+Morale affects the enemy's will to fight. Morale is the only attribute that falls under [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]]. All maneuvers are performed using skills from this attribute. Another difference is that all maneuvers in the morale category are [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]], meaning they do not directly harm the enemy. Additionally, all rolls are considered auxiliary, meaning they either increase the number of dice an ally can roll or decrease the number of dice an enemy can roll. The narrator determines the [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Challenge Level\|challenge level]].
 
 ###### Communication Very Fast - vf
 
@@ -368,7 +368,7 @@ The character can shout to their friends that an animal is charging at them, or 
 
 **Repetition:** Not used
 
-**Specialization:** Not used in this maneuver. [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|Talent]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] can be used beforehand as an auxiliary roll or a skill roll, through which the character discovers important facts.
+**Specialization:** Not used in this maneuver. [[[[talent\|[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] can be used beforehand as an auxiliary roll or a skill roll, through which the character discovers important facts.
 
 ###### Communication Slow - s
 
@@ -378,7 +378,7 @@ The character can shout to their friends that an animal is charging at them, or 
 
 **Repetition:** Not used
 
-**Specialization:** Not used in this maneuver. [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|Talent]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] can be used beforehand as an auxiliary roll or a skill roll, through which the character discovers important facts.
+**Specialization:** Not used in this maneuver. [[[[talent\|[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] can be used beforehand as an auxiliary roll or a skill roll, through which the character discovers important facts.
 
 ###### Searching for the Enemy's Psychological Weakness - f
 
@@ -390,7 +390,7 @@ This maneuver is performed as the skill " [[LOREGENT/1 - ROLEPLAY/z RPG variable
 
 **Repetition:** It can be used only once in combat.
 
-**Specialization:** This maneuver requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. Without them, the character rolls with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+**Specialization:** This maneuver requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. Without them, the character rolls with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ###### Intimidation / Unsettling / Angering - f
 
@@ -402,7 +402,7 @@ The skill " [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/
 
 **Repetition:** It can be used only once in combat.
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. If the character has a suitable talent, they can use it for this maneuver.
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If the character has a suitable [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], they can use it for this maneuver.
 
 ###### Negotiation - s
 
@@ -414,7 +414,7 @@ The skill " [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/
 
 **Repetition:** It can be used only once in combat.
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. If the character has a suitable talent, they can use it for this maneuver.
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If the character has a suitable [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], they can use it for this maneuver.
 
 ###### Deception - s
 
@@ -426,11 +426,11 @@ The skill " [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/
 
 **Repetition:** It can be used only once in combat.
 
-**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or talent. If the character has a suitable talent, they can use it for this maneuver.
+**Specialization:** This maneuver does not require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If the character has a suitable [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], they can use it for this maneuver.
 
 ##### Other Maneuvers
 
-If the character cannot find a suitable maneuver, they can create their own. However, it must be approved by the narrator. The narrator also determines whether it is a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|attack]] roll, or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] roll. This is important for more complex maneuvers, which may require talent (mainly for supporting or useful rolls) or specialization (mainly for attack rolls, sometimes for supporting ones).
+If the character cannot find a suitable maneuver, they can create their own. However, it must be approved by the narrator. The narrator also determines whether it is a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|attack]] roll, or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] roll. This is important for more complex maneuvers, which may require [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] (mainly for supporting or useful rolls) or specialization (mainly for attack rolls, sometimes for supporting ones).
 
 Similarly, the narrator decides whether the maneuver will be thrown instead of an attack roll, or used before the attack, or after the enemy's attack. They can also determine whether the character can use their weapon during the maneuver.
 
@@ -454,7 +454,7 @@ Most of these maneuvers can only be used once per round.
 
 **Description:** The character performs a quick maneuver, which execution does not exceed 2 seconds.
 
-This maneuver is performed as a skill combined with a talent or specialization. The narrator decides which [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Skill\|Skill]], talent, or specialization will be used. If the character does not have a suitable talent or specialization (and the situation specifically requires talent or specialization), then the character will roll with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+This maneuver is performed as a skill combined with a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or specialization. The narrator decides which [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Skill\|Skill]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], or specialization will be used. If the character does not have a suitable [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or specialization (and the situation specifically requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or specialization), then the character will roll with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ###### Performing a Slow Maneuver - s
 
@@ -462,7 +462,7 @@ This maneuver is performed as a skill combined with a talent or specialization. 
 
 **Description:** The character performs a slower maneuver or one that requires greater concentration.
 
-This maneuver is performed as a skill combined with a talent or specialization. The narrator decides which [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Skill\|Skill]], talent, or specialization will be used. If the character does not have a suitable talent or specialization (and the situation specifically requires talent or specialization), then the character will roll with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+This maneuver is performed as a skill combined with a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or specialization. The narrator decides which [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Skill\|Skill]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], or specialization will be used. If the character does not have a suitable [[talent]] or specialization (and the situation specifically requires [[talent]] or specialization), then the character will roll with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ### TAG and LINK : 
 - Stability : #stability/unstable

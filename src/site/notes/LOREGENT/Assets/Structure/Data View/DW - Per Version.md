@@ -76,14 +76,12 @@
 { .block-language-dataview}
 ### 2024 / 07
 
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 
 { .block-language-dataview}
 ### 2024 / 06
 
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Animal Companions\|RPG - Animal Companions]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance\|RPG - Combat Distance]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Game chronology\|RPG - Game chronology]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]

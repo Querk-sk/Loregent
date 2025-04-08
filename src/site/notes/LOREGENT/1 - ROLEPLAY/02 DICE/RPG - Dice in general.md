@@ -7,10 +7,10 @@
 
 When a player decides they want to do something in the story, they must determine whether they will succeed or not. This is done using six-sided dice (D6). The player rolls them, and based on the result, the narrator decides success or failure of the intended action.
 
-- If a **1, 2, or 3** appears on the die, it is a failure for that roll.    
-- If a **4, 5, or 6** appears on the die, it is a success for that roll.
+- If a **1, 2, or 3** appears on the die, it is a failure for that dice.    
+- If a **4, 5, or 6** appears on the die, it is a success for that dice.
 
-Failed rolls are ignored. Only the rolls with successes are counted, and each success is counted as one piece. The number on the die is ignored—4, 5, or 6 is the same success. To surpass the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Challenge Level\|Challenge Level]], the player must roll enough successes—more or equal to the challenge level.
+Failed dice are ignored. Only the rolls with successes are counted, and each success is counted as one piece. The number on the die is ignored—4, 5, or 6 is the same success. To surpass the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Challenge Level\|Challenge Level]], the player must roll enough successes—more or equal to the challenge level.
 
 > [!example]
 > 

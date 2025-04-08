@@ -5,7 +5,7 @@
 
 ### Combat
 
-Combat is a conflict between two characters, where one character attacks the other with a weapon to defeat them. The result of combat is the reduction of the enemy's or character's [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|health points]], or the infliction of a condition, such as stunning. In combat, all attributes, specializations, and possibly also the skills of both characters are taken into account. So, the outcome of combat is determined by a combination of the characters' physical abilities and their knowledge of combat.
+Combat is a conflict between two characters, where one character attacks the other with a weapon to defeat them. The result of combat is reduction of enemy's or character's [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|health points]], or the infliction of a [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels#List of victory levels\|condition]], such as stun. In combat, all attributes, specializations, and possibly also the skills of both characters are taken into account. So, the outcome of combat is determined by a combination of the characters' physical abilities and their knowledge of combat.
 
 Combat can be fought with [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Chrániče na ruky\|hands]], [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Zbrane na blízko\|melee weapons]] (e.g., swords), [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Zbrane na diaľku a na hádzanie\|ranged weapons]] (e.g., pistols), [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|spells]], or combat [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|maneuvers]] (e.g., a character runs and knocks the enemy to the ground).
 
@@ -19,7 +19,7 @@ Each combat round is divided into steps: Declaration of Action, Execution of Act
 
 ##### Step 1 - Declaration of Action
 
-Each character can perform one action in a round, or more, depending on the chosen [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|maneuver]]. All characters' actions occur simultaneously during combat, even though they are announced sequentially by the narrator or players. However, the declaration of action has its order, which is determined by speed points.
+Each character can perform one action in a round, or more, depending on the chosen [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|maneuver]]. All characters' actions occur simultaneously during combat, even though they are announced sequentially by the narrator or players. However, the declaration of action has its order, which is determined by [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]].
 
 - The character with the fewest speed points speaks first about what they would like to do.    
 - Then the character with more points goes next.    
@@ -35,7 +35,7 @@ This order is important because faster characters react to what slower character
 > - The bandit (who has more speed points) decides to kick the table to knock the knight off.
 > - The knight cannot change his decision because he is slower than the bandit.
 
-For simplicity, it is good for characters to attack each other one-on-one. However, in some combats, this is not possible, and multiple characters may fight simultaneously. The number of opponents a character can defend against is determined by the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Podľa veľkosti zbrane\|type of weapon]] and the number of points in their [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]].
+For simplicity sake, it is good for characters to attack eachother one-on-one. However, in some combats, this is not possible, and multiple characters may fight simultaneously. The number of opponents a character can defend against is determined by the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Podľa veľkosti zbrane\|type of weapon]] and the number of points in their [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]].
 
 >[!example]
 > If a character has a weapon - hand protectors, they can fight against 1 enemy +1 for each point in their [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]].
@@ -71,15 +71,15 @@ Combat rolls are also performed in order, but from the fastest character to the 
 >If the knight succeeds - they stay on the table and gain an advantage.
 >If the knight fails - they fall off the table and will be at a disadvantage.
 
-Regarding the combat roll and assistance, combat rolls cannot be assisted, and victories cannot be transferred. Therefore, if one character tries to help another, they can only do so by fighting together, with two characters attacking the enemy instead of one.
+Regarding the combat roll and assistance, combat rolls cannot be [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Assistance\|assisted]], and victories cannot be [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Success and Failure#Transfer of Successes\|transferred]]. Therefore, if one character tries to help another, they can only do so by fighting together, with two characters attacking the enemy instead of one.
 
 ##### Step 3 - Result of Action
 
 The winner of the combat round is the character who rolled the most victories. Their number of victories is subtracted from the number of victories of the character who lost the combat roll, and the remainder is converted into what is called a victory level. Based on the achieved level, the winner of the combat round can cause an injury to their opponent, disarm them, or perform other actions (see the chapter on [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|victory levels]]).
 
-In general, there are two categories of [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|victory levels]]: offensive and pacifist.
+In general, there are two categories of [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|victory levels]]: damaging and pacifist.
 
-**Offensive** levels are those that cause injury to the victim (reduction of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|health points]]), bodily damage (e.g., severing a hand), or permanent reduction of an attribute or skill (something similar to severing a hand).
+**Damaging** levels are those that cause injury to the victim (reduction of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|health points]]), bodily damage (e.g., severing a hand), or permanent reduction of an attribute or skill (something similar to severing a hand).
 
 Regarding injury, it is important to know what kind of attack the character's weapon has, as the attack's strength determines how much damage the enemy takes. A character can achieve a higher victory level, but if they have a weak weapon, the enemy's damage will be lower. The amount of damage is also influenced by the [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization#Weapon Specialization\|weapon specialization]].
 
@@ -103,17 +103,20 @@ This is a different form of regular combat, where characters do not fight with w
 - In social combat, skills from the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] attribute are used (the number of dice is therefore not counted from all attributes as in regular combat).    
 - The order in “social combat” is determined by the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] attribute.    
 - Arguments, facts, and evidence add dice to the roll.    
-    - Evidence is something the character can hold or show - for example, a photo from the crime scene or the victim's diary.        
-    - Fact - is a “tool” the character creates. This is done by rolling an [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|assist roll]] of the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] skill “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Knowledge\|Knowledge]]” against CL 3. The character recalls some information. However, if it is a common fact, the character can also use a book or an encyclopedia excerpt as evidence.        
-    - Argument - is a “tool” the character creates. This is done by rolling an [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|assist roll]] of an applicable [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] skill against CL 3 (or, if the narrator allows, another skill in combination with a talent - but only logically applicable).        
-    - The strength of the fact and argument is determined by the number of victories rolled in the assist roll.        
-    - For evidence, a scale can be used - 1 weak, 5 strong.        
+    - Evidence is something the character can hold or show - for example, a photo from the crime scene or the victim's diary. For evidence, a scale can be used - 1 weak, 5 strong.      
+    - Fact - is a “weapon” the character creates. This is done by rolling an [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|self-assist roll]] of the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] skill “[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Knowledge\|Knowledge]]” against CL 3. The character recalls some information. However, if it is a common fact, the character can also use a book or an encyclopedia excerpt as evidence.   
+    - Argument - is a “weapon” the character creates. This is done by rolling an [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|self-assist roll]] of an applicable [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] skill against CL 3 (or, if the narrator allows, another logically applicable skill in combination with a talent and [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] ).        
+    - The strength of the fact and argument is determined by the number of victories rolled in the self-assist roll.   
 - The opponent can use their victory level to “destroy” the evidence, argument, or fact, or to "destroy" the opponent.    
-- Instead of health points, "social points" are used in social combat, which function exactly like health points, except that when they run out, the opponent convinces the character (or otherwise forces them to change their opinion).
+- Instead of health points, "social points" are used in social combat, which are temporally points, with a function that exactly mimics [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]], except that when they run out, the opponent convinces the character (or otherwise forces them to change their opinion).
+
+>[!note]
+>Every character has [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/6 points\|6 points]] of "social points", plus 1 for every point invested in [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]]
+>"Temporally points" means, that "social points" are used only in social combat encounter. After social encounter they replenish fully. (If narrator wants, they can replenish after 24 h). If the character does reach zero social points - there is no death, or something like that. The character is just convinced (or whatever the point of social combat was).
 
 ### TAG and LINK : 
-- Stability : #stability/unstable
-- Version : #version/2024/07
+- Stability : #stability/mild_stability 
+- Version : #version/2025/04
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -152,7 +155,6 @@ This is a different form of regular combat, where characters do not fight with w
 **In chapter**  : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 04 - Combat\|RPG - CH 04 - Combat]]
 
 #### Notes linked here
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Magic\|Magic]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]

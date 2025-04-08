@@ -27,8 +27,8 @@ Indicates how a character influences others. Characters with high social skills 
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Sacrifice\|RPG - Points of Sacrifice]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Sacrifice\|RPG - Points of Sacrifice]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Other points\|RPG - Other points]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk\|RPG - Perk]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]]
@@ -38,7 +38,7 @@ Indicates how a character influences others. Characters with high social skills 
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills SOC\|RPG - Skills SOC]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills REF\|RPG - Skills REF]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills\|RPG - Other skills]]
-- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Conflict\|RPG - Conflict]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice in general\|RPG - Dice in general]]
+- [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Conflict\|RPG - Conflict]]
 
 { .block-language-dataview}

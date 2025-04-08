@@ -11,6 +11,7 @@ The basic amount of points for health etc.
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Speed\|RPG - Points of Speed]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory\|RPG - Points of Inventory]]

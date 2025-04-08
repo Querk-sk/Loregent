@@ -5,32 +5,32 @@
 
 ### Victory levels
 
-The outcome of the action is the final phase of the combat round, in which the winner of that combat round is determined, as well as what happens to the loser of that combat round. The winner of the combat round is the character who rolled the most victories. The number of their victories is subtracted from the number of victories of the character who lost the combat roll, and the remainder is converted into the so-called victory level. The winner can inflict injury on their enemy, disarm them, or do other things—depending on the number of victories achieved.
+The outcome of the action is the final phase of the combat round, in which the winner of that combat round is determined, as well as what happens to the loser of that combat round. The winner of the combat round is the character who rolled the most [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] on their dice. The number of their success are subtracted from the number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/success\|success]] of the opposing character who lost the combat roll. The remainder is converted into the so-called victory level. The winner can inflict injury on their enemy, disarm them, or do other things—depending on the victory level achieved.
 
-In the case when the combat roll is tied, meaning both sides rolled the same number of victories, the combat round ends in a draw. In this case, the characters' attacks are simply deflected, or they miss each other.
+In the case when the combat roll is tied, meaning both sides rolled the same number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]], the combat round ends in a draw. In this case, the characters' attacks are simply deflected, or they miss each other.
 
 > [!example]
 > - A knight and a bandit are fighting each other.
-> - The knight rolls their combat roll and gets 2 victories.
-> - The bandit rolls their combat roll and gets 4 victories.
+> - The knight rolls their combat roll and gets 2 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]].
+> - The bandit rolls their combat roll and gets 4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]].
 > - The bandit won the combat roll and achieved a victory level of 2.
 
 The attacker who achieved a certain victory level can choose one option from the list below. When making the selection, they must consider whether they are a pacifist (which requires using a pacifist option) and what weapon they attacked with, as the weapon determines the level of injury ([[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|see the weapons chapter]]).
 
-#### Reservation of Victories
+#### Reservation of successes
 
-The character who won the combat round can choose only one option from the available victory levels. If the character achieved more victories than necessary for the chosen option, the remaining victories remain unused. However, these victories are not wasted because the victories that the character did not use in their combat round carry over to the next combat roll. These victories will reduce the total number of dice the character can roll in the next combat roll—thus reserving the victories for the next roll.
+The character who won the combat round can choose only one option from the available victory levels. If the character achieved more [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] than necessary for the chosen option, the remaining [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] remain unused. However, these [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] are not wasted because the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] that the character did not use in their combat round carry over to the next combat roll. These [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] will reduce the total number of dice the character can roll in the next combat roll—thus reserving the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] for the next roll.
 
 > [!info] In-game, it will look like this: :
-> The attacker rolled 6 victories and used the option from victory level 4.
-> Therefore, they have 2 unused victories left. These victories will carry over to the second round.
-> If the attacker has 8 dice for the combat roll, they will lose 2 dice in the next round (as they are automatically converted into victories), and the next combat roll will be thrown with 6 dice.
+> The attacker rolled 6 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] and used the option from victory level 4.
+> Therefore, they have 2 unused [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] left. These [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] will carry over to the second round.
+> If the attacker has 8 dice for the combat roll, they will lose 2 dice in the next round (as they are automatically converted into [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]]), and the next combat roll will be thrown with 6 dice.
 
-The reservation must be approved by the narrator, and victories cannot be carried over indefinitely.
+The reservation must be approved by the narrator, and [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] cannot be carried over indefinitely.
 
-#### Victory Levels
+#### List of victory levels
 
-The character who won the combat round can choose one of the available options based on the number of victories they achieved. These options are sorted according to the level required to activate them. However, the character can choose a lower level option, even if they achieved more victories.
+The character who won the combat round can choose one of the available options based on the number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] they achieved. These options are sorted according to the level required to activate them. However, the character can choose a lower level option, even if they achieved more [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]].
 
 ##### Victory Level 1
 
@@ -40,14 +40,14 @@ This is a pacifist option. The character deflects the enemy's attack and quickly
 
 - For every **1 victory level**, the character can change their combat distance by 1.    
 - The number of points the character has invested in their [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|weapon specialization]] increases the distance the character covers (+1 for each point).    
-- If the character has unused points from weapon specialization (e.g., the distance can be changed by 1, but the character has 3 points in specialization), the unused points reserve victories for the next round.
+- If the character has unused points from weapon specialization (e.g., the distance can be changed by 1, but the character has 3 points in specialization), the unused points reserve [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] for the next round.
 
 ###### Gaining Initiative (pacifist)
 
 This is a pacifist option. The character deflects the enemy's attack, slowing them down and gaining an advantage. This initiative gain lasts for 1 round.
 - For every **1 victory level**, the character advances 1 level in combat initiative in the next round (as if they suddenly had a higher REF by 1 point).    
 - The number of points the character has invested in their [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|weapon specialization]] increases the distance the character covers (+1 for each point).     
-- If the character has unused points from weapon specialization (e.g., the initiative can be changed by 1, but the character has 3 points in specialization), the unused points reserve victories for the next round.
+- If the character has unused points from weapon specialization (e.g., the initiative can be changed by 1, but the character has 3 points in specialization), the unused points reserve [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] for the next round.
 
 ###### Stagger (pacifist)
 
@@ -74,7 +74,7 @@ Injury is an offensive option. For each 1 victory level, the enemy receives 1 in
 The number of points the character has invested in their [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|weapon specialization]] increases the amount of injury the enemy receives (+1 for each point).
 
 > [!example]
-> The character rolled their attack roll and achieved 4 victories.
+> The character rolled their attack roll and achieved 4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]].
 > If the character has a weapon with attack 1, they will deal 1 damage to the enemy.
 > If the character has a weapon with attack 3, they will deal 3 damage to the enemy.
 
@@ -115,13 +115,13 @@ The character inflicts an unpleasant injury on the enemy, such as scratching or 
 
 This is a pacifist option. The character uses their speed and skill to disarm the enemy. The enemy will be disarmed until the end of the fight (but at least for 1 whole combat round).
 
-To find their weapon again, the enemy needs to overcome a CL determined by the number of victories from the character's roll. They roll the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Skill\|Skill]] [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]]. Finding the weapon is considered a quick action.
+To find their weapon again, the enemy needs to overcome a CL determined by the number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] from the character's roll. They roll the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Skill\|Skill]] [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]]. Finding the weapon is considered a quick action.
 
 ###### Knockdown (pacifist)
 
 This is a pacifist option. The character uses their speed or strength to knock down the enemy. The knocked-down enemy cannot move, cannot change combat distances, and can only defend.
 
-To stand up again, the enemy needs to overcome a DL determined by the number of victories from the character's roll. They roll the skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]]. The attempt to stand up is considered a quick action.
+To stand up again, the enemy needs to overcome a DL determined by the number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] from the character's roll. They roll the skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]]. The attempt to stand up is considered a quick action.
 
 ##### Victory Level 4
 
@@ -135,13 +135,13 @@ This is a pacifist option. The character deflects the enemy's attack, slowing th
 
 This is an offensive option. The character severs the enemy's arm or leg (or another limb). The enemy permanently loses 1 whole attribute (refer to the list of disadvantages - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic#item 6 - Missing Limb\|missing limb]]). Additionally, the enemy receives a bleeding status, losing 1 health point per round until the bleeding is stopped.
 
-The difficulty of stopping the bleeding is determined by the number of victories from the character's roll.
+The difficulty of stopping the bleeding is determined by the number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] from the character's roll.
 
 ##### Victory Level 5 and Above
 
 ###### K.O. (dmg / pacifist )
 
-When the character's number of victories is higher by 1 than the remaining health points of the enemy (along with the remaining armor points), the character can choose one of these options:
+When the character's number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] is higher by 1 than the remaining health points of the enemy (along with the remaining armor points), the character can choose one of these options:
 
 - **K.O. (? dmg/pacif - decided by the narrator)**    
     - The enemy falls into a coma and drops out of the fight. If the character wants to additionally kill the enemy, they must overcome a difficulty level of 1 in their combat roll. The enemy's armor is not counted during this attack.        
@@ -191,10 +191,12 @@ When the character's number of victories is higher by 1 than the remaining healt
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 04 - Combat\|RPG - CH 04 - Combat]]
 
 #### Notes linked here
+- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]

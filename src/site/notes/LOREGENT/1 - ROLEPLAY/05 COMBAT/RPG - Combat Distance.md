@@ -9,40 +9,34 @@ Distance is a combat circumstance that determines when characters can attack eac
 #### Categories of Distance
 
 ##### Close Combat
-
 - Characters are close to each other like boxers or in MMA.    
 - If the fight were to take place on a chessboard, the pieces would stand on the same square, right next to each other.    
 - In reality, this could be approximately 0 - 1 m.
 
 ##### Normal Distance
-
 - Characters are close enough that their swords touch, but they are further apart than boxers.    
 - If the fight were to take place on a chessboard, the pieces would stand on the same square, but each piece would be further apart - on the line that borders the square.    
 - In reality, this could be approximately 2 m - 3 m.
 
 ##### Within Reach
-
 - Characters are a bit further apart, but if they have a long sword in their hands and extend their arm, they will touch the opponent's long sword.    
 - If the fight were to take place on a chessboard, each piece would stand on its own (adjacent) square.    
 - In reality, this could be approximately 4 m - 5 m.
 
 ##### Further
-
 - If the fight were to take place on a chessboard, the pieces would be separated by two empty squares up to 20 squares.    
 - In reality, this could be approximately 10 m - 100 m.
 
 ##### Even Further
-
 - If the fight were to take place on a chessboard, the pieces would be separated by 40 to 100 squares.    
 - In reality, this could be approximately 200 m - 500 m.
 
 ##### Far
-
 - In reality, this could be approximately 600 m - 1 km.
 
 #### Starting Position
 
->[!example]
+>[!note]
 > All sizes, squares, distances, and scales can be adjusted by the narrator according to their needs. They can decide that one square equals 5 m, or 1 km. Alternatively, when using a map, they can decide that 5 cm equals 5 meters.
 
 The so-called “Normal Distance” is the starting position for every combat. Thus, 99% of combats in all games start at this distance. To move to a more advantageous position, characters must win a combat roll.

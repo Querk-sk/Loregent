@@ -17,7 +17,7 @@ The advantaged character rolls with [[LOREGENT/1 - ROLEPLAY/z RPG variables/vari
 
 "Surprise" occurs when the character attacks an enemy who is attacking someone else. Or when the enemy is engaged in another activity during which they are "oblivious to the surrounding world".
 
-During surprise, the character gets +2 extra dice on their roll.
+During surprise, the character gets +2 extra dice and damage on their roll.
 
 (The enemy's [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|Armor]] functions normally.)
 
@@ -42,7 +42,7 @@ When there are more enemies, if the character [[LOREGENT/1 - ROLEPLAY/05 COMBAT/
 
 ### TAG and LINK : 
 - Stabilita : #stability/unstable
-- Verzia : #version/2024/06 
+- Verzia : #version/2025/04 
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
