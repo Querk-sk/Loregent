@@ -368,7 +368,7 @@ The character can shout to their friends that an animal is charging at them, or 
 
 **Repetition:** Not used
 
-**Specialization:** Not used in this maneuver. [[[[talent\|[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] can be used beforehand as an auxiliary roll or a skill roll, through which the character discovers important facts.
+**Specialization:** Not used in this maneuver. [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] can be used beforehand as an auxiliary roll or a skill roll, through which the character discovers important facts.
 
 ###### Communication Slow - s
 
@@ -378,7 +378,7 @@ The character can shout to their friends that an animal is charging at them, or 
 
 **Repetition:** Not used
 
-**Specialization:** Not used in this maneuver. [[[[talent\|[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] can be used beforehand as an auxiliary roll or a skill roll, through which the character discovers important facts.
+**Specialization:** Not used in this maneuver. [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] can be used beforehand as an auxiliary roll or a skill roll, through which the character discovers important facts.
 
 ###### Searching for the Enemy's Psychological Weakness - f
 
@@ -462,7 +462,7 @@ This maneuver is performed as a skill combined with a [[LOREGENT/1 - ROLEPLAY/z 
 
 **Description:** The character performs a slower maneuver or one that requires greater concentration.
 
-This maneuver is performed as a skill combined with a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or specialization. The narrator decides which [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Skill\|Skill]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], or specialization will be used. If the character does not have a suitable [[talent]] or specialization (and the situation specifically requires [[talent]] or specialization), then the character will roll with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
+This maneuver is performed as a skill combined with a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or specialization. The narrator decides which [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Skill\|Skill]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], or specialization will be used. If the character does not have a suitable [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or specialization (and the situation specifically requires [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or specialization), then the character will roll with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 ### TAG and LINK : 
 - Stability : #stability/unstable
@@ -509,8 +509,8 @@ This maneuver is performed as a skill combined with a [[LOREGENT/1 - ROLEPLAY/z 
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Speed\|RPG - Points of Speed]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|RPG - Skills in general]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 

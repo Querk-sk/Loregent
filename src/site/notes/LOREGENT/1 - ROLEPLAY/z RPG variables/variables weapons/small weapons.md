@@ -15,10 +15,10 @@
 These are [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/small weapons\|small weapons]] for one hand, which can have a maximum length of 15 cm. That's roughly the size of a hand with fingers.
 
 Regarding range:
-- Small melee weapons (e.g., swords) **can** injure the target in "close combat" (i.e., 0 - 1 m) or "normal range" (2-3 m).    
+- Small melee weapons (e.g., swords) **can** injure the target in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (i.e., 0 - 1 m) or "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2-3 m).    
 - In "within reach" combat (4-5 m), only **pacifist** combat options can be used upon victory.    
 - In other distances, these weapons **cannot** be used at all (i.e., they are not counted in combat, and the character must use some maneuver instead).    
-- Small ranged weapons **can** be used in "close combat" (i.e., 0 - 1 m), "normal range" (2-3 m), and "within reach" combat (4-5 m).    
+- Small ranged weapons **can** be used in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (i.e., 0 - 1 m), "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2-3 m), and "within reach" combat (4-5 m).    
 - At "further" distance (10-100 m), only **pacifist** victory options can be used.    
 - At other distances, these weapons **cannot** be used (i.e., they are not counted in combat, and the character must use some maneuver instead).    
 

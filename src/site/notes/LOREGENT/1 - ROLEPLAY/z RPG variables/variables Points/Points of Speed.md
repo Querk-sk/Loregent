@@ -10,9 +10,9 @@ Points of Speed determine the order in combat and also indicate how many items a
 #### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Very small character\|Very small character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Very big character\|Very big character]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Smaller character\|Smaller character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Small character\|Small character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Huge character\|Huge character]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Smaller character\|Smaller character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Bigger character\|Bigger character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Big character\|Big character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]

@@ -88,7 +88,7 @@ This is a pacifist option. The character deflects the enemy's attack, slowing th
 
 ###### Damaging Armor  (pacifist)
 
-The character uses their weapon to damage the enemy's armor. For every 2 victory levels, the enemy loses 1 armor point until the end of the battle.
+The character uses their weapon to damage the enemy's armor. For every 2 victory levels, the enemy loses 1 armor point until the end of the battle. (Or until repaired - it depends on the game settings)
 
 If the enemy has armor that is resistant to the character's weapon, the armor damage is halved (rounded down).
 
@@ -96,7 +96,7 @@ The number of points the character has invested in their [[LOREGENT/1 - ROLEPLAY
 
 ###### Poškodenie zbrane (pacifist)
 
-The character uses their weapon to damage the enemy's weapon. For every 2 victory levels, the enemy loses 1 point from the weapon's attack attribute until the end of the battle.
+The character uses their weapon to damage the enemy's weapon. For every 2 victory levels, the enemy loses 1 point from the weapon's attack attribute until the end of the battle. (Or until repaired - it depends on the game settings)
 
 The number of points the attacker has invested in their combat [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|weapon specialization]] increases the amount of armor the enemy loses (+1 for each point).
 
@@ -121,7 +121,7 @@ To find their weapon again, the enemy needs to overcome a CL determined by the n
 
 This is a pacifist option. The character uses their speed or strength to knock down the enemy. The knocked-down enemy cannot move, cannot change combat distances, and can only defend.
 
-To stand up again, the enemy needs to overcome a DL determined by the number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] from the character's roll. They roll the skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]]. The attempt to stand up is considered a quick action.
+To stand up again, the enemy needs to overcome a CL determined by the number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/successes\|successes]] from the character's roll. They roll the skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]]. The attempt to stand up is considered a quick action.
 
 ##### Victory Level 4
 
@@ -191,12 +191,11 @@ When the character's number of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 04 - Combat\|RPG - CH 04 - Combat]]
 
 #### Notes linked here
-- [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]

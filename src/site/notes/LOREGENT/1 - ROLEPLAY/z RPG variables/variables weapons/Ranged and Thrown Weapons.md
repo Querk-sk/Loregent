@@ -14,13 +14,13 @@
 
 These include bows, crossbows, pistols, shurikens, kunai, submachine guns, and all items that can shoot projectiles or be thrown.
 
-Their advantage is that they are not limited by greater distances. Their effective range is from " [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Common Distance\|common]] " distance to " [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Far\|far]] " (this of course depends on the type of [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|weapon]]). If these ranged and thrown weapons are outside the range of hand-held weapons, the enemy (who owns a hand-held weapon) can only defend. In their defense, they cannot use their weapon. They can only use skills such as:
+Their advantage is that they are not limited by greater distances. Their effective range is from " [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal]] " distance to " [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Far\|far]] " (this of course depends on the type of [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|weapon]]). If these ranged and thrown weapons are outside the range of hand-held weapons, the enemy (who owns a hand-held weapon) can only defend. In their defense, they cannot use their weapon. They can only use skills such as:
 
 - " [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] " (to dodge or perform a gymnastics maneuver),    
 - or the skill " [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]] " (for running or performing an athletic maneuver),    
 - or " [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] " (when they will actively defend with a shield or simply endure the injury).    
 
-The disadvantage of ranged and thrown weapons is that the attacker must overcome a difficulty level that depends on the weapon's complexity, the distance, and whether the target is in cover. If the attacker wins the combat roll but does not overcome the difficulty, they cause no injury to the target (but the victory level remains, and they can choose another option).
+The disadvantage of ranged and thrown weapons is that the attacker must overcome a challenge level that depends on the weapon's complexity, the distance, and whether the target is in cover. If the attacker wins the combat roll but does not overcome the challenge, they cause no injury to the target (but the victory level remains, and they can choose another option).
 
 Another disadvantage is that these weapons use ammunition. Hand-held thrown weapons such as knives, grenades, etc. have a specific number of uses. This means that the character has written in their inventory how many grenades they have. Once the character uses up these weapons, they lose them and must buy them again. As for firearms like submachine guns, pistols, etc., the exact number of bullets is not counted, but the number of shots after which the weapon must be reloaded. For example, a weapon can fire 6 times and then reload for 1 whole round.
 

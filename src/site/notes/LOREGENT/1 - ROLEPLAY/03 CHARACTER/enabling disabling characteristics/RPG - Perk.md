@@ -229,8 +229,8 @@ Each character can receive only one blessing. However, they may receive multiple
 
 #### Notes linked here
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/perk\|perk]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/blessing\|blessing]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/perk\|perk]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 

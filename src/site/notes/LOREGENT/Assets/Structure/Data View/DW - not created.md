@@ -6,8 +6,6 @@
 
 | Uncreated files                                                                  | Origin                                                                                                                                        |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[[talent\|[talent]]                                                             | [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]                                                         |
-| [[[talent\|[talent]]                                                             | [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]                                                         |
 | [[00 Hoď Všímavosť\|00 Hoď Všímavosť]]                                           | [[LOREGENT/Assets/Fleeting Notes/Názvy pre knihy a kapitoly a youtube - nápad\|Názvy pre knihy a kapitoly a youtube - nápad]]              |
 | [[18 - Magické vedy - Synonimunológia\|18 - Magické vedy - Synonimunológia]]     | [[LOREGENT/Assets/Structure/Data View/DW - Least modified\|DW - Least modified]]                                                           |
 | [[19 - Magické vedy - Technológia\|19 - Magické vedy - Technológia]]             | [[LOREGENT/Assets/Structure/Data View/DW - Least modified\|DW - Least modified]]                                                           |
@@ -56,5 +54,7 @@
 | [[Earthei\|Earthei]]                                                             | [[LOREGENT/Assets/Fleeting Notes/Postava - Démon - nápad\|Postava - Démon - nápad]]                                                        |
 | [[Earthei\|Earthei]]                                                             | [[LOREGENT/Assets/Fleeting Notes/Postava - Hikari - nápad\|Postava - Hikari - nápad]]                                                      |
 | [[Ekológia\|Ekológia]]                                                           | [[LOREGENT/Assets/Fleeting Notes/Mravce a levy - fakty\|Mravce a levy - fakty]]                                                            |
+| [[element\|element]]                                                             | [[LOREGENT/Assets/Fleeting Notes/Rozprávač - príbeh - nápad\|Rozprávač - príbeh - nápad]]                                                  |
+| [[Elements\|Elements]]                                                           | [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random conflict\|RPG - Random conflict]]                                               |
 
 { .block-language-dataview}
