@@ -44,7 +44,7 @@ Base Challenge level:
 |       Melee       |    Normal    |   2-3 m    |               0               |          1          |          2          |
 |       Melee       |    Reach     |   4-5 m    |               0               |          1          |          2          |
 |      Ranged       |    Furter    | 10 - 100 m |               1               |          2          |          3          |
-|      Ranged       | Even Further | 200-500 m  |               2               |          3          |          1          |
+|      Ranged       | Even further | 200-500 m  |               2               |          3          |          1          |
 |      Ranged       |     Far      | 600 - 1 km |               3               |          4          |          5          |
 - A walking target is considered a static target.    
 - Every speed above 50 km/h adds +1 CL (50 = 1, 100 = 2, 150 = 3, etc.)

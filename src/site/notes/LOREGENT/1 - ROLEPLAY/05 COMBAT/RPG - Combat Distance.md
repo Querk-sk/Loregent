@@ -41,7 +41,7 @@ Distance is a combat circumstance that determines when characters can attack eac
 
 The so-called “Normal Distance” is the starting position for every combat. Thus, 99% of combats in all games start at this distance. To move to a more advantageous position, characters must win a combat roll.
 
-If a player wants the combat to start (for them) in an advantageous position, they must attack when the opponent is unaware of the combat. They can use [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Stealth\|Stealth]] to approach unnoticed, or they can use, for example, [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]] - where the character rushes at the enemy. As for [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Zbrane na diaľku a na hádzanie\|ranged weapons]], they can start the combat from their current position.
+If a player wants the combat to start (for them) in an advantageous position, they must attack when the opponent is unaware of the combat. They can use [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Stealth\|Stealth]] to approach unnoticed, or they can use, for example, [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]] - where the character rushes at the enemy. As for [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Ranged and Thrown Weapons\|ranged weapons]], they can start the combat from their current position.
 
 >[!info] 
 >The maximum walking speed is 6 km/h or 2 m/s. If a character walks slower, it can be 1 m/s or even 0.5 m/s.

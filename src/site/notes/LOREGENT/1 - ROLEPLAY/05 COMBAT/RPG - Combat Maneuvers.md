@@ -108,7 +108,7 @@ If the character loses, the enemy sees them and can attack. Wins the enemy gaine
 
 **Type:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|Damaging]] action rolled instead of an attack - slow action.
 
-**Description:** Charge is a combat maneuver based on the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]]." In this maneuver, the character runs towards the enemy and uses their speed and weight to knock them down. There must be a sufficient distance between the character and the enemy. Charge can be used within "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Reach\|Reach]]" distance (4m - 5m).
+**Description:** Charge is a combat maneuver based on the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]]." In this maneuver, the character runs towards the enemy and uses their speed and weight to knock them down. There must be a sufficient distance between the character and the enemy. Charge can be used within "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|Reach]]" distance (4m - 5m).
 
 Each character (regardless of whether they have points in the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]]" or not) receives an additional +3 dice for their roll during a charge. If the attacking character wins, they knock the enemy to the ground (see the "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|Combat Result]]" chapter, option “[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels#Knockdown (pacifist)\|Knockdown]]").
 
@@ -196,7 +196,7 @@ Note: Though referred to as a vehicle, this maneuver applies to all machines tha
 
 **Description:** Control of commands for the animal, or control of the use of surrounding animals (e.g., scaring elephants). This control serves to make the animals attack the enemy or somehow make their life difficult.
 
-[[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills#Talking to Animals / Controlling Animals\|Animal Use]] is rolled as a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|self-assistance roll]] and is rolled as a combination of any one skill from [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] and a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] related to [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills#Talking to Animals / Animal Control\|working with animals]] (e.g., beast tamer). The use of animals must be approved by the narrator.
+[[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills#Talking to Animals / Animal Control\|Animal Use]] is rolled as a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|self-assistance roll]] and is rolled as a combination of any one skill from [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] and a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] related to [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills#Talking to Animals / Animal Control\|working with animals]] (e.g., beast tamer). The use of animals must be approved by the narrator.
 
 **Repetition:** It can only be used once per round.
 
@@ -509,8 +509,8 @@ This maneuver is performed as a skill combined with a [[LOREGENT/1 - ROLEPLAY/z 
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Speed\|RPG - Points of Speed]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|RPG - Skills in general]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 

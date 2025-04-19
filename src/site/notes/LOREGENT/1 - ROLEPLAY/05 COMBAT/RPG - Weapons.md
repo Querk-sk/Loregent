@@ -3,8 +3,6 @@
 ---
 
 
-==Podľa veľkosti zbrane - malé zbrane -- robíš linky na poznámky o vzdialenosti==
-[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance\|RPG - Combat Distance]]
 ### Weapons
 
 Weapons are tools used primarily for attacking or defending against enemies. They can also be used for performing some [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] activities, such as cutting salami, chopping down a tree, or carving a wooden statue. Every [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] use of a weapon must be approved by the narrator.
@@ -134,7 +132,7 @@ Melee weapons include swords, small axes, maces, sticks, hand protectors (or bar
 
 The advantage of these weapons is that they do not need to overcome a challenge level for a successful attack. Additionally, they allow for maneuvers to deflect the enemy's attack. Among hand weapons, there are basic types that do not require special talent to use but cause only minimal damage (such as sticks, poles, or tools like a wrench).
 
-The disadvantage of these weapons is the limited range of combat distances. Their maximum distance is "within reach" (4-5 meters), and the minimum is "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (0-1 meter). However, this also depends on the specific type of weapon.
+The disadvantage of these weapons is the limited range of combat distances. Their maximum distance is "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]]" (4-5 meters), and the minimum is "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (0-1 meter). However, this also depends on the specific type of weapon.
 
 > [!question] 
 > What if a melee weapon has a spell that shoots at a distance? In that case, the attack with the spell is considered a ranged weapon attack, as if the character had a pistol.
@@ -173,7 +171,7 @@ Base Challenge level:
 |       Melee       |    Normal    |   2-3 m    |               0               |          1          |          2          |
 |       Melee       |    Reach     |   4-5 m    |               0               |          1          |          2          |
 |      Ranged       |    Furter    | 10 - 100 m |               1               |          2          |          3          |
-|      Ranged       | Even Further | 200-500 m  |               2               |          3          |          1          |
+|      Ranged       | Even further | 200-500 m  |               2               |          3          |          1          |
 |      Ranged       |     Far      | 600 - 1 km |               3               |          4          |          5          |
 - A walking target is considered a static target.    
 - Every speed above 50 km/h adds +1 CL (50 = 1, 100 = 2, 150 = 3, etc.)
@@ -198,7 +196,7 @@ These are weapons that cause damage through speed and thrusting force, with the 
 
 These are weapons that cause damage through the expansive force of gas, chemical, or explosive mixtures, with the goal of tearing the target to pieces. Examples include grenades, explosive ammunition, or weapons that generate high pressure or shock waves.
 
-Explosive weapons must specify their area of effect. Whether it is an explosion within a range of "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#[[RPG - Combat Distance\|Close combat 0-1 m]]|[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]] 0-1 m]]" or an explosion within a range of "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal 2-3 m]]."
+Explosive weapons must specify their area of effect. Whether it is an explosion within a range of "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" or an explosion within a range of "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal 2-3 m]]."
 
 ##### Weapon Size
 
@@ -214,7 +212,7 @@ In terms of size, these weapons can be up to 5 cm. This means that an object pro
 
 As for fighting multiple enemies, these weapons can fight against 1 enemy (+1 for each point in specialization).
 
-And regarding any special advantages, besides being able to enter [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Hand-to-Hand Combat\|hand-to-hand combat]], they can do so immediately after disarming the enemy. This means that in the next combat round, they start in the "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" position, with combat priority—as if the attacker had the highest [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]].
+And regarding any special advantages, besides being able to enter [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|close combat]], they can do so immediately after disarming the enemy. This means that in the next combat round, they start in the "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" position, with combat priority—as if the attacker had the highest [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]].
 
 ###### Small Weapons
 
@@ -222,10 +220,10 @@ These are [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/small weapon
 
 Regarding range:
 - Small melee weapons (e.g., swords) **can** injure the target in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (i.e., 0 - 1 m) or "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2-3 m).    
-- In "within reach" combat (4-5 m), only **pacifist** combat options can be used upon victory.    
+- In "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]]" combat (4-5 m), only **pacifist** combat options can be used upon victory.    
 - In other distances, these weapons **cannot** be used at all (i.e., they are not counted in combat, and the character must use some maneuver instead).    
-- Small ranged weapons **can** be used in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (i.e., 0 - 1 m), "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2-3 m), and "within reach" combat (4-5 m).    
-- At "further" distance (10-100 m), only **pacifist** victory options can be used.    
+- Small ranged weapons **can** be used in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (i.e., 0 - 1 m), "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2-3 m), and "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]]" combat (4-5 m).    
+- At [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Further\|further]] distance (10-100 m), only **pacifist** victory options can be used.    
 - At other distances, these weapons **cannot** be used (i.e., they are not counted in combat, and the character must use some maneuver instead).    
 
 Regarding fighting multiple enemies, these weapons can fight against 2 enemies (+1 for each point in specialization).
@@ -238,17 +236,17 @@ These are [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/medium-sized
 
 Regarding range:
 
-- Medium melee weapons (e.g., swords) **can** injure the target in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (i.e., 0 - 1 m), "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2-3 m), or "within reach" combat (4-5 m).    
-- At a distance of "further 10 - 100 m," only **pacifist** combat options can be used.    
+- Medium melee weapons (e.g., swords) **can** injure the target in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (i.e., 0 - 1 m), "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2-3 m), or "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]]" combat (4-5 m).    
+- At a distance of "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Further\|further]] 10 - 100 m," only **pacifist** combat options can be used.    
 - At other distances, these weapons **cannot** be used at all (i.e., they are not counted in combat, and the character must use some maneuver instead).    
 - Medium-sized ranged weapons **cannot** be used in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (i.e., 0 - 1 m) or at a distance of "far (600 - 1 km)."    
 - In "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" combat (2-3 m), only **pacifist** victory options can be used.    
-- In "within reach" combat (4-5 m) and at "further" distance (10-100 m), they are used **without restrictions**.    
+- In "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]]" combat (4-5 m) and at "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Further\|further]]" distance (10-100 m), they are used **without restrictions**.    
 
 Regarding fighting multiple enemies, these weapons can fight against 3 enemies (+1 for each point in specialization).
 
 > [!note]
-> Even though medium melee weapons can be used at a distance of 0 - 1 m or within reach (4 - 5 m), they do not gain any advantage during combat at this distance.
+> Even though medium melee weapons can be used at a distance of 0 - 1 m or [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]] (4 - 5 m), they do not gain any advantage during combat at this distance.
 
 ###### Big weapons
 
@@ -256,18 +254,18 @@ These are [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Big weapons\
 
 Regarding range:
 
-- Large melee weapons (e.g., swords) **can** injure the target in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2 - 3 m) and "within reach" (4 - 5 m).    
-- At a distance of "further" (10 - 100 m), only **pacifist** combat options can be used.    
-- These weapons **cannot** be used at distances "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (0 - 1 m), "even further" (200 - 500 m), and "far" (600 - 1 km).    
+- Large melee weapons (e.g., swords) **can** injure the target in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2 - 3 m) and "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]]" (4 - 5 m).    
+- At a distance of "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Further\|further]]" (10 - 100 m), only **pacifist** combat options can be used.    
+- These weapons **cannot** be used at distances "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (0 - 1 m), "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Even further\|even further]]" (200 - 500 m), and "far" (600 - 1 km).    
 - Large ranged weapons **cannot** be used in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (0 - 1 m) or "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2 - 3 m).    
-- In "within reach" combat (4 - 5 m), only **pacifist** victory options can be used.    
+- In "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]]" combat (4 - 5 m), only **pacifist** victory options can be used.    
 - At other distances, they can be used **without restrictions** (i.e., 200 m -- 1 km).
 
 Regarding fighting multiple enemies, these weapons can fight against 4 enemies (+1 for each point in specialization).
 
-As for any special advantages, these weapons can enter combat at a distance of [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]], where they gain a bonus for “[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Combat Within Reach\|within reach combat]]” (described below in the list of weapon modifiers).
+As for any special advantages, these weapons can enter combat at a distance of [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]], where they gain a bonus for “[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|combat within reach]]” (described below in the list of weapon modifiers).
 
-###### Tabuľka na zhrnutie
+###### Summary table
 
 | Melee weapons |            |   Hand   |  Small   |  Medium  |   Big    |
 | :-----------: | :--------: | :------: | :------: | :------: | :------: |
@@ -275,7 +273,7 @@ As for any special advantages, these weapons can enter combat at a distance of [
 |    Normal     |   2-3 m    | pacifist |   yes    |   yes    |   yes    |
 |     Reach     |   4-5 m    |    no    | pacifist |   yes    |   yes    |
 |    Furter     | 10 - 100 m |    no    |    no    | pacifist | pacifist |
-| Even Further  | 200-500 m  |    no    |    no    |    no    |    no    |
+| Even further  | 200-500 m  |    no    |    no    |    no    |    no    |
 |      Far      | 600 - 1 km |    no    |    no    |    no    |    no    |
 (yes = weapon can attack without restriction)
 (pacifist = can be used, but only pacifist win options can be used when winning)
@@ -287,7 +285,7 @@ As for any special advantages, these weapons can enter combat at a distance of [
 |    Normal     |   2-3 m    | not exist |     yes      | pacifistické |      no      |
 |     Reach     |   4-5 m    | not exist | pacifistické |     yes      | pacifistické |
 |    Furter     | 10 - 100 m | not exist | pacifistické |     yes      |     yes      |
-| Even Further  | 200-500 m  | not exist |      no      |     yes      |     yes      |
+| Even further  | 200-500 m  | not exist |      no      |     yes      |     yes      |
 |      Far      | 600 - 1 km | not exist |      no      |      no      |     yes      |
 (yes = weapon can attack without restriction)
 (pacifist = can be used, but only pacifist win options can be used when winning)
@@ -323,15 +321,15 @@ When the character has no weapon, hand protectors, and no talent in unarmed comb
 
 When the character has a weapon they have no talent or specialization for, they roll the combat roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. If the character is disarmed, only the "unarmed combat" modifier applies (meaning they lose only 2 dice even when disarmed).
 
-##### [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]
+##### Close Combat
 
-When the character fights at a distance of “[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#[[RPG - Combat Distance\|Close combat 0-1 m]]|[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]] 0-1 m]]” and has the correct type of weapons (e.g., hand protectors or small melee weapons or small ranged weapons), the enemy's armor is completely ignored (as if the enemy had 0 armor).
+When the character fights at a distance of “[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]” and has the correct type of weapons (e.g., hand protectors or small melee weapons or small ranged weapons), the enemy's armor is completely ignored (as if the enemy had 0 armor).
 
 Regarding hand protectors, they can immediately engage in [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]] after disarming the enemy without needing another roll.
 
-##### Combat Within Reach
+##### Combat within reach
 
-When the character fights at a distance of “[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|Within Reach 4-5 m]]” and has the correct type of weapons (e.g., large melee weapons or ranged or thrown weapons), half of their weapon's attack is reserved as victories (rounded down).
+When the character fights at a distance of “[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]] 4-5 m” and has the correct type of weapons (e.g., large melee weapons or ranged or thrown weapons), half of their weapon's attack is reserved as victories (rounded down).
 
 For example, if the character has a large axe with an attack of 4, 2 victories are reserved.
 
@@ -396,13 +394,13 @@ In such a case, the character with modern equipment will roll the dice with [[LO
 #### Notes linked here
 - [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Sharp weapons\|Sharp weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/melee weapons\|melee weapons]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Sharp weapons\|Sharp weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Ranged and Thrown Weapons\|Ranged and Thrown Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Piercing weapons\|Piercing weapons]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Explosive weapons\|Explosive weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Hand protectors\|Hand protectors]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Blunt weapons\|Blunt weapons]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Explosive weapons\|Explosive weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Weight of Inventory\|Weight of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Inventory\|Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Magic\|Magic]]
@@ -412,8 +410,8 @@ In such a case, the character with modern equipment will roll the dice with [[LO
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|RPG - Basics of Magic]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|RPG - Victory levels]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Sacrifice\|RPG - Points of Sacrifice]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]

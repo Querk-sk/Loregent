@@ -105,7 +105,7 @@ Monsters can use character points as follows:
         - Plus 1 point for each level            
         - Plus 1 point for each point invested in the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]] attribute.            
     - Health regeneration:        
-        - Monsters can [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health#Liečenie zranenia\|regenerate]] using their spell, recovering full [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] (not fractions).        
+        - Monsters can [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health#Natural Regeneration\|regenerate]] using their spell, recovering full [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] (not fractions).        
         - Trainers can regenerate the monster directly in battle or out of battle using a magical item (the monster will receive full health points).          
         - Monsters can fully heal at a healing center (in a city). The cost for healing 1 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/HP\|HP]] is 1 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]] from the trainer.            
 - **[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]]**:    
@@ -113,7 +113,7 @@ Monsters can use character points as follows:
         - Each monster has 4 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]].            
         - Plus 1 for each point invested in [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]].            
     - Usage:        
-        - Determines the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat#Kolá v boji\|order of actions in combat]].            
+        - Determines the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat#Combat Rounds\|order of actions in combat]].            
         - These points are used for purchasing spells.            
 - **[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]]** (aka Special):    
     - Number of points:        
@@ -249,7 +249,7 @@ If the narrator wants the movement type to affect gameplay, they can decide that
 	- Skills from the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]] attribute increase [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/CL\|CL]] by 4, and in case of conflict, the character increases 4 dice.
 	- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]] will be reduced by 4.
 
-- Note : ( 1/s = 1 per second, that is 1x per 1 [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat#Kolá v boji\|combat round]])
+- Note : ( 1/s = 1 per second, that is 1x per 1 [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat#Combat Rounds\|combat round]])
 
 
 </div></div>
@@ -280,7 +280,7 @@ In battles with monsters, spells and weapons follow the same rules as any other 
 |       Melee       |    Normal    |   2-3 m    |               0               |          1          |          2          |
 |       Melee       |    Reach     |   4-5 m    |               0               |          1          |          2          |
 |      Ranged       |    Furter    | 10 - 100 m |               1               |          2          |          3          |
-|      Ranged       | Even Further | 200-500 m  |               2               |          3          |          1          |
+|      Ranged       | Even further | 200-500 m  |               2               |          3          |          1          |
 |      Ranged       |     Far      | 600 - 1 km |               3               |          4          |          5          |
 - A walking target is considered a static target.    
 - Every speed above 50 km/h adds +1 CL (50 = 1, 100 = 2, 150 = 3, etc.)
@@ -292,11 +292,11 @@ In battles with monsters, spells and weapons follow the same rules as any other 
 Monster spells use the weapon size rules (when each weapon can be used).
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/1-roleplay/05-combat/rpg-weapons/#tabulka-na-zhrnutie" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/1-roleplay/05-combat/rpg-weapons/#summary-table" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-###### Tabuľka na zhrnutie
+###### Summary table
 
 | Melee weapons |            |   Hand   |  Small   |  Medium  |   Big    |
 | :-----------: | :--------: | :------: | :------: | :------: | :------: |
@@ -304,7 +304,7 @@ Monster spells use the weapon size rules (when each weapon can be used).
 |    Normal     |   2-3 m    | pacifist |   yes    |   yes    |   yes    |
 |     Reach     |   4-5 m    |    no    | pacifist |   yes    |   yes    |
 |    Furter     | 10 - 100 m |    no    |    no    | pacifist | pacifist |
-| Even Further  | 200-500 m  |    no    |    no    |    no    |    no    |
+| Even further  | 200-500 m  |    no    |    no    |    no    |    no    |
 |      Far      | 600 - 1 km |    no    |    no    |    no    |    no    |
 (yes = weapon can attack without restriction)
 (pacifist = can be used, but only pacifist win options can be used when winning)
@@ -316,7 +316,7 @@ Monster spells use the weapon size rules (when each weapon can be used).
 |    Normal     |   2-3 m    | not exist |     yes      | pacifistické |      no      |
 |     Reach     |   4-5 m    | not exist | pacifistické |     yes      | pacifistické |
 |    Furter     | 10 - 100 m | not exist | pacifistické |     yes      |     yes      |
-| Even Further  | 200-500 m  | not exist |      no      |     yes      |     yes      |
+| Even further  | 200-500 m  | not exist |      no      |     yes      |     yes      |
 |      Far      | 600 - 1 km | not exist |      no      |      no      |     yes      |
 (yes = weapon can attack without restriction)
 (pacifist = can be used, but only pacifist win options can be used when winning)

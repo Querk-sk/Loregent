@@ -88,7 +88,7 @@ The size of the character determines how quickly and stealthily the character mo
 	- Skills from the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]] attribute increase [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/CL\|CL]] by 4, and in case of conflict, the character increases 4 dice.
 	- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]] will be reduced by 4.
 
-- Note : ( 1/s = 1 per second, that is 1x per 1 [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat#Kolá v boji\|combat round]])
+- Note : ( 1/s = 1 per second, that is 1x per 1 [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat#Combat Rounds\|combat round]])
 
 ### TAG and LINK : 
 

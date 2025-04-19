@@ -16,10 +16,10 @@ These are [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/small weapon
 
 Regarding range:
 - Small melee weapons (e.g., swords) **can** injure the target in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (i.e., 0 - 1 m) or "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2-3 m).    
-- In "within reach" combat (4-5 m), only **pacifist** combat options can be used upon victory.    
+- In "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]]" combat (4-5 m), only **pacifist** combat options can be used upon victory.    
 - In other distances, these weapons **cannot** be used at all (i.e., they are not counted in combat, and the character must use some maneuver instead).    
-- Small ranged weapons **can** be used in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (i.e., 0 - 1 m), "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2-3 m), and "within reach" combat (4-5 m).    
-- At "further" distance (10-100 m), only **pacifist** victory options can be used.    
+- Small ranged weapons **can** be used in "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (i.e., 0 - 1 m), "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal range]]" (2-3 m), and "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]]" combat (4-5 m).    
+- At [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Further\|further]] distance (10-100 m), only **pacifist** victory options can be used.    
 - At other distances, these weapons **cannot** be used (i.e., they are not counted in combat, and the character must use some maneuver instead).    
 
 Regarding fighting multiple enemies, these weapons can fight against 2 enemies (+1 for each point in specialization).

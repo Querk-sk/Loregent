@@ -13,7 +13,7 @@
 
 These are weapons that cause damage through the expansive force of gas, chemical, or explosive mixtures, with the goal of tearing the target to pieces. Examples include grenades, explosive ammunition, or weapons that generate high pressure or shock waves.
 
-Explosive weapons must specify their area of effect. Whether it is an explosion within a range of "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#[[RPG - Combat Distance\|Close combat 0-1 m]]|[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]] 0-1 m]]" or an explosion within a range of "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal 2-3 m]]."
+Explosive weapons must specify their area of effect. Whether it is an explosion within a range of "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" or an explosion within a range of "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Normal Distance\|Normal 2-3 m]]."
 
 
 </div></div>

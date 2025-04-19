@@ -115,19 +115,19 @@ The **price** of such an item does not need to change if it has a disadvantage o
 >	- Standard: Attack +2
 >	- Advantage: The sword contains 2 points that can be exchanged for a success. These points are replenished after each battle.
 >	- Disadvantage: (none)
->- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Cena predmetu\|Price]] (for example): 12 
+>- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Item Price\|Price]] (for example): 12 
 ><br>
 >- Sword of Precision
 >	- Standard: Attack +2
 >	- Advantage: The sword contains 2 points that can be exchanged for a success. These points are replenished after each battle.
 >	- Disadvantage: The sword decreases the character's attack by 1 (instead of -2)
->- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Cena predmetu\|Price]] (for example): 8
+>- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Item Price\|Price]] (for example): 8
 ><br>
 >- Sword of Precision
 >	- Standard: Attack +2
 >	- Advantage: The sword contains 2 points that can be exchanged for a success. These points are replenished after each battle.
 >	- Disadvantage: The sword decreases the character's attack by minus 2
->- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Cena predmetu\|Price]] (for example): 4
+>- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth#Item Price\|Price]] (for example): 4
 
 ### Blessing
 
@@ -229,8 +229,8 @@ Each character can receive only one blessing. However, they may receive multiple
 
 #### Notes linked here
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/blessing\|blessing]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/perk\|perk]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/blessing\|blessing]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 

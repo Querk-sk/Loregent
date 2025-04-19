@@ -96,7 +96,7 @@ When characters perform the same action and one character fails their dice roll�
 > 
 > Character 1 helps Character 3 by transferring one of its successes. All characters successfully hide, even at the last moment.
 
-Transferring successes can happen in all actions that characters perform together and simultaneously. Except in the case of attacking an enemy, which is considered fighting [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances#Boj s viacerými nepriateľmi\|multiple enemies]].
+Transferring successes can happen in all actions that characters perform together and simultaneously. Except in the case of attacking an enemy, which is considered fighting [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances#Fighting multiple enemies\|multiple enemies]].
 
 ### TAG and LINK : 
 - Stability : #stability/stable 

@@ -16,7 +16,7 @@ Melee weapons include swords, small axes, maces, sticks, hand protectors (or bar
 
 The advantage of these weapons is that they do not need to overcome a challenge level for a successful attack. Additionally, they allow for maneuvers to deflect the enemy's attack. Among hand weapons, there are basic types that do not require special talent to use but cause only minimal damage (such as sticks, poles, or tools like a wrench).
 
-The disadvantage of these weapons is the limited range of combat distances. Their maximum distance is "within reach" (4-5 meters), and the minimum is "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (0-1 meter). However, this also depends on the specific type of weapon.
+The disadvantage of these weapons is the limited range of combat distances. Their maximum distance is "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Within Reach\|within reach]]" (4-5 meters), and the minimum is "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" (0-1 meter). However, this also depends on the specific type of weapon.
 
 > [!question] 
 > What if a melee weapon has a spell that shoots at a distance? In that case, the attack with the spell is considered a ranged weapon attack, as if the character had a pistol.

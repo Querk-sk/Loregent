@@ -15,7 +15,7 @@ It’s also important to think about the fact that in a dangerous environment �
 
 #### General Character Traits
 
-Here we will outline some rules regarding characters, mainly the rules for [[Attributes\|Attributes]], [[Skills\|Skills]], [[Talents\|Talents]], and Points. These rules are briefly explained for basic understanding of the game's mechanics. More detailed rules are found in other chapters.
+Here we will outline some rules regarding characters, mainly the rules for attributes, Skills, Talents, and Points. These rules are briefly explained for basic understanding of the game's mechanics. More detailed rules are found in other chapters.
 
 ##### Character Attributes – General
 

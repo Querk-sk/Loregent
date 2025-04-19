@@ -13,7 +13,7 @@ Unless otherwise specified, each character has **[[LOREGENT/1 - ROLEPLAY/z RPG v
 
 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] serve as a cap. With each damage taken, the character's health points decrease. When health points drop to 0, the character dies (unless the narrator decides otherwise).
 
-A character can get injured in battle – that is, when they lose a [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat#Kolá v boji\|combat round]] and the enemy injures them. A character can also get injured if they fail the challenge level in a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Quick Reaction\|quick reaction]] (for example, falling from a great height), or they can get injured from an ongoing condition (such as being poisoned).
+A character can get injured in battle – that is, when they lose a [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat#Combat Rounds\|combat round]] and the enemy injures them. A character can also get injured if they fail the challenge level in a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Quick Reaction\|quick reaction]] (for example, falling from a great height), or they can get injured from an ongoing condition (such as being poisoned).
 
 Each damage received by the character **does not reduce** the number of dice they can use for their roll. _(This rule is still being tested.)_
 

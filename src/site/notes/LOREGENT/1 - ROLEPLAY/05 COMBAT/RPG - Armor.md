@@ -64,9 +64,9 @@ Damaged armor can be repaired by a blacksmith, or if the character has the appro
 
 ##### Armor Effectiveness
 
-- **Weak Armor**: when the armor is weak against a certain [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Basic Weapon Division\|type of weapon]]. In this case, 2 armor points block only 1 damage point.    
+- **Weak Armor**: when the armor is weak against a certain [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Type of Attack\|type of weapon]]. In this case, 2 armor points block only 1 damage point.    
     - For example: The enemy is supposed to receive 4 damage and has 2 armor (which is weak against the given weapon). The enemy receives 3 damage points.        
-- **Resistant Armor**: when the armor is resistant to a certain [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Basic Weapon Division\|type of weapon]]. In this case, 1 armor point blocks 2 damage points (i.e., the number of damage points is halved, rounded down).    
+- **Resistant Armor**: when the armor is resistant to a certain [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Type of Attack\|type of weapon]]. In this case, 1 armor point blocks 2 damage points (i.e., the number of damage points is halved, rounded down).    
     - For example: The enemy is supposed to receive 4 damage and has 2 armor (which is resistant to the given weapon). The enemy receives 0 damage points.        
 - **Impenetrable Armor**: when the armor blocks all damage. (This type is used when enemies with a significant technological difference are fighting each other, for example, natives attacking tanks.)
 

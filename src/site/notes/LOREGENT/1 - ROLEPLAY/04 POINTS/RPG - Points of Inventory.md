@@ -105,7 +105,7 @@ Inventory consumption can also be calculated according to certain “bundles” 
 - Items from the bundle do not add any dice to rolls.    
 - Items from the bundle can only be used to solve problems.    
 - In combat, items can be used only in truly exceptional cases, with the roll result being the deflection of the enemy's attack.    
-- The narrator may decide that some items are received only when the character rolls a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Luck\|luck die]] (this is described below under the heading [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory#Luck Roll When Searching for Items\|#Luck Roll When Searching for Items]]).    
+- The narrator may decide that some items are received only when the character rolls a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Luck\|luck die]] (this is described below under the heading [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Inventory#Result of the Luck Roll When Searching for Items\|#Result of the Luck Roll When Searching for Items]]).    
 - Additional restrictions depend on the game's genre. In some games, the bundle may have an infinite number of uses. In other games, e.g., in a zombie apocalypse, it may be limited to a certain number of uses, and its weight may also be higher.    
 
 **Cost of a Basic Bundle**: (for a zombie apocalypse)

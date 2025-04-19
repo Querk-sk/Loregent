@@ -59,7 +59,7 @@ The price of an item is determined by its physical and magical properties (or it
 > [!example]
 >- Leather armor, which adds 3 points of [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|armor]] -> price 6
 >- Long axe, which increases max damage by 2 -> price 4
->-  Bandage, which adds 3 dice to [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health#Liečenie zranenia\|natural regeneration]] -> price 3
+>-  Bandage, which adds 3 dice to [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health#Natural Regeneration\|natural regeneration]] -> price 3
 >- Healing potion, which immediately adds 2 health points -> price 8
 
 ##### Quality and Price
@@ -112,7 +112,7 @@ Of course, the same applies as above. If an item or service is rare (or common) 
 
 #### Earning points of Wealth
 
-[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]] increase when a character sells something, completes [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Reward#Body za splnenie príbehovej úlohy\|a task]], receives a reward for [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Reward#Prvá možnosť Body podľa úrovne nepriateľov\|defeating an enemy]], or performs a job. They receive their money directly from other characters. The money is added just like during consumption. So if a character has 20 p.w. and sells an item for 30, they will have 50 p.w.
+[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]] increase when a character sells something, completes [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Reward#Points for Completing Story Tasks\|a task]], receives a reward for [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Reward#First Option Points Based on Enemy Level\|defeating an enemy]], or performs a job. They receive their money directly from other characters. The money is added just like during consumption. So if a character has 20 p.w. and sells an item for 30, they will have 50 p.w.
 
 #### Negotiating Prices with a Merchant
 

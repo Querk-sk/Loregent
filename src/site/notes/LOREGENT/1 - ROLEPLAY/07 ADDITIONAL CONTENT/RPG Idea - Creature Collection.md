@@ -12,7 +12,7 @@ The Cogent System Community Project’s rules for taming have the following goal
 
 1. To ensure that in the narrative there is a plausible connection between tamer and tamed.
 2. Provide a way to describe a Creature’s abilities and personality, without a complicated stat block.
-3. To ensure Creatures do not become “[[Pokémon\|Pokémon]] in the PC.” These rules acknowledge that taking on a creature requires commitment from the fictional character.
+3. To ensure Creatures do not become “Pokémon in the PC.” These rules acknowledge that taking on a creature requires commitment from the fictional character.
 4. Ensure creatures do not replace the player characters.
 
 #### Describing a Creature

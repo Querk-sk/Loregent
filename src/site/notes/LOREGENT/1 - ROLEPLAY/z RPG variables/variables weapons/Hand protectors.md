@@ -22,7 +22,7 @@ In terms of size, these weapons can be up to 5 cm. This means that an object pro
 
 As for fighting multiple enemies, these weapons can fight against 1 enemy (+1 for each point in specialization).
 
-And regarding any special advantages, besides being able to enter [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Hand protectors#Hand-to-Hand Combat\|hand-to-hand combat]], they can do so immediately after disarming the enemy. This means that in the next combat round, they start in the "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" position, with combat priority—as if the attacker had the highest [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]].
+And regarding any special advantages, besides being able to enter [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|close combat]], they can do so immediately after disarming the enemy. This means that in the next combat round, they start in the "[[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance#Close Combat\|Close combat 0-1 m]]" position, with combat priority—as if the attacker had the highest [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]].
 
 
 </div></div>

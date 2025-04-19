@@ -7,7 +7,7 @@
 
 Combat is a conflict between two characters, where one character attacks the other with a weapon to defeat them. The result of combat is reduction of enemy's or character's [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|health points]], or the infliction of a [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels#List of victory levels\|condition]], such as stun. In combat, all attributes, specializations, and possibly also the skills of both characters are taken into account. So, the outcome of combat is determined by a combination of the characters' physical abilities and their knowledge of combat.
 
-Combat can be fought with [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Chrániče na ruky\|hands]], [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Zbrane na blízko\|melee weapons]] (e.g., swords), [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Zbrane na diaľku a na hádzanie\|ranged weapons]] (e.g., pistols), [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|spells]], or combat [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|maneuvers]] (e.g., a character runs and knocks the enemy to the ground).
+Combat can be fought with [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Hand Protectors\|hands]], [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Melee Weapons\|melee weapons]] (e.g., swords), [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Ranged and Thrown Weapons\|ranged weapons]] (e.g., pistols), [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|spells]], or combat [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|maneuvers]] (e.g., a character runs and knocks the enemy to the ground).
 
 #### Combat Rounds
 
@@ -35,7 +35,7 @@ This order is important because faster characters react to what slower character
 > - The bandit (who has more speed points) decides to kick the table to knock the knight off.
 > - The knight cannot change his decision because he is slower than the bandit.
 
-For simplicity sake, it is good for characters to attack eachother one-on-one. However, in some combats, this is not possible, and multiple characters may fight simultaneously. The number of opponents a character can defend against is determined by the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Podľa veľkosti zbrane\|type of weapon]] and the number of points in their [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]].
+For simplicity sake, it is good for characters to attack eachother one-on-one. However, in some combats, this is not possible, and multiple characters may fight simultaneously. The number of opponents a character can defend against is determined by the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Weapon Size\|type of weapon]] and the number of points in their [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]].
 
 >[!example]
 > If a character has a weapon - hand protectors, they can fight against 1 enemy +1 for each point in their [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]].
@@ -81,7 +81,7 @@ In general, there are two categories of [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - 
 
 **Damaging** levels are those that cause injury to the victim (reduction of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|health points]]), bodily damage (e.g., severing a hand), or permanent reduction of an attribute or skill (something similar to severing a hand).
 
-Regarding injury, it is important to know what kind of attack the character's weapon has, as the attack's strength determines how much damage the enemy takes. A character can achieve a higher victory level, but if they have a weak weapon, the enemy's damage will be lower. The amount of damage is also influenced by the [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization#Weapon Specialization\|weapon specialization]].
+Regarding injury, it is important to know what kind of attack the character's weapon has, as the attack's strength determines how much damage the enemy takes. A character can achieve a higher victory level, but if they have a weak weapon, the enemy's damage will be lower. The amount of damage is also influenced by the [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization#Specialization and Weapons\|weapon specialization]].
 
 > [!example]
 > The character rolled their attack and achieved 4 victories.
