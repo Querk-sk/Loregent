@@ -583,8 +583,8 @@ This list was created with the help of the RPG systems [[LOREGENT/Assets/Referen
 
 #### Notes linked here
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character Psyche\|RPG - Character Psyche]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|RPG - Victory levels]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character Psyche\|RPG - Character Psyche]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}

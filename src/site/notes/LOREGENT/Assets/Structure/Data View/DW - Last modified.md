@@ -9,9 +9,9 @@
 
 | File                                                                                                              | Last Modified |
 | ----------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]                                                  | 04.05.2025    |
 | [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Shields\|Shields]]                                   | 04.05.2025    |
 | [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Verbs for combat spells\|Verbs for combat spells]] | 04.05.2025    |
+| [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]                                                  | 04.05.2025    |
 | [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]                                               | 04.05.2025    |
 | [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]                     | 04.05.2025    |
 | [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]         | 18.04.2025    |
