@@ -32,8 +32,8 @@ Shouting, Intimidation, Scaring, Assertive debate
 
 #### Poznámky nalinkované sem
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills\|RPG - Other skills]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 
 { .block-language-dataview}

@@ -40,12 +40,11 @@ Chasing (the character wants to catch a thief who is running), The character wan
 
 #### Poznámky nalinkované sem
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk\|RPG - Perk]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Distance\|RPG - Combat Distance]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk\|RPG - Perk]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Chase\|RPG - Chase]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Other Challenge Levels\|RPG - Other Challenge Levels]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - Actions\|RPG - Actions]]

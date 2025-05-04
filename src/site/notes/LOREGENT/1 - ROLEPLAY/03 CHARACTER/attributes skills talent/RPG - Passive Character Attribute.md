@@ -5,7 +5,7 @@
 
 ### Passive Character Attribute
 
-As stated in the previous chapter, passive attributes are characteristics that "say" whether the character is strong, average, or weak in a certain area. They are called "passive" because they are not used in dice rolls – only skills are "rolled." For instance, if a character needs to push a rock, the player does not roll for the attribute "strength ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]])", but rolls for the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]]", which includes the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/attribute\|attribute]] [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]] (meaning they get *3 + [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]] + [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]]* for the roll).
+As stated in the previous chapter, passive attributes are characteristics that "say" whether the character is strong, average, or weak in a certain area. They are called "passive" because they are not used in dice rolls – only skills are "rolled." For instance, if a character needs to push a rock, the player does not roll for the attribute "strength ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]])", but rolls for the skill "[[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]]", which includes the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/attribute\|attribute]] [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]] (meaning they get 3 + [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]] + [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]] for the roll).
 
 Unless otherwise specified, each player receives [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/3 points\|3 points]] to allocate to any of their character's attributes. This number can vary depending on the following:
 
@@ -100,7 +100,7 @@ Attributes provide passive bonuses to the character when points are invested in 
 	- +/- 1 to [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]]
 * **One point in [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] adds or subtracts**
     - +/- 1 die to intelligence skills
-    - +/- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/5 points\|5 points]] that the character can invest in skills, talents, or specializations (this rule is still being tested)
+    - +/- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/3\|3]] points that the character can invest in skills, talents, or specializations (this rule is still being tested)
     - +/- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/3\|3]] to [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Energy\|Points of Energy]]
 * **One point in [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] adds or subtracts**
 	- +/- 1 die to social skills

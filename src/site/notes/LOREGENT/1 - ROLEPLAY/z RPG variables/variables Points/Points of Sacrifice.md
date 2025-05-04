@@ -10,9 +10,9 @@
 
 #### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Speed\|RPG - Points of Speed]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Advantage and Disadvantage\|RPG - Advantage and Disadvantage]]
 
 { .block-language-dataview}

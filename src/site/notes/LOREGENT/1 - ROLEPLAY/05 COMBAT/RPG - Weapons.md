@@ -124,7 +124,7 @@ Weapons are divided into those that are "**melee**" – such as swords, axes, ha
 
 However, what to do in cases where some weapons can be used both for melee and ranged? For example, an axe that a character can throw at an enemy, or a shuriken that can be used as a dagger? This alternative use of the weapon is rolled as a skill (for example, " [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Working with hands\|Working with hands]] " when the character wants to throw their axe accurately, or " [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]] " if the axe is very heavy. Or " [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]] " when the character wants to use the shuriken as a dagger). In this alternative use, the weapon's attributes are ignored, meaning they add exactly 0 dice. This does not apply if the character has a combat specialization in throwing that weapon. On the other hand, this alternative use of the weapon can cause injury.
 
-And what about shields? Those hand-held ones that can be used together with a sword? All shields are considered blunt medium-sized weapons; therefore, they have all the advantages and disadvantages of medium blunt weapons. A character can use a shield separately, but also together with a medium sword or spear. When a character wants to fight with a sword and shield at the same time, they must have a special talent for it. Without it, they can only attack with one weapon per round.
+And what about [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Shields\|shields]]? Those hand-held ones made from wood or plate of metal, that can be used together with a sword? All [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Shields\|shields]] are considered blunt medium-sized weapons; therefore, they have all the advantages and disadvantages of [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Medium-sized Weapons\|medium]] [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Blunt weapons\|blunt weapons]]. A character can use a shield separately, but also together with a medium sword or spear. When a character wants to fight with a sword and shield at the same time, they must have a special talent for it. Without it, they can only attack with one weapon per round. Shields can be also used in maneuver called as [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers#Damage Absorption - f\|damage absorption]].
 
 ##### Melee Weapons
 
@@ -394,27 +394,25 @@ In such a case, the character with modern equipment will roll the dice with [[LO
 #### Notes linked here
 - [[MAIN - LoreGent\|MAIN - LoreGent]]
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|RPG - Basics of Magic]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/melee weapons\|melee weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Sharp weapons\|Sharp weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Ranged and Thrown Weapons\|Ranged and Thrown Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Piercing weapons\|Piercing weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Hand protectors\|Hand protectors]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Blunt weapons\|Blunt weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Explosive weapons\|Explosive weapons]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Weight of Inventory\|Weight of Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Inventory\|Inventory]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Magic\|Magic]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|RPG - Basics of Magic]]
+- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Sacrifice\|RPG - Points of Sacrifice]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|RPG - Victory levels]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|RPG - Combat circumstances]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Armor\|RPG - Armor]]
-- [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Sacrifice\|RPG - Points of Sacrifice]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}

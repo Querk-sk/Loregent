@@ -5,51 +5,54 @@
 
 ### Spells
 
-A spell is created when magical talent or magical specialization combines with a skill. Spells can be [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|damaging]], and they can be cast independently (as active spells) or function automatically (as passive spells) when a condition is met.
+In our RPG system, spells function similarly to items, weapons, actions, or a list of combat maneuvers. However, they enable actions that may be unimaginable for many characters—such as conjuring fire from nothing. Because of this, a character must possess magical talent or specialization. These traits are also crucial in spell creation, as a spell (in our RPG system) is formed by combining magical talent with a specific skill.
 
-#### Active and Passive Spells
+#### Spell Classification
 
-**Active spells** are those that the character decides to cast. This can be when a situation arises in the story that the character wants to resolve using a spell (similarly to skills), or during combat when the character attacks someone. Active attack spells can have their unique levels of victory but also have a cost that must be paid (more on this topic is written in the section about [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|the cost of magic]]).
+**[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] spells** are those whose primary purpose is not to harm an enemy. These typically include healing spells (e.g., "Aura of Healing"), spells that create helpful objects or structures (e.g., "Ice Bridge"), or spells that solve specific problems (e.g., "Unlocking Spell"). Utility spells are formed by combining them with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]].
 
-**Passive spells** function automatically, but only during certain rolls. For example, only during combat, or when the character is swimming, and so on. Passive spells activate when certain numbers are rolled on the dice. For example, if the number 1 is rolled during combat, the character gets +1 frost armor for each number 1 rolled.
+**[[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|Damaging]] spells** are those designed primarily to damage an enemy or destroy an object or structure (e.g., "Fire Whirl"). Offensive spells are created by combining them with [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|specialization]].
+
+**Active spells** are those a character actively performs in response to a situation they wish to resolve using magic—much like skills—or during combat when attacking someone. Offensive active spells may have unique victory levels but also come with a price that must be paid (more details are covered in the section on [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|the cost of magic]]).
+
+**Passive spells** function automatically but only under certain rolls, such as during combat or while swimming. Passive spells activate when specific dice numbers appear. For example, if a character rolls a "1" during battle, they may gain +1 Frost Armor for each "1" rolled.
 
 #### How are spells cast?
 
-Each spell is cast as follows:
+Each spell is rolled using:
 
-- 3 dice as the base    
-- plus dice from basic Attributes ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]])    
+- 3 base dice    
 - plus dice from magical talent when casting [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] spells    
 - plus dice from magical specialization when casting [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|damaging]] spells    
-- plus dice from skill    
-- plus/minus dice for bonuses from items (if the character has any)    
-- plus/minus dice for [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|circumstances]] (if they are present)
-
+- plus dice from relevant skills    
+- plus dice from primary Attributes that govern the specific skill (e.g., [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Perception\|Perception]] + [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]])   
+- plus dice from items the character uses    
+- plus/minus dice for [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat circumstances\|circumstances]] (if applicable)
 #### How are spells created?
 
-The storyteller can create spells as needed and as it fits into their story. Generally, useful spells are created by combining a magical [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|Talent]] with a skill. Offensive spells are created by combining a magical [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]] with a skill. This means that each spell is connected to a skill. All the spells of a character are then written into the character sheet.
+The narrator can craft spells as needed to fit the narrative. These spells should be accessible to any character with appropriate education or background. Generally, each spell is linked to a skill—utility spells connect with talent, while offensive spells link to specialization.
 
->[!example]
->Ice Shield - specialization Ice Mage + [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]]
->Fire Wall - specialization Fire Mage + [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Working with hands\|Working with hands]]
->Wind Arrows - specialization Wind Mage + [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Acrobatics\|Acrobatics]]
->Jump - specialization Robo Mage + [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]] (the character has robotic legs)
+>[!example] For example: 
+>Ice Shield – Specialization: Cryomancer + [[Resilience\|Resilience]] 
+>Fire Wall – Talent: Pyromancer + [[Handwork\|Handwork]] 
+>Wind Arrows – Specialization: Aeromancer + [[Agility\|Agility]] 
+>Leap – Talent: Robomancer + [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Raw Strength\|Raw Strength]] (character has robotic legs)
 
-Which spell can be connected with which skill? Each skill has a list of verbs associated with it (for example, the skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Thinking\|Thinking]] has verbs like: understand, guess, analyze, solve a puzzle). So you just need to look at the list of verbs for each skill and choose the one that fits.
+But how do these spells get assigned? Which skill do they connect to? Each skill has a list of associated verbs (e.g., the skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/INT/Thinking\|Thinking]] includes verbs like: understand, sense, analyze, solve puzzles). To create a spell, simply review the verb list for a skill and choose one that fits.
 
-If you can't choose because your verb (the action the spell is supposed to perform) isn't there, you can create a new skill. This new skill is written into the list of talents (or wherever there is space in the character sheet) and assigned a main attribute. This skill can also be used in the game if the storyteller allows, but its main purpose is to create a spell (for example, teleport, which is not a great example because teleport is created with the skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Sprint\|Sprint]], because sprint includes a jump).
+If no suitable verb is available—perhaps because it's too unique—you can create a new skill. This new skill is added to the talent list (or the skills section, wherever appropriate in the character table) and assigned a primary attribute. It can be used in gameplay if the storyteller allows it, but its core purpose is to enable spell creation.
 
-As for the verbs, each element also has its own list of verbs.
+What about elements like fire, water, earth, and air? [[MAG - Elements\|Magical elements]] (or other essences) are also considered skills and must have their own verb lists.
 
-##### Purely Combat Spells
+#### Purely Combat Spells
 
-For combat spells, the rule remains that they must be linked to a skill. Additionally, they must be connected to a combat skill from which they can choose a verb (allowed action) they need. However, this "combat skill" does not add any dice and does not require the character to use points to purchase this "combat skill." It mainly serves as a reminder of what the spell actually does.
+Combat spells also need to be linked to one or more combat-related verbs. However, this connection does not add any extra dice—it only determines the final cost of the spell and helps ensure clarity on what the spell actually does.
 
->[!example]
->Spell "Fireball"
-> - specialization Fire School
-> - plus skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Skillfulness\|Skillfulness]]
-> - plus combat skill (explode, burn – see verbs for combat spells below)
+>[!example] For example: 
+>Spell "Fireball" 
+> - Specialization: Fire School 
+> - plus skill [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/REF/Skillfulness\|Skillfulness]] 
+> - plus combat-specific verbs = explode, burn
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/1-roleplay/z-rpg-variables/variables-mechanics/verbs-for-combat-spells/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -57,54 +60,49 @@ For combat spells, the rule remains that they must be linked to a skill. Additio
 
 
 
->[!note] .
+>[!note] Categories of combat verbs
 >- HIT, (Strike, cut, or stab an enemy with a weapon, projectile, or hands), 
 >- DEFEND (Hold, Lift, Protect, Endure, Follow, Stand Up, Defend, Endure, Stay) 
 >- DESTROY (Explode, Break, Destroy, Crush) 
 >- HURT (Suffer, Burn, Poison, Sicken (cause illness)) 
 >- TACTIC (Set a trap, Follow, Track, Approach, Catch, Expect, Leave, Repeat, Open, Hold, Control, Manage) 
->
->The list may change, or other actions may be added. 
->As for magical elements, they also have their own verbs. However, we write about them in [[MAG - Elements\|another place]].
 
+Verbs are arranged into categories for clarity. When creating a spell, a single verb (e.g., "hold on") is selected rather than an entire category (e.g., the "Defend Yourself" category). The list of verbs may change or have additional ones added.
 
 </div></div>
 
 
-##### Limitations
+#### Spell Enhancement
 
-However, there are a few limitations when creating spells. For instance, one skill can only be associated with one talent or specialization. Unless, of course, it is another function of the same spell, such as creating an ice wall and creating an ice bridge – in this case, multiple spells can be associated with one skill. But otherwise, it is not possible.
+Each spell can be upgraded by investing a point into it when creating a character, or later through magical items, essences, or training.
 
-If the storyteller (or character) needs to create spells in their character sheet that require the same skill, then they must invest 1 skill point (the point used to invest in skills, talents, and specializations when creating a character) into that spell. For such a spell, the character also gets +1 die for that 1 point.
+- **Items** enhance a spell as long as the character is holding or wearing them. If they remove or sell the item, it no longer boosts the spell (e.g., glasses: "See Through Walls" spell +2 dice).    
+- **Essences** enhance a spell when used during casting, but they burn out after the spell is completed.    
+- **Training** permanently upgrades a spell by improving the talent or specialization associated with it.
 
-A spell also cannot be associated with multiple skills. Only one. If a spell needs to have multiple skills, then multiple spells must be created, which are cast sequentially like a "chain." In this case, all spells (before the main one) are cast as [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
-
-##### Enhancing a Spell
-
-Each spell can be enhanced by investing a point into that spell during character creation, as well as by using magical items, essence, or training.
-
-- An item enhances a spell when the character holds or wears the item. If the item is removed from the character's body or sold, the item no longer enhances the spell. (e.g., glasses: spell "seeing through walls" +2 dice)    
-- Essence enhances a spell when the character uses it during casting. However, the essence burns out after the spell is cast.    
-- A spell can be permanently enhanced through training or by the character investing points into it. Such a spell is written into the character sheet along with the number of points. And every time the character casts that spell, the dice from the enhancement points are added.
- 
 #### Are All Spells Weapons?
 
-We classify spells as [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] and [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|damaging]]. However, all spells, regardless of classification, must have some weapon attributes based on what type of weapon they resemble.
+Regardless of their classification ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|damaging]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]]), all spells must share certain [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Weapon Attributes\|weapon attributes]] based on their resemblance to specific weapons. These attributes include:
 
-- Whether they resemble a melee weapon (like a sword) or a ranged/thrown weapon.    
-- Whether they are similar to a [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Blunt weapons\|Blunt]] weapon, [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Sharp weapons\|Sharp]] weapon, [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Piercing weapons\|Piercing]] weapon, or [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Explosive weapons\|Explosive]] weapon (for explosive weapons, the area of effect must be determined).    
-- The size of this weapon and its area of effect, whether it is a touch weapon (like hand guards), a small weapon, a medium weapon, or a large weapon.    
-- Whether this weapon uses ammunition and if any special ammunition can be used. (Everything else about classification is written in the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|weapons chapter]].)
+- Whether the spell resembles a [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Melee Weapons\|melee weapon]] (like a sword) or a [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Ranged and Thrown Weapons\|ranged/thrown weapon]].    
+- Whether its effect is similar to a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Blunt weapons\|Blunt weapons]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Sharp weapons\|Sharp weapons]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Piercing weapons\|Piercing weapons]], or [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Explosive weapons\|Explosive weapons]] (explosive spells require defining their area of effect).    
+- The size and range of the spell—whether it acts as a touch-based weapon (like hand guards), a small weapon, a medium weapon, or a large weapon.    
+- Whether the spell uses ammunition and if special ammunition can be applied.    
 
-Another attribute that weapons have is attack. Therefore, combat spells also have attacks, which determine the maximum damage a character can deal to their enemy during combat. All spells have an attack level of 1 (meaning each combat spell causes at least 1 injury). This level of damage that a spell can cause can be increased by specialization in a particular school of spells, as well as by items and investment in spells.
+Another key attribute is maximum damage, which determines the highest injury a character can inflict on an enemy in combat. Every spell has a base attack level of 1, meaning each combat spell causes at least 1 damage. This damage level can be increased through specialization in the relevant school of magic or further enhanced by items.
 
-#### Victory Levels of Spells
+#### Spell Victory Levels
 
-Offensive spells can have their own [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|victory levels]] written next to them. For example, a fireball at Victory Level 1 causes burns, but at Victory Level 3, it sets the enemy on fire. Similarly, a spell at a higher victory level can inflict a status on the enemy (such as making them catch fire). In this case, the victory level also becomes the Level of Difficulty, which the enemy must overcome to rid themselves of the status. Healing the status during combat is considered a quick action.
+Offensive spells may include their own unique [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|victory levels]]. At higher victory levels, a spell can inflict a status effect on an enemy—such as setting them on fire. The victory level then becomes a difficulty level that the enemy must overcome to remove the status. Curing a status effect during combat is considered a quick action.
+
+>[!example] For example: 
+>Spell: Fireball 
+>- At victory level 1, it causes burns. 
+>- At victory level 3, it ignites the enemy.
 
 ### TAG and LINK : 
 - Stability : #stability/unstable 
-- Version : #version/2024/08 
+- Version : #version/2025/05
  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

@@ -20,7 +20,7 @@ A character can use magic for combat, defense, or to perform any other activity 
 
 Magic and spells work the same way as: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Skill\|skills]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|Talent]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Specialization\|Specialization]], [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|Combat]] and [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|Weapons]]. So if you have read these chapters, you already know almost everything about magic.
 
-#### Who Can Use Spells?
+#### Who Can Use Magic?
 
 Unless otherwise specified, any character can use magic. However, the narrator can modify this by setting specific restrictions in their magical system.
 
@@ -39,7 +39,7 @@ If a character without a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mecha
 
 ##### Talent and Knowledge of Magic
 
-One way the narrator can restrict the use of magic is by tying magical knowledge to a character's talent. This means that a character will only know spells or magical items that have the same level as the number of points the character has invested in their magical talent. So the number of points in the talent indicates the maximum level of magic the character can use (that they remember). If a character wants to use a higher-level spell, they must find it in a book, but cannot use it from memory.
+One way the narrator can restrict the use of magic is by tying magical knowledge to a character's talent. This means that a character will only know spells or magical items that have the same level as the number of points the character has invested in their magical talent. So the number of points in the talent indicates the maximum level of magic the character can use (that they remember). If a character wants to use a higher-level spell, they must find it in a book, but cannot use it from memory. But in the case, the character is using higher-level spell (higher they have a talent for) the character is rolling the magic roll in [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]].
 
 >[!example]
 > - 1 point in talent = Level 1

@@ -46,12 +46,12 @@ In case the player wants to persuade another character to do something really cr
 #### Poznámky nalinkované sem
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk\|RPG - Perk]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills\|RPG - Other skills]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 
 { .block-language-dataview}

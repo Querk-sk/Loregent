@@ -20,5 +20,7 @@ These are weapons that cause damage through the force of impact, with the goal o
 
 #### Notes linked here
 
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Shields\|Shields]]
 
 { .block-language-dataview}

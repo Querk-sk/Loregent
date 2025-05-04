@@ -19,7 +19,6 @@
 
 ### 2024 / 11
 
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers\|RPG - Combat Maneuvers]]
 
 { .block-language-dataview}
 ### 2024 / 10
@@ -43,7 +42,6 @@
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice in general\|RPG - Dice in general]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice of Chance\|RPG - Dice of Chance]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Groups of characters\|RPG - Groups of characters]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Luck\|RPG - Luck]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Other points\|RPG - Other points]]
@@ -66,7 +64,6 @@
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills STR\|RPG - Skills STR]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spellcasting Failure\|RPG - Spellcasting Failure]]
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Story cubes\|RPG - Story cubes]]
 - [[LOREGENT/1 - ROLEPLAY/01 CHALLENGE LEVEL/RPG - Success and Failure\|RPG - Success and Failure]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]

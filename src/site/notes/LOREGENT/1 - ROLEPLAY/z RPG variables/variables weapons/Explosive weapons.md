@@ -21,5 +21,6 @@ Explosive weapons must specify their area of effect. Whether it is an explosion 
 
 #### Notes linked here
 
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
 
 { .block-language-dataview}

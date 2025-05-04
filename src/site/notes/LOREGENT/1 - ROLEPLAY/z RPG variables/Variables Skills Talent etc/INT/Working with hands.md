@@ -48,8 +48,6 @@ What if a blacksmith wants to forge a sword? If it's a regular blacksmith making
 
 #### Poznámky nalinkované sem
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Items\|RPG - Points of Items]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
@@ -57,5 +55,6 @@ What if a blacksmith wants to forge a sword? If it's a regular blacksmith making
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Disabling Characteristic\|RPG - Disabling Characteristic]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|RPG - Skills in general]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Other skills\|RPG - Other skills]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
 
 { .block-language-dataview}

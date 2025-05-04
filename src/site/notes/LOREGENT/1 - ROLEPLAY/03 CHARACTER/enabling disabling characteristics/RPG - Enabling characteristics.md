@@ -121,7 +121,8 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 - **Explanation**:    
     - The character is flexible and fast. They might have practiced gymnastics from a young age or have looser joints that allow this.        
 - **Change**:    
-    - Attributes: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]] (reflex): +1        
+    - Attributes: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]] (reflex): +1 
+    - (Status) Great thinking : 1 per 24 hour the character will win one [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]] skill dice roll.
 - **Points**:    
     - The character loses 4 points that could have been invested in other skills, talents, or specializations.
 
@@ -178,7 +179,8 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 - **Explanation**:    
     - The character's brain works exceptionally well - many times faster than ordinary people. They think a lot, quickly remember things, and learn.        
 - **Change**:    
-    - Attributes: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] (intelligence): +1        
+    - Attributes: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] (intelligence): +1   
+    - (Status) Great thinking : 1 per 24 hour the character will win one [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] skill dice roll.
 - **Points**:    
     - The character loses 4 points that could have been invested in other skills, talents, or specializations
 
@@ -227,7 +229,8 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 - **Explanation**:    
     - The character has genes that cause muscle growth. So even if they don't exert themselves much, their muscles grow as if they spent 24 hours in the gym.        
 - **Change**:    
-    - Attributes: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]] (strength): +1        
+    - Attributes: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]] (strength): +1    
+    - (Status) Muscle Peak : 1 per 24 hour the character will win one [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]] skill dice roll.
 - **Points**:    
     - The character loses 4 points that could have been invested in other skills, talents, or specializations.
 
@@ -236,7 +239,8 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 - **Explanation**:    
     - The character exudes an aura that makes people like them. They know how to behave, what to say, how to make people laugh, and how to captivate them.        
 - **Change**:    
-    - Attributes: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] (social): +1        
+    - Attributes: [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] (social): +1     
+    - (Status) Social emphaty : 1 per 24 hour the character will win one [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]] skill dice roll.
 - **Points**:    
     - The character loses 4 points that could have been invested in other skills, talents, or specializations.
 
@@ -260,7 +264,7 @@ This list was created for the [[LOREGENT/Assets/References/Systems/Open D6 - Sys
 
 ### TAG and LINK : 
 - Stability : #stability/mild_stability  
-- Version : #version/2024/08
+- Version : #version/2025/05
  
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

@@ -197,16 +197,14 @@ There is also a list of verbs for combat spells.
 
 
 
->[!note] .
+>[!note] Categories of combat verbs
 >- HIT, (Strike, cut, or stab an enemy with a weapon, projectile, or hands), 
 >- DEFEND (Hold, Lift, Protect, Endure, Follow, Stand Up, Defend, Endure, Stay) 
 >- DESTROY (Explode, Break, Destroy, Crush) 
 >- HURT (Suffer, Burn, Poison, Sicken (cause illness)) 
 >- TACTIC (Set a trap, Follow, Track, Approach, Catch, Expect, Leave, Repeat, Open, Hold, Control, Manage) 
->
->The list may change, or other actions may be added. 
->As for magical elements, they also have their own verbs. However, we write about them in [[MAG - Elements\|another place]].
 
+Verbs are arranged into categories for clarity. When creating a spell, a single verb (e.g., "hold on") is selected rather than an entire category (e.g., the "Defend Yourself" category). The list of verbs may change or have additional ones added.
 
 </div></div>
 

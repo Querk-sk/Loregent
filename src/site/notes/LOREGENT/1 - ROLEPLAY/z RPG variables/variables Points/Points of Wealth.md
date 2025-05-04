@@ -10,10 +10,10 @@
 
 #### Notes linked here
 - [[LOREGENT/Assets/Fleeting Notes/Návody pre príbehy/Pixar design process\|Pixar design process]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Rewards\|Points of Rewards]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Sacrifice\|RPG - Points of Sacrifice]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Reward\|RPG - Points of Reward]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Enabling characteristics\|RPG - Enabling characteristics]]

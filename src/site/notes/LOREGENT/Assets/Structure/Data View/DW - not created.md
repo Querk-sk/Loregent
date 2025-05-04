@@ -12,6 +12,7 @@
 | [[20 - Magické vedy - Spiritológia\|20 - Magické vedy - Spiritológia]]           | [[LOREGENT/Assets/Structure/Data View/DW - Least modified\|DW - Least modified]]                                                           |
 | [[21 - Jedinečné magické vedy\|21 - Jedinečné magické vedy]]                     | [[LOREGENT/Assets/Structure/Data View/DW - Least modified\|DW - Least modified]]                                                           |
 | [[22 - Magická metodika\|22 - Magická metodika]]                                 | [[LOREGENT/Assets/Structure/Data View/DW - Least modified\|DW - Least modified]]                                                           |
+| [[Agility\|Agility]]                                                             | [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]                                                                              |
 | [[Alien Swarm\|Alien Swarm]]                                                     | [[LOREGENT/Assets/Structure/Data View/DW - Least modified\|DW - Least modified]]                                                           |
 | [[Antivax\|Antivax]]                                                             | [[LOREGENT/Assets/Fleeting Notes/Fér - nápad\|Fér - nápad]]                                                                                |
 | [[Benny\|Benny]]                                                                 | [[LOREGENT/Assets/Fleeting Notes/LSO ako Overwatch\|LSO ako Overwatch]]                                                                    |
@@ -55,6 +56,5 @@
 | [[Ekológia\|Ekológia]]                                                           | [[LOREGENT/Assets/Fleeting Notes/Mravce a levy - fakty\|Mravce a levy - fakty]]                                                            |
 | [[element\|element]]                                                             | [[LOREGENT/Assets/Fleeting Notes/Rozprávač - príbeh - nápad\|Rozprávač - príbeh - nápad]]                                                  |
 | [[Elements\|Elements]]                                                           | [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Random conflict\|RPG - Random conflict]]                                               |
-| [[Elementy\|Elementy]]                                                           | [[LOREGENT/Assets/Fleeting Notes/Genasi - Kúzelnárovia\|Genasi - Kúzelnárovia]]                                                            |
 
 { .block-language-dataview}

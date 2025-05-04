@@ -19,6 +19,9 @@ Indicates how fast, flexible, and perceptive a character is. Characters with hig
 ( read : [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Passive Character Attribute\|RPG - Passive Character Attribute]] )
 #### Notes linked here
 - [[LOREGENT/Assets/Templates/RPG - Character Sheet - template\|RPG - Character Sheet - template]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
+- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Very small character\|Very small character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Very big character\|Very big character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Smaller character\|Smaller character]]
@@ -27,11 +30,6 @@ Indicates how fast, flexible, and perceptive a character is. Characters with hig
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Bigger character\|Bigger character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables character/variables character size/Big character\|Big character]]
 - [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Training\|Points of Training]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
-- [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Civilizations\|RPG - Civilizations]]
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
-- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Wealth\|RPG - Points of Wealth]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Training\|RPG - Points of Training]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Speed\|RPG - Points of Speed]]
@@ -44,6 +42,8 @@ Indicates how fast, flexible, and perceptive a character is. Characters with hig
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/character in general/RPG - Character in general\|RPG - Character in general]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|RPG - Skills in general]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills REF\|RPG - Skills REF]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|RPG - Weapons]]
+- [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|RPG - Combat]]
 - [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Dice in general\|RPG - Dice in general]]
 - [[LOREGENT/1 - ROLEPLAY/00 GAME in general/RPG - What is RPG\|RPG - What is RPG]]
 

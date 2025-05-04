@@ -284,7 +284,7 @@ Bracing is rolled as a [[LOREGENT/1 - ROLEPLAY/02 DICE/RPG - Self-assistance\|se
 
 **Type:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] action used instead of an attack - fast action.
 
-**Description:** Damage absorption serves to reduce the damage that the character would receive. It is rolled as the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] skill, without the use of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or items (which can only be used for sacrifice). Armor, shield, or weapon can be used in this roll - the number of points in armor (shield or weapon) is converted into dice, which increases the number of dice in the damage absorption roll.
+**Description:** Damage absorption serves to reduce the damage that the character would receive. It is rolled as the [[LOREGENT/1 - ROLEPLAY/z RPG variables/Variables Skills Talent etc/STR/Endurance\|Endurance]] skill, without the use of [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]] or items (which can only be used for sacrifice). Shield can be used in this roll - the number of attributes in shield is converted into dice, which increases the number of dice in the damage absorption roll.
 
 The roll is made against the enemy's attack. The number of wins the character rolls is the amount by which their damage is reduced. The result of this roll is final, and the damage cannot be reduced further by armor.
 
@@ -466,7 +466,7 @@ This maneuver is performed as a skill combined with a [[LOREGENT/1 - ROLEPLAY/z 
 
 ### TAG and LINK : 
 - Stability : #stability/unstable
-- Version : #version/2024/11 
+- Version : #version/2025/05
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -507,6 +507,7 @@ This maneuver is performed as a skill combined with a [[LOREGENT/1 - ROLEPLAY/z 
 #### Notes linked here
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Shields\|Shields]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Speed\|RPG - Points of Speed]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]

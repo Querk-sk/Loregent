@@ -19,5 +19,6 @@ These are weapons that cause damage through the sharpness of the blade, with the
 
 #### Notes linked here
 
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Spells\|RPG - Spells]]
 
 { .block-language-dataview}
