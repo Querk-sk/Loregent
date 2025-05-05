@@ -25,9 +25,9 @@
 | [[LOREGENT/Assets/Fleeting Notes/Návody pre príbehy/Prečo sú isekai zlé\|Prečo sú isekai zlé]]                                                        | 01.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Návody pre príbehy/Kniha predslov - nápad\|Kniha predslov - nápad]]                                                  | 01.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/Lord of Nightmares\|Lord of Nightmares]]                                                                             | 01.07.2024    |
+| [[LOREGENT/Assets/References/Systems/Gateway RP\|Gateway RP]]                                                                                         | 05.07.2024    |
 | [[LOREGENT/Assets/Structure/Map of content/MODULES\|MODULES]]                                                                                         | 05.07.2024    |
 | [[LOREGENT/Assets/Structure/Data View/DW - not created\|DW - not created]]                                                                            | 05.07.2024    |
-| [[LOREGENT/Assets/References/Systems/Gateway RP\|Gateway RP]]                                                                                         | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/vedomie podvedomie nadvedomie - nápad\|vedomie podvedomie nadvedomie - nápad]]                                       | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/stratégia na ovládnutie systému svetov - nápad\|stratégia na ovládnutie systému svetov - nápad]]                     | 05.07.2024    |
 | [[LOREGENT/Assets/Fleeting Notes/chrám detí\|chrám detí]]                                                                                             | 05.07.2024    |
