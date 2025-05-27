@@ -318,13 +318,12 @@ Damage absorption serves to absorb the enemy's attack without causing any injury
 
 **Specialization:** The character must have [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]]. If they do not have [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Talent\|talent]], they roll at a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/disadvantage\|disadvantage]]. If the spell is quite complex, they roll at a great disadvantage.
 
-###### Spell Charging - f
+###### Spell Charging - s
 
 **Type:** [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|Useful]] action rolled instead of an attack - slow action
 
-**Description:** This maneuver is used when the CL for the spell is too high or when the wizard wants to strengthen their spell. The wizard focuses on their spell, charging it with full power. During the round, the character rolls their normal dice roll (as if casting the spell) against the CL, which is determined by the length of the charging time. The duration of the character's focus on their spell determines the CL of the spell. If the CL is high, the character can spread it out - but each round must have at least CL 2 (exceptionally 1). Thus, the CL for each charging round of the spell should be 2 (exceptionally 1).
-
-If the character wins the roll (passes the challenge level), the number of wins is recorded. If the roll fails (does not pass the challenge level), nothing happens (0 wins are recorded). In the final charging round, all wins from all rounds are added up into one final total, which will be considered definitive.
+**Description:** 
+This maneuver can be used when the challenge level for a spell is too high or when a wizard wants to strengthen their spell. The wizard informs the narrator how many rounds they will charge their spell. During these rounds—each round individually—they roll their normal dice roll as if casting the spell, but without the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Challenge Level\|challenge level]]. At the end of the charging process, after completing all charging rounds, the total number of successes from each round is summed up and compared against the spell's challenge level.
 
 **Repetition:** With a sacrifice, the charging roll can be rolled again in the same round. It then functions as a [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/Self-assistance roll\|Self-assistance roll]].
 
@@ -466,7 +465,7 @@ This maneuver is performed as a skill combined with a [[LOREGENT/1 - ROLEPLAY/z 
 
 ### TAG and LINK : 
 - Stability : #stability/unstable
-- Version : #version/2025/05
+- Version : #verzia/2025/05/24
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/assets/structure/navigation/nav-rpg/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -505,13 +504,13 @@ This maneuver is performed as a skill combined with a [[LOREGENT/1 - ROLEPLAY/z 
 **In chapter**  : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 04 - Combat\|RPG - CH 04 - Combat]]
 
 #### Notes linked here
+- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Shields\|Shields]]
 - [[LOREGENT/1 - ROLEPLAY/07 ADDITIONAL CONTENT/RPG - Monsters from Pocket\|RPG - Monsters from Pocket]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
-- [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables weapons/Shields\|Shields]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Speed\|RPG - Points of Speed]]
 - [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Health\|RPG - Points of Health]]
-- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Specialization\|RPG - Specialization]]
+- [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Talent\|RPG - Talent]]
 - [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/attributes skills talent/RPG - Skills in general\|RPG - Skills in general]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 

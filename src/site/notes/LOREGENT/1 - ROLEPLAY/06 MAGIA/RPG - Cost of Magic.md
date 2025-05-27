@@ -13,7 +13,7 @@ If a character does not "pay" the cost of magic, they cannot cast spells at all,
 
 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Energy\|Points of Energy]] are necessary for casting spells, and without them, a character cannot cast. Each character has [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/amount of points/6 points\|6 points]], which can be increased by investing points into the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]] attribute. In short, the cost of spells can be summarized as follows: every [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] spell costs 1 [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Energy\|Points of Energy]], and every [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/damaging\|damaging]] spell costs 2 points. (More on this topic can be found in the [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Energy\|relevant section]].)
 
-Points in talents or specialization, mentioned in the [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|basics of magic]] section, increase the number of dice the character can use in their magical roll. This increases the chances of not failing the roll or saving time needed for casting (because if the complexity level is too high, the character may have to roll multiple times. More details can be found in the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers#Spell Charging - f\|combat maneuvers]] section.)
+Points in talents or specialization, mentioned in the [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Basics of Magic\|basics of magic]] section, increase the number of dice the character can use in their magical roll. This increases the chances of not failing the roll or saving time needed for casting (because if the complexity level is too high, the character may have to roll multiple times. More details can be found in the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat Maneuvers#Spell Charging - s\|combat maneuvers]] section.)
 
 There are several options for the complexity level, each of which the narrator can adjust as they see fit.
 
@@ -221,47 +221,7 @@ One way to determine the complexity is to refer to the section [[LOREGENT/1 - RO
 > - plus 4 CL if the object is heavy, around 80 kg (approximately the weight of a baby elephant)
 > - (So the spell will have a total of CL 4)
 
-##### By Points of Wealth (third option)
-
-The narrator can determine the Challenge level based on what the spell should do or add (e.g., add [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] to another character). They can use the rule about [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Wealth\|Points of Wealth]]. In this case, all spell attributes are listed and converted to a cost according to the list below.
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/loregent/1-roleplay/04-points/rpg-points-of-wealth/#item-price" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-###### Item Price
-
-The price of an item is determined by its physical and magical properties (or its enchantments):
-
-- **Adds dice to a roll ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]]) = attribute x 1**    
-    - When an item adds dice to a skill roll that results in solving a problem. This roll must not result in harming another character. If used in [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|combat]], the results can only be [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|pacifistic victory options]].        
-    - When the duration of a useful effect is increased, such as a healing aura or a useful elemental. Number of turns +1.        
-    - The price also considers repairing or supplementing an attribute that gives [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] dice to a character.        
-    - (e.g., bandage, glasses, invisibility cloak)        
-- **Related to combat (i.e., adds attack or armor) = attribute x 2**    
-    - When an item adds dice to an attack or increases the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|max damage level]].        
-    - When an item adds [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|Armor]] to a character.        
-    - When the duration of a useful effect is increased, such as a healing aura or a useful elemental. Number of turns +1.        
-    - The price also considers repairing or supplementing an attribute that increases damage level.        
-- **Adds an advantage = attribute x 3**    
-    - When an item adds a special feature that cannot be categorized among other items. For example, breathing underwater, fast reloading, etc.        
-    - Change in the challenge level by 1.        
-- **Increases Attributes and other points = attribute x 4**    
-    - When an item adds basic attributes [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]].        
-    - When an item adds [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]] or reduces weight.        
-    - When an item adds [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] and [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]].        
-    - When an item contains a [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk#Powerful Traits for Items\|strong trait]] without disadvantage (or with a minor advantage).       
-    - The price also considers repairing or supplementing an attribute that gives attributes or points.
-
-- If these properties give the item advantages (e.g., attack +1), the price increases.  
-- If these properties give the item a disadvantage (e.g., weapon reloads in 3 turns), the price decreases.
-
-
-</div></div>
-
-
-##### By Number of Victories (fourth option)
+##### By Number of Victories (third option)
 
 In this case, the cost of the spell is approached as if the character wants to create or upgrade an item—see [[LOREGENT/1 - ROLEPLAY/04 POINTS/RPG - Points of Items\|Points of Items]]. The victories from the roll are considered as money, which the character uses to buy the result for their spell. This can be according to the price listed above, or as determined by the narrator.
 
