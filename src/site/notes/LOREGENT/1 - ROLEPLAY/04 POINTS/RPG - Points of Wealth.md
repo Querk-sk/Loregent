@@ -29,27 +29,27 @@ If the narrator can't decide how much money a character should receive, they can
 
 ###### Item Price
 
-The price of an item is determined by its physical and magical properties (or its enchantments):
+The price of an item is determined by its physical and magical properties or enchantments:
 
-- **Adds dice to a roll ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]]) = attribute x 1**    
-    - When an item adds dice to a skill roll that results in solving a problem. This roll must not result in harming another character. If used in [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|combat]], the results can only be [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|pacifistic victory options]].        
-    - When the duration of a useful effect is increased, such as a healing aura or a useful elemental. Number of turns +1.        
-    - The price also considers repairing or supplementing an attribute that gives [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] dice to a character.        
-    - (e.g., bandage, glasses, invisibility cloak)        
-- **Related to combat (i.e., adds attack or armor) = attribute x 2**    
-    - When an item adds dice to an attack or increases the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons\|max damage level]].        
-    - When an item adds [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|Armor]] to a character.        
-    - When the duration of a useful effect is increased, such as a healing aura or a useful elemental. Number of turns +1.        
-    - The price also considers repairing or supplementing an attribute that increases damage level.        
-- **Adds an advantage = attribute x 3**    
-    - When an item adds a special feature that cannot be categorized among other items. For example, breathing underwater, fast reloading, etc.        
-    - Change in the challenge level by 1.        
-- **Increases Attributes and other points = attribute x 4**    
-    - When an item adds basic attributes [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]].        
-    - When an item adds [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]] or reduces weight.        
-    - When an item adds [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] and [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]].        
-    - When an item contains a [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk#Powerful Traits for Items\|strong trait]] without disadvantage (or with a minor advantage).       
-    - The price also considers repairing or supplementing an attribute that gives attributes or points.
+- **Adds dice to a roll ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]]) = attribute x1**    
+    - Adds dice to skill rolls that solve a problem without causing damage. If used in [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Combat\|combat]], the result can only be [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Victory levels\|pacifist options]] of victory levels.        
+    - Extends the duration of effects like a healing aura (+1 per round).        
+    - The cost includes repair or enhancement of the attribute that grants [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Dices/useful\|useful]] dice.     
+    - (Examples: bandage, glasses, invisibility cloak)
+- **Related to combat (adds attack or armor) = attribute x2**   
+    - Adds dice to an attack or increases the [[LOREGENT/1 - ROLEPLAY/05 COMBAT/RPG - Weapons#Weapon Attributes\|max damage level]].        
+    - Grants [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Armor\|armor]].        
+    - Increases [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]] of other objects (golem, wall), never a character.        
+    - Extends the duration of a combat effect (+1 round), such as poison.        
+    - The cost includes repair or enhancement of an attribute related to combat.        
+- **Adds an advantage** = **attribute x3**    
+    - Grants unique abilities that don't fit into other categories (e.g., breathing underwater, fast reloading).        
+    - Changes the [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Mechanics/Challenge Level\|Challenge Level]] by 1.        
+- **Increases attributes and other points = attribute x4**    
+    - Adds core attributes ([[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/STR\|STR]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/REF\|REF]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/INT\|INT]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Attributes/SOC\|SOC]]).        
+    - Grants [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Inventory\|Points of Inventory]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Energy\|Points of Energy]], [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Health\|Points of Health]], and [[LOREGENT/1 - ROLEPLAY/z RPG variables/variables Points/Points of Speed\|Points of Speed]].        
+    - The item has a [[LOREGENT/1 - ROLEPLAY/03 CHARACTER/enabling disabling characteristics/RPG - Perk#Powerful Traits for Items\|strong trait]] without a disadvantage.        
+    - The cost includes repair or enhancement of attributes and points.
 
 - If these properties give the item advantages (e.g., attack +1), the price increases.  
 - If these properties give the item a disadvantage (e.g., weapon reloads in 3 turns), the price decreases.

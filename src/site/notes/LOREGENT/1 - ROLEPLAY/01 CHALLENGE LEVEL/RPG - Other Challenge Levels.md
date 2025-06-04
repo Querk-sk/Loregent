@@ -319,8 +319,8 @@ When a character needs to, they can speed up their action (e.g., disarming a bom
 **In chapter** : [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 01 B - Challenge level\|RPG - CH 01 B - Challenge level]] 
 
 #### Notes linked here
-- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
 - [[LOREGENT/1 - ROLEPLAY/06 MAGIA/Rozmýšľanie nad kúzlami\|Rozmýšľanie nad kúzlami]]
+- [[LOREGENT/1 - ROLEPLAY/06 MAGIA/RPG - Cost of Magic\|RPG - Cost of Magic]]
 - [[LOREGENT/1 - ROLEPLAY/0 - BOOK and RPG CH/RPG - CH 00 - TOC\|RPG - CH 00 - TOC]]
 
 { .block-language-dataview}
